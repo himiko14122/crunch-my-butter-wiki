@@ -488,36 +488,36 @@
         "text": "What the AFK Layer Actually Does"
       },
       {
-        "id": "the-optimal-afk-state",
-        "text": "The Optimal AFK State"
+        "id": "best-state-to-leave-the-game-in",
+        "text": "Best State to Leave the Game In"
       },
       {
         "id": "best-server-position-for-afk",
         "text": "Best Server Position for AFK"
       },
       {
-        "id": "overnight-farming-routine",
-        "text": "Overnight Farming Routine"
+        "id": "bedtime-idle-plan",
+        "text": "Bedtime Idle Plan"
       },
       {
-        "id": "afk-vs-active-income-comparison",
-        "text": "AFK vs. Active Income Comparison"
+        "id": "idle-vs-active-math",
+        "text": "Idle vs Active Math"
       },
       {
-        "id": "mobile-afk-strategy",
-        "text": "Mobile AFK Strategy"
+        "id": "on-the-go-afk-strategy",
+        "text": "On-the-Go AFK Strategy"
       },
       {
-        "id": "common-afk-mistakes-to-avoid",
-        "text": "Common AFK Mistakes to Avoid"
+        "id": "idle-session-error-list",
+        "text": "Idle-Session Error List"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-afk-references",
+        "text": "Cross-Wiki AFK References"
       },
       {
-        "id": "the-afk-setup-checklist",
-        "text": "The AFK Setup Checklist"
+        "id": "idle-pre-setup-reference",
+        "text": "Idle Pre-Setup Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -542,16 +542,16 @@
         "text": "The Four-Track Progression Explained"
       },
       {
-        "id": "offline-earnings-and-the-afk-setup",
-        "text": "Offline Earnings and the AFK Setup"
+        "id": "newcomer-offline-layer",
+        "text": "Newcomer Offline Layer"
       },
       {
-        "id": "common-beginner-mistakes-to-avoid",
-        "text": "Common Beginner Mistakes to Avoid"
+        "id": "newcomer-errors",
+        "text": "Newcomer Errors"
       },
       {
-        "id": "what-comes-after-the-beginner-phase",
-        "text": "What Comes After the Beginner Phase"
+        "id": "after-the-starter",
+        "text": "After the Starter"
       },
       {
         "id": "frequently-asked-questions",
@@ -604,20 +604,20 @@
         "text": "The Cumulative Effect of Mistakes"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-mistake-links",
+        "text": "Cross-Wiki Mistake Links"
       },
       {
-        "id": "the-beginner-trap-diagnostic",
-        "text": "The Beginner Trap Diagnostic"
+        "id": "trap-diagnostic-in-depth",
+        "text": "Trap Diagnostic In Depth"
       },
       {
-        "id": "the-progression-phases-at-a-glance",
-        "text": "The Progression Phases at a Glance"
+        "id": "phase-error-cheat-sheet",
+        "text": "Phase Error Cheat Sheet"
       },
       {
-        "id": "the-habit-stack-that-compounds",
-        "text": "The Habit Stack That Compounds"
+        "id": "habit-error-stack",
+        "text": "Habit Error Stack"
       },
       {
         "id": "frequently-asked-questions",
@@ -696,8 +696,8 @@
         "text": "The Multi-Track Balance"
       },
       {
-        "id": "the-update-2-timing",
-        "text": "The Update 2 Timing"
+        "id": "speed-timing-around-update-2",
+        "text": "Speed Timing Around Update 2"
       },
       {
         "id": "the-compounding-multiplier",
@@ -708,20 +708,32 @@
         "text": "Common Fast-Progression Mistakes"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-speed-links",
+        "text": "Cross-Wiki Speed Links"
       },
       {
-        "id": "the-beginner-trap-diagnostic",
-        "text": "The Beginner Trap Diagnostic"
+        "id": "speed-trap-diagnostic",
+        "text": "Speed Trap Diagnostic"
       },
       {
-        "id": "the-progression-phases-at-a-glance",
-        "text": "The Progression Phases at a Glance"
+        "id": "speed-phase-cheat-sheet",
+        "text": "Speed Phase Cheat Sheet"
       },
       {
-        "id": "the-habit-stack-that-compounds",
-        "text": "The Habit Stack That Compounds"
+        "id": "speed-habit-stack",
+        "text": "Speed Habit Stack"
+      },
+      {
+        "id": "progression-phases-at-a-glance",
+        "text": "Progression Phases At A Glance"
+      },
+      {
+        "id": "speed-run-spending-order",
+        "text": "Speed Run Spending Order"
+      },
+      {
+        "id": "speed-run-reference",
+        "text": "Speed Run Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -804,8 +816,8 @@
         "text": "The Roblox Safety Reporting System"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-safety-links",
+        "text": "Cross-Wiki Safety Links"
       },
       {
         "id": "the-crunch-my-butter-safety-snapshot",
@@ -872,8 +884,8 @@
         "text": "Collection Sweep on Mobile"
       },
       {
-        "id": "mobile-afk-strategy",
-        "text": "Mobile AFK Strategy"
+        "id": "afk-specifically-on-mobile",
+        "text": "AFK Specifically on Mobile"
       },
       {
         "id": "battery-and-thermal-considerations",
@@ -888,8 +900,8 @@
         "text": "Common Mobile Mistakes to Avoid"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-mobile-links",
+        "text": "Cross-Wiki Mobile Links"
       },
       {
         "id": "the-mobile-layout-guide",
@@ -922,16 +934,16 @@
         "text": "Overnight Farming Routines"
       },
       {
-        "id": "mobile-afk-strategy",
-        "text": "Mobile AFK Strategy"
+        "id": "offline-earnings-on-mobile",
+        "text": "Offline Earnings on Mobile"
       },
       {
-        "id": "common-afk-mistakes-to-avoid",
-        "text": "Common AFK Mistakes to Avoid"
+        "id": "offline-mode-error-list",
+        "text": "Offline-Mode Error List"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-offline-references",
+        "text": "Cross-Wiki Offline References"
       },
       {
         "id": "the-offline-earnings-math",
@@ -976,8 +988,16 @@
         "text": "Common Progression Mistakes"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-progression-links",
+        "text": "Cross-Wiki Progression Links"
+      },
+      {
+        "id": "four-track-spending-order",
+        "text": "Four-Track Spending Order"
+      },
+      {
+        "id": "progression-phase-reference",
+        "text": "Progression Phase Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -1014,8 +1034,8 @@
         "text": "The Long-Term View"
       },
       {
-        "id": "linking-to-the-rest-of-the-wiki",
-        "text": "Linking to the Rest of the Wiki"
+        "id": "cross-wiki-script-links",
+        "text": "Cross-Wiki Script Links"
       },
       {
         "id": "the-script-risk-matrix",
@@ -1048,36 +1068,36 @@
         "text": "Red Flag 5: No Official Sources"
       },
       {
-        "id": "the-clickbait-pattern",
-        "text": "The Clickbait Pattern"
+        "id": "clickbait-mechanics-in-depth",
+        "text": "Clickbait Mechanics In Depth"
       },
       {
         "id": "the-roblox-community-standards-angle",
         "text": "The Roblox Community Standards Angle"
       },
       {
-        "id": "what-to-do-if-you-encounter-a-fake-code-list",
-        "text": "What to Do If You Encounter a Fake Code List"
+        "id": "action-plan-for-fakes",
+        "text": "Action Plan for Fakes"
       },
       {
-        "id": "the-update-2-risk-window",
-        "text": "The Update 2 Risk Window"
+        "id": "fake-list-risk-window",
+        "text": "Fake-List Risk Window"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-fake-list-risk",
+        "text": "Long View of Fake-List Risk"
       },
       {
-        "id": "the-roblox-code-redeem-lifecycle",
-        "text": "The Roblox Code Redeem Lifecycle"
+        "id": "lifecycle-fake-list-angle",
+        "text": "Lifecycle: Fake-List Angle"
       },
       {
-        "id": "the-code-status-matrix",
-        "text": "The Code Status Matrix"
+        "id": "status-fake-list-reality",
+        "text": "Status: Fake-List Reality"
       },
       {
-        "id": "the-fake-code-red-flags",
-        "text": "The Fake Code Red Flags"
+        "id": "eight-red-flags-in-depth",
+        "text": "Eight Red Flags In Depth"
       },
       {
         "id": "frequently-asked-questions",
@@ -1086,16 +1106,16 @@
     ],
     "codes:en:how-to-redeem": [
       {
-        "id": "the-standard-roblox-redeem-pattern",
-        "text": "The Standard Roblox Redeem Pattern"
+        "id": "standard-redeem-step-by-step",
+        "text": "Standard Redeem Step-by-Step"
       },
       {
-        "id": "where-the-code-box-will-likely-appear",
-        "text": "Where the Code Box Will Likely Appear"
+        "id": "code-box-location",
+        "text": "Code Box Location"
       },
       {
-        "id": "what-to-do-if-the-game-adds-codes",
-        "text": "What to Do If the Game Adds Codes"
+        "id": "when-codes-actually-drop",
+        "text": "When Codes Actually Drop"
       },
       {
         "id": "why-codes-fail-to-redeem",
@@ -1110,28 +1130,40 @@
         "text": "The Pattern Across EX10's Other Titles"
       },
       {
-        "id": "the-risk-of-fake-code-lists",
-        "text": "The Risk of Fake Code Lists"
+        "id": "fake-list-risk-when-redeeming",
+        "text": "Fake-List Risk When Redeeming"
       },
       {
         "id": "what-the-wiki-will-do-when-codes-ship",
         "text": "What the Wiki Will Do When Codes Ship"
       },
       {
-        "id": "the-bottom-line",
-        "text": "The Bottom Line"
+        "id": "redemption-bottom-line",
+        "text": "Redemption Bottom Line"
       },
       {
-        "id": "the-roblox-code-redeem-lifecycle",
-        "text": "The Roblox Code Redeem Lifecycle"
+        "id": "the-full-redeem-lifecycle",
+        "text": "The Full Redeem Lifecycle"
       },
       {
-        "id": "the-code-status-matrix",
-        "text": "The Code Status Matrix"
+        "id": "status-at-redemption-time",
+        "text": "Status at Redemption Time"
       },
       {
-        "id": "the-fake-code-red-flags",
-        "text": "The Fake Code Red Flags"
+        "id": "red-flags-redemption-context",
+        "text": "Red Flags: Redemption Context"
+      },
+      {
+        "id": "standard-roblox-redeem-pattern",
+        "text": "Standard Roblox Redeem Pattern"
+      },
+      {
+        "id": "roblox-code-redeem-pattern",
+        "text": "Roblox Code Redeem Pattern"
+      },
+      {
+        "id": "redemption-day-checklist",
+        "text": "Redemption Day Checklist"
       },
       {
         "id": "frequently-asked-questions",
@@ -1172,16 +1204,28 @@
         "text": "The Bottom Line on Codes"
       },
       {
-        "id": "the-roblox-code-redeem-lifecycle",
-        "text": "The Roblox Code Redeem Lifecycle"
+        "id": "how-the-redeem-process-would-work",
+        "text": "How the Redeem Process Would Work"
       },
       {
-        "id": "the-code-status-matrix",
-        "text": "The Code Status Matrix"
+        "id": "code-status-today",
+        "text": "Code Status Today"
       },
       {
-        "id": "the-fake-code-red-flags",
-        "text": "The Fake Code Red Flags"
+        "id": "red-flags-to-recognize",
+        "text": "Red Flags to Recognize"
+      },
+      {
+        "id": "code-status-matrix",
+        "text": "Code Status Matrix"
+      },
+      {
+        "id": "code-status-reference",
+        "text": "Code Status Reference"
+      },
+      {
+        "id": "honest-answer-patterns",
+        "text": "Honest Answer Patterns"
       },
       {
         "id": "frequently-asked-questions",
@@ -1202,8 +1246,8 @@
         "text": "How to Prepare for the Update Window"
       },
       {
-        "id": "the-risk-of-fake-code-lists",
-        "text": "The Risk of Fake Code Lists"
+        "id": "fake-list-risk-for-predicted",
+        "text": "Fake-List Risk for Predicted"
       },
       {
         "id": "the-most-likely-code-additions",
@@ -1214,20 +1258,60 @@
         "text": "What the Wiki Will Do"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-predicted-codes",
+        "text": "Long View of Predicted Codes"
       },
       {
-        "id": "the-roblox-code-redeem-lifecycle",
-        "text": "The Roblox Code Redeem Lifecycle"
+        "id": "predicted-redeem-pattern",
+        "text": "Predicted Redeem Pattern"
       },
       {
-        "id": "the-code-status-matrix",
-        "text": "The Code Status Matrix"
+        "id": "predicted-status-matrix",
+        "text": "Predicted Status Matrix"
       },
       {
-        "id": "the-fake-code-red-flags",
-        "text": "The Fake Code Red Flags"
+        "id": "red-flags-around-predicted-codes",
+        "text": "Red Flags Around Predicted Codes"
+      },
+      {
+        "id": "what-a-predicted-crunch-my-butter-code-would-reward",
+        "text": "What a Predicted Crunch My Butter Code Would Reward"
+      },
+      {
+        "id": "how-the-wiki-will-handle-a-real-code-drop",
+        "text": "How the Wiki Will Handle a Real Code Drop"
+      },
+      {
+        "id": "predicted-code-reward-profile",
+        "text": "Predicted Code Reward Profile"
+      },
+      {
+        "id": "how-to-verify-a-predicted-code-in-game",
+        "text": "How to Verify a Predicted Code In Game"
+      },
+      {
+        "id": "why-a-code-drop-is-not-guaranteed",
+        "text": "Why a Code Drop Is Not Guaranteed"
+      },
+      {
+        "id": "the-wikis-update-plan-for-update-2",
+        "text": "The Wiki's Update Plan for Update 2"
+      },
+      {
+        "id": "the-players-prep-plan-for-update-2",
+        "text": "The Player's Prep Plan for Update 2"
+      },
+      {
+        "id": "predicted-code-reward-profile",
+        "text": "Predicted Code Reward Profile"
+      },
+      {
+        "id": "predicted-reward-categories",
+        "text": "Predicted Reward Categories"
+      },
+      {
+        "id": "verification-methods",
+        "text": "Verification Methods"
       },
       {
         "id": "frequently-asked-questions",
@@ -1252,28 +1336,56 @@
         "text": "The Three Alternative Free-Reward Channels"
       },
       {
-        "id": "the-update-2-risk-window",
-        "text": "The Update 2 Risk Window"
+        "id": "risk-window-no-code-period",
+        "text": "Risk Window: No-Code Period"
       },
       {
         "id": "how-to-help-the-wiki-track-the-status",
         "text": "How to Help the Wiki Track the Status"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-code-absence",
+        "text": "Long View of Code Absence"
       },
       {
-        "id": "the-roblox-code-redeem-lifecycle",
-        "text": "The Roblox Code Redeem Lifecycle"
+        "id": "redeem-lifecycle-why-empty",
+        "text": "Redeem Lifecycle: Why Empty"
       },
       {
-        "id": "the-code-status-matrix",
-        "text": "The Code Status Matrix"
+        "id": "status-why-empty",
+        "text": "Status Why Empty"
       },
       {
-        "id": "the-fake-code-red-flags",
-        "text": "The Fake Code Red Flags"
+        "id": "red-flags-from-the-gap",
+        "text": "Red Flags From the Gap"
+      },
+      {
+        "id": "what-a-working-code-would-look-like",
+        "text": "What a Working Code Would Look Like"
+      },
+      {
+        "id": "why-the-wiki-does-not-publish-a-code-list",
+        "text": "Why the Wiki Does Not Publish a Code List"
+      },
+      {
+        "id": "the-developers-communication-style",
+        "text": "The Developer's Communication Style"
+      },
+      {
+        "id": "the-honest-comparison-to-other-simulators",
+        "text": "The Honest Comparison to Other Simulators"
+      },
+      {
+        "id": "why-no-codes-today",
+        "text": "Why No Codes Today"
+      },
+      {
+        "id": "roblox-simulator-code-pattern",
+        "text": "Roblox Simulator Code Pattern"
+      },
+      {
+        "id": "no-code-game-comparison",
+        "text": "No-Code Game Comparison"
       },
       {
         "id": "frequently-asked-questions",
@@ -1282,60 +1394,60 @@
     ],
     "butter-flavors:en:best-butter": [
       {
-        "id": "the-default-priority",
-        "text": "The Default Priority"
+        "id": "highest-roi-flavor-logic",
+        "text": "Highest-ROI Flavor Logic"
       },
       {
-        "id": "the-payback-period-estimate",
-        "text": "The Payback Period Estimate"
+        "id": "per-flavor-payback-estimate",
+        "text": "Per-Flavor Payback Estimate"
       },
       {
-        "id": "the-roller-bottleneck-check",
-        "text": "The Roller Bottleneck Check"
+        "id": "roller-capacity-for-roi",
+        "text": "Roller Capacity for ROI"
       },
       {
-        "id": "the-multiplier-effect",
-        "text": "The Multiplier Effect"
+        "id": "cash-per-crunch-multiplier-math",
+        "text": "Cash-Per-Crunch Multiplier Math"
       },
       {
-        "id": "the-flavor-tier-comparison",
-        "text": "The Flavor Tier Comparison"
+        "id": "top-flavor-side-by-side",
+        "text": "Top Flavor Side-by-Side"
       },
       {
-        "id": "the-decision-points",
-        "text": "The Decision Points"
+        "id": "high-roi-buying-crossroads",
+        "text": "High-ROI Buying Crossroads"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "compounding-over-many-sessions",
+        "text": "Compounding Over Many Sessions"
       },
       {
-        "id": "the-unlock-decision-tree",
-        "text": "The Unlock Decision Tree"
+        "id": "roi-aware-unlock-order",
+        "text": "ROI-Aware Unlock Order"
       },
       {
-        "id": "the-butter-flavor-tier-reference",
-        "text": "The Butter Flavor Tier Reference"
+        "id": "top-flavor-tier-reference",
+        "text": "Top-Flavor Tier Reference"
       },
       {
-        "id": "the-butter-vs-roller-decision-matrix",
-        "text": "The Butter vs Roller Decision Matrix"
+        "id": "best-flavor-versus-roller-math",
+        "text": "Best Flavor Versus Roller Math"
       },
       {
         "id": "frequently-asked-questions",
         "text": "Frequently Asked Questions"
       },
       {
-        "id": "the-community-feedback",
-        "text": "The Community Feedback"
+        "id": "community-views-on-top-flavor",
+        "text": "Community Views on Top Flavor"
       },
       {
         "id": "the-long-term-payback",
         "text": "The Long-Term Payback"
       },
       {
-        "id": "the-update-2-possibility",
-        "text": "The Update 2 Possibility"
+        "id": "top-flavor-after-august-1",
+        "text": "Top Flavor After August 1"
       }
     ],
     "butter-flavors:en:butter-list": [
@@ -1352,36 +1464,52 @@
         "text": "The Data Status of the Butter List"
       },
       {
-        "id": "the-roller-pairing",
-        "text": "The Roller Pairing"
+        "id": "flavor-to-roller-pairings",
+        "text": "Flavor-to-Roller Pairings"
       },
       {
-        "id": "the-income-effect",
-        "text": "The Income Effect"
+        "id": "income-per-flavor-tier",
+        "text": "Income Per Flavor Tier"
       },
       {
         "id": "the-flavor-specific-asmr-effects",
         "text": "The Flavor-Specific ASMR Effects"
       },
       {
-        "id": "the-decision-framework",
-        "text": "The Decision Framework"
+        "id": "flavor-selection-logic",
+        "text": "Flavor Selection Logic"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "all-flavors-across-the-long-game",
+        "text": "All Flavors Across the Long Game"
       },
       {
-        "id": "the-unlock-decision-tree",
-        "text": "The Unlock Decision Tree"
+        "id": "order-of-unlock-reference",
+        "text": "Order-of-Unlock Reference"
       },
       {
-        "id": "the-butter-flavor-tier-reference",
-        "text": "The Butter Flavor Tier Reference"
+        "id": "cross-flavor-reference-table",
+        "text": "Cross-Flavor Reference Table"
       },
       {
-        "id": "the-butter-vs-roller-decision-matrix",
-        "text": "The Butter vs Roller Decision Matrix"
+        "id": "flavor-vs-roller-reference",
+        "text": "Flavor vs Roller Reference"
+      },
+      {
+        "id": "flavor-tier-reference-table",
+        "text": "Flavor Tier Reference Table"
+      },
+      {
+        "id": "per-flavor-decision-matrix",
+        "text": "Per-Flavor Decision Matrix"
+      },
+      {
+        "id": "the-honest-data-gap",
+        "text": "The Honest Data Gap"
+      },
+      {
+        "id": "per-flavor-decision-matrix",
+        "text": "Per-Flavor Decision Matrix"
       },
       {
         "id": "frequently-asked-questions",
@@ -1410,24 +1538,36 @@
         "text": "The Late-Game Unlock Order"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "unlock-order-after-august-1",
+        "text": "Unlock Order After August 1"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "the-path-across-many-sessions",
+        "text": "The Path Across Many Sessions"
       },
       {
-        "id": "the-unlock-decision-tree",
-        "text": "The Unlock Decision Tree"
+        "id": "decision-tree-of-unlocks",
+        "text": "Decision Tree of Unlocks"
       },
       {
-        "id": "the-butter-flavor-tier-reference",
-        "text": "The Butter Flavor Tier Reference"
+        "id": "tier-reference-per-step",
+        "text": "Tier Reference Per Step"
       },
       {
-        "id": "the-butter-vs-roller-decision-matrix",
-        "text": "The Butter vs Roller Decision Matrix"
+        "id": "per-step-track-trade-off",
+        "text": "Per-Step Track Trade-Off"
+      },
+      {
+        "id": "stepwise-unlock-path",
+        "text": "Stepwise Unlock Path"
+      },
+      {
+        "id": "stepwise-unlock-path",
+        "text": "Stepwise Unlock Path"
+      },
+      {
+        "id": "unlock-order-reference",
+        "text": "Unlock Order Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -1438,62 +1578,90 @@
         "text": "The Tier Progression in Detail"
       },
       {
-        "id": "the-community-discussion-on-progression",
-        "text": "The Community Discussion on Progression"
+        "id": "community-path-discussion",
+        "text": "Community Path Discussion"
       },
       {
-        "id": "the-update-2-considerations-for-progression",
-        "text": "The Update 2 Considerations for Progression"
+        "id": "path-after-august-1",
+        "text": "Path After August 1"
       }
     ],
     "butter-flavors:en:butter-vs-roller": [
       {
-        "id": "the-default-priority",
-        "text": "The Default Priority"
+        "id": "flavor-vs-roller-spending-order",
+        "text": "Flavor vs Roller Spending Order"
       },
       {
-        "id": "the-roller-bottleneck-check",
-        "text": "The Roller Bottleneck Check"
+        "id": "roller-as-buying-signal",
+        "text": "Roller as Buying Signal"
       },
       {
-        "id": "the-payback-period-estimate",
-        "text": "The Payback Period Estimate"
+        "id": "cross-track-payback-math",
+        "text": "Cross-Track Payback Math"
       },
       {
         "id": "the-roi-comparison",
         "text": "The ROI Comparison"
       },
       {
-        "id": "the-multiplier-effect",
-        "text": "The Multiplier Effect"
+        "id": "multiplier-from-both-tracks",
+        "text": "Multiplier From Both Tracks"
       },
       {
-        "id": "the-decision-points",
-        "text": "The Decision Points"
+        "id": "flavor-or-roller-decision-logic",
+        "text": "Flavor or Roller: Decision Logic"
       },
       {
         "id": "the-late-game-considerations",
         "text": "The Late-Game Considerations"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "flavor-roller-after-august-1",
+        "text": "Flavor-Roller After August 1"
       },
       {
         "id": "the-long-term-view",
         "text": "The Long-Term View"
       },
       {
-        "id": "the-unlock-decision-tree",
-        "text": "The Unlock Decision Tree"
+        "id": "two-track-unlock-logic",
+        "text": "Two-Track Unlock Logic"
       },
       {
-        "id": "the-butter-flavor-tier-reference",
-        "text": "The Butter Flavor Tier Reference"
+        "id": "flavor-tier-in-trade-context",
+        "text": "Flavor Tier in Trade Context"
       },
       {
-        "id": "the-butter-vs-roller-decision-matrix",
-        "text": "The Butter vs Roller Decision Matrix"
+        "id": "spend-flavor-or-spend-roller",
+        "text": "Spend Flavor or Spend Roller"
+      },
+      {
+        "id": "the-cross-track-trade-off-in-practice",
+        "text": "The Cross-Track Trade-Off In Practice"
+      },
+      {
+        "id": "the-two-track-balance",
+        "text": "The Two-Track Balance"
+      },
+      {
+        "id": "the-roller-speed-reference",
+        "text": "The Roller Speed Reference"
+      },
+      {
+        "id": "the-cumulative-compounding-from-balance",
+        "text": "The Cumulative Compounding From Balance"
+      },
+      {
+        "id": "two-track-balance-reference",
+        "text": "Two-Track Balance Reference"
+      },
+      {
+        "id": "two-track-balance",
+        "text": "Two-Track Balance"
+      },
+      {
+        "id": "cross-track-decision-logic",
+        "text": "Cross-Track Decision Logic"
       },
       {
         "id": "frequently-asked-questions",
@@ -1514,20 +1682,20 @@
         "text": "The Upgrade Path"
       },
       {
-        "id": "the-roller-pairing",
-        "text": "The Roller Pairing"
+        "id": "roller-pair-up-for-salted",
+        "text": "Roller Pair-Up for Salted"
       },
       {
-        "id": "the-income-effect",
-        "text": "The Income Effect"
+        "id": "salted-cash-per-crunch-note",
+        "text": "Salted Cash-Per-Crunch Note"
       },
       {
-        "id": "the-decision-framework",
-        "text": "The Decision Framework"
+        "id": "salted-spending-logic",
+        "text": "Salted Spending Logic"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "starter-butter-long-horizon",
+        "text": "Starter Butter Long Horizon"
       },
       {
         "id": "the-unlock-decision-tree",
@@ -1540,6 +1708,18 @@
       {
         "id": "the-butter-vs-roller-decision-matrix",
         "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "salted-butter-specs",
+        "text": "Salted Butter Specs"
+      },
+      {
+        "id": "salted-butter-specs",
+        "text": "Salted Butter Specs"
+      },
+      {
+        "id": "starter-phase-decisions",
+        "text": "Starter Phase Decisions"
       },
       {
         "id": "frequently-asked-questions",
@@ -1560,48 +1740,48 @@
     ],
     "roller-upgrades:en:best-roller": [
       {
-        "id": "the-default-priority",
-        "text": "The Default Priority"
+        "id": "the-default-roller-recommendation",
+        "text": "The Default Roller Recommendation"
       },
       {
         "id": "the-payback-period-estimate",
         "text": "The Payback Period Estimate"
       },
       {
-        "id": "the-roller-coverage-test",
-        "text": "The Roller Coverage Test"
+        "id": "floor-coverage-by-recommended-roller",
+        "text": "Floor Coverage by Recommended Roller"
       },
       {
-        "id": "the-throughput-effect",
-        "text": "The Throughput Effect"
+        "id": "throughput-gain-across-recommended-tiers",
+        "text": "Throughput Gain Across Recommended Tiers"
       },
       {
-        "id": "the-decision-points",
-        "text": "The Decision Points"
+        "id": "when-to-pick-the-recommended-roller",
+        "text": "When to Pick the Recommended Roller"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-roller-performance-compared",
+        "text": "Late-Game Roller Performance Compared"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "how-update-2-may-shift-the-top-roller-pick",
+        "text": "How Update 2 May Shift the Top Roller Pick"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "the-long-term-roi-of-each-roller-tier",
+        "text": "The Long-Term ROI of Each Roller Tier"
       },
       {
-        "id": "the-roller-throughput-test",
-        "text": "The Roller Throughput Test"
+        "id": "throughput-score-per-roller-tier",
+        "text": "Throughput Score Per Roller Tier"
       },
       {
-        "id": "the-roller-upgrade-priority",
-        "text": "The Roller Upgrade Priority"
+        "id": "the-pick-first-roller-tier",
+        "text": "The Pick-First Roller Tier"
       },
       {
-        "id": "the-roller-vs-butter-decision",
-        "text": "The Roller vs Butter Decision"
+        "id": "why-the-first-roller-beats-the-first-butter",
+        "text": "Why the First Roller Beats the First Butter"
       },
       {
         "id": "frequently-asked-questions",
@@ -1642,24 +1822,24 @@
         "text": "The Max Roller Achievement"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-add-a-higher-max-roller",
+        "text": "Will Update 2 Add a Higher Max Roller"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "living-with-the-max-roller-in-the-long-run",
+        "text": "Living with the Max Roller in the Long Run"
       },
       {
-        "id": "the-roller-throughput-test",
-        "text": "The Roller Throughput Test"
+        "id": "max-roller-throughput-ceiling",
+        "text": "Max-Roller Throughput Ceiling"
       },
       {
-        "id": "the-roller-upgrade-priority",
-        "text": "The Roller Upgrade Priority"
+        "id": "the-final-roller-upgrade-that-sticks",
+        "text": "The Final Roller Upgrade That Sticks"
       },
       {
-        "id": "the-roller-vs-butter-decision",
-        "text": "The Roller vs Butter Decision"
+        "id": "max-roller-vs-final-butter-tradeoff",
+        "text": "Max Roller vs Final Butter Tradeoff"
       },
       {
         "id": "frequently-asked-questions",
@@ -1680,8 +1860,8 @@
     ],
     "roller-upgrades:en:roller-coverage": [
       {
-        "id": "the-roller-coverage-test",
-        "text": "The Roller Coverage Test"
+        "id": "the-coverage-diagnostic-test",
+        "text": "The Coverage Diagnostic Test"
       },
       {
         "id": "the-area-expansion-priority",
@@ -1692,32 +1872,32 @@
         "text": "The Decision Framework"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-coverage-bottlenecks",
+        "text": "Late-Game Coverage Bottlenecks"
       },
       {
         "id": "the-offline-layer-interaction",
         "text": "The Offline Layer Interaction"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "how-update-2-may-expand-roller-coverage",
+        "text": "How Update 2 May Expand Roller Coverage"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "coverage-gating-the-long-term-compounding",
+        "text": "Coverage Gating the Long-Term Compounding"
       },
       {
-        "id": "the-roller-throughput-test",
-        "text": "The Roller Throughput Test"
+        "id": "coverage-vs-throughput-tradeoff",
+        "text": "Coverage vs Throughput Tradeoff"
       },
       {
-        "id": "the-roller-upgrade-priority",
-        "text": "The Roller Upgrade Priority"
+        "id": "coverage-first-roller-priority",
+        "text": "Coverage-First Roller Priority"
       },
       {
-        "id": "the-roller-vs-butter-decision",
-        "text": "The Roller vs Butter Decision"
+        "id": "coverage-roller-vs-new-butter-layout",
+        "text": "Coverage Roller vs New Butter Layout"
       },
       {
         "id": "frequently-asked-questions",
@@ -1742,44 +1922,44 @@
         "text": "The Optimal Roller Upgrade Order"
       },
       {
-        "id": "the-roller-coverage-test",
-        "text": "The Roller Coverage Test"
+        "id": "coverage-checkpoints-across-the-order",
+        "text": "Coverage Checkpoints Across the Order"
       },
       {
-        "id": "the-roi-comparison",
-        "text": "The ROI Comparison"
+        "id": "order-roi-vs-random-upgrade-roi",
+        "text": "Order ROI vs Random Upgrade ROI"
       },
       {
-        "id": "the-throughput-effect",
-        "text": "The Throughput Effect"
+        "id": "cumulative-throughput-from-the-order",
+        "text": "Cumulative Throughput from the Order"
       },
       {
-        "id": "the-decision-points",
-        "text": "The Decision Points"
+        "id": "order-decision-points",
+        "text": "Order Decision Points"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-order-discipline",
+        "text": "Late-Game Order Discipline"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-reset-the-upgrade-order",
+        "text": "Will Update 2 Reset the Upgrade Order"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-order-discipline-that-compounds",
+        "text": "Long-Term Order Discipline That Compounds"
       },
       {
-        "id": "the-roller-throughput-test",
-        "text": "The Roller Throughput Test"
+        "id": "throughput-milestone-per-order-step",
+        "text": "Throughput Milestone Per Order Step"
       },
       {
-        "id": "the-roller-upgrade-priority",
-        "text": "The Roller Upgrade Priority"
+        "id": "the-step-by-step-roller-order",
+        "text": "The Step-by-Step Roller Order"
       },
       {
-        "id": "the-roller-vs-butter-decision",
-        "text": "The Roller vs Butter Decision"
+        "id": "roller-order-vs-butter-order-tradeoff",
+        "text": "Roller Order vs Butter Order Tradeoff"
       },
       {
         "id": "frequently-asked-questions",
@@ -1804,40 +1984,40 @@
         "text": "The Bottleneck Test"
       },
       {
-        "id": "the-roi-comparison",
-        "text": "The ROI Comparison"
+        "id": "side-by-side-roi-of-roller-vs-butter",
+        "text": "Side-by-Side ROI of Roller vs Butter"
       },
       {
         "id": "the-multiplier-effect",
         "text": "The Multiplier Effect"
       },
       {
-        "id": "the-decision-points",
-        "text": "The Decision Points"
+        "id": "the-three-decision-tests",
+        "text": "The Three Decision Tests"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-roller-vs-butter-calls",
+        "text": "Late-Game Roller-vs-Butter Calls"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-flip-the-roller-vs-butter-order",
+        "text": "Will Update 2 Flip the Roller-vs-Butter Order"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-roller-vs-butter-discipline",
+        "text": "Long-Term Roller-vs-Butter Discipline"
       },
       {
-        "id": "the-roller-throughput-test",
-        "text": "The Roller Throughput Test"
+        "id": "throughput-vs-butter-payout-comparison",
+        "text": "Throughput vs Butter Payout Comparison"
       },
       {
-        "id": "the-roller-upgrade-priority",
-        "text": "The Roller Upgrade Priority"
+        "id": "roller-vs-butter-priority-logic",
+        "text": "Roller-vs-Butter Priority Logic"
       },
       {
-        "id": "the-roller-vs-butter-decision",
-        "text": "The Roller vs Butter Decision"
+        "id": "the-roller-vs-butter-decision-framework",
+        "text": "The Roller-vs-Butter Decision Framework"
       },
       {
         "id": "frequently-asked-questions",
@@ -1846,8 +2026,8 @@
     ],
     "cash-farming:en:afk-money": [
       {
-        "id": "the-afk-rate-calculation",
-        "text": "The AFK Rate Calculation"
+        "id": "idle-rate-math",
+        "text": "Idle Rate Math"
       },
       {
         "id": "the-banked-balance-optimization",
@@ -1858,36 +2038,36 @@
         "text": "The Overnight Compounding Cycle"
       },
       {
-        "id": "the-afk-state-setup",
-        "text": "The AFK State Setup"
+        "id": "setting-up-idle-mode",
+        "text": "Setting Up Idle Mode"
       },
       {
-        "id": "the-afk-vs-active-rate-comparison",
-        "text": "The AFK vs Active Rate Comparison"
+        "id": "idle-vs-active-math",
+        "text": "Idle vs Active Math"
       },
       {
-        "id": "the-common-afk-mistakes",
-        "text": "The Common AFK Mistakes"
+        "id": "idle-errors-in-depth",
+        "text": "Idle Errors In Depth"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-idle-impact",
+        "text": "Update 2 Idle Impact"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "idle-money-over-many-sessions",
+        "text": "Idle Money Over Many Sessions"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "afk-cash-anti-pattern-diagnostic",
+        "text": "AFK Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "stacked-idle-tactics",
+        "text": "Stacked Idle Tactics"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "afk-session-length-vs-active-session-trade-off",
+        "text": "AFK Session Length vs Active Session Trade-Off"
       },
       {
         "id": "frequently-asked-questions",
@@ -1912,28 +2092,40 @@
         "text": "The Future Auto-Collect Possibility"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-and-auto-collect",
+        "text": "Update 2 and Auto-Collect"
       },
       {
         "id": "the-common-cash-flow-mistakes",
         "text": "The Common Cash Flow Mistakes"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "auto-collect-long-horizon",
+        "text": "Auto-Collect Long Horizon"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "auto-collect-anti-pattern-diagnostic",
+        "text": "Auto-Collect Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "auto-collect-cpm-stack",
+        "text": "Auto-Collect CPM Stack"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "collection-pass-trade-off-vs-logout-trade-off",
+        "text": "Collection-Pass Trade-Off vs Logout Trade-Off"
+      },
+      {
+        "id": "auto-collect-vs-manual-sweep",
+        "text": "Auto-Collect Vs Manual Sweep"
+      },
+      {
+        "id": "auto-collect-method-comparison",
+        "text": "Auto-Collect Method Comparison"
+      },
+      {
+        "id": "auto-collect-state-reference",
+        "text": "Auto-Collect State Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -1962,16 +2154,16 @@
         "text": "The Collection Sweep"
       },
       {
-        "id": "the-reinvestment-cadence",
-        "text": "The Reinvestment Cadence"
+        "id": "how-often-to-spend-down",
+        "text": "How Often to Spend Down"
       },
       {
         "id": "the-bottleneck-recognition",
         "text": "The Bottleneck Recognition"
       },
       {
-        "id": "the-cpm-calculation",
-        "text": "The CPM Calculation"
+        "id": "per-minute-cash-math",
+        "text": "Per-Minute Cash Math"
       },
       {
         "id": "the-first-hour-goal",
@@ -1982,24 +2174,36 @@
         "text": "The Common Beginner Mistakes"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-loop-impact",
+        "text": "Update 2 Loop Impact"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-the-cash-loop",
+        "text": "Long View of the Cash Loop"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "beginner-cash-anti-pattern-diagnostic",
+        "text": "Beginner Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "layered-cpm-optimization",
+        "text": "Layered CPM Optimization"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "session-length-trade-off-for-beginners",
+        "text": "Session Length Trade-Off for Beginners"
+      },
+      {
+        "id": "reinvestment-cadence",
+        "text": "Reinvestment Cadence"
+      },
+      {
+        "id": "reinvestment-cadence-reference",
+        "text": "Reinvestment Cadence Reference"
+      },
+      {
+        "id": "cash-anti-pattern-diagnostic",
+        "text": "Cash Anti-Pattern Diagnostic"
       },
       {
         "id": "frequently-asked-questions",
@@ -2028,12 +2232,12 @@
         "text": "The Collection Route"
       },
       {
-        "id": "the-reinvestment-cadence",
-        "text": "The Reinvestment Cadence"
+        "id": "speed-cadence-math",
+        "text": "Speed Cadence Math"
       },
       {
-        "id": "the-cpm-calculation",
-        "text": "The CPM Calculation"
+        "id": "raw-cpm-computation",
+        "text": "Raw CPM Computation"
       },
       {
         "id": "the-cash-floor-vs-banked-balance",
@@ -2044,24 +2248,36 @@
         "text": "The Session Length Sweet Spot"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "speed-play-after-august-1",
+        "text": "Speed Play After August 1"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-hr-floor-after-speed-phase",
+        "text": "Long-Term $/hr Floor After Speed Phase"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "speed-run-cash-anti-pattern-diagnostic",
+        "text": "Speed-Run Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "stacked-speed-tactics",
+        "text": "Stacked Speed Tactics"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "speed-run-vs-long-run-session-trade-off",
+        "text": "Speed-Run vs Long-Run Session Trade-Off"
+      },
+      {
+        "id": "raw-cpm-benchmarks",
+        "text": "Raw CPM Benchmarks"
+      },
+      {
+        "id": "cpm-by-configuration",
+        "text": "CPM By Configuration"
+      },
+      {
+        "id": "speed-session-length",
+        "text": "Speed Session Length"
       },
       {
         "id": "frequently-asked-questions",
@@ -2072,8 +2288,8 @@
         "text": "The Community Strategies on CPM"
       },
       {
-        "id": "the-future-considerations-for-cash-flow",
-        "text": "The Future Considerations for Cash Flow"
+        "id": "forward-speed-outlook",
+        "text": "Forward Speed Outlook"
       }
     ],
     "cash-farming:en:money-glitch": [
@@ -2098,24 +2314,36 @@
         "text": "The Honest Alternative"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-and-glitch-risk",
+        "text": "Update 2 and Glitch Risk"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-risk-of-glitch-only-cash-paths",
+        "text": "Long-Term Risk of Glitch-Only Cash Paths"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "glitch-vs-legit-cash-anti-pattern-diagnostic",
+        "text": "Glitch vs Legit Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "legit-stack-over-glitch",
+        "text": "Legit Stack Over Glitch"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "glitch-vs-legit-session-length-trade-off",
+        "text": "Glitch vs Legit Session Length Trade-Off"
+      },
+      {
+        "id": "glitch-categories",
+        "text": "Glitch Categories"
+      },
+      {
+        "id": "glitch-reality-check",
+        "text": "Glitch Reality Check"
+      },
+      {
+        "id": "legit-progression-path",
+        "text": "Legit Progression Path"
       },
       {
         "id": "frequently-asked-questions",
@@ -2126,12 +2354,12 @@
         "text": "The Community Strategies on Glitch"
       },
       {
-        "id": "the-future-considerations-for-cash-flow",
-        "text": "The Future Considerations for Cash Flow"
+        "id": "forward-legit-outlook",
+        "text": "Forward Legit Outlook"
       },
       {
-        "id": "the-long-term-view-on-money-glitch",
-        "text": "The Long-Term View on Money Glitch"
+        "id": "long-term-risk-of-glitch-only-cash-paths-on-money-glitch",
+        "text": "Long-Term Risk of Glitch-Only Cash Paths on Money Glitch"
       }
     ],
     "cash-farming:en:money-making-tips": [
@@ -2172,24 +2400,44 @@
         "text": "The Common Cash Farming Mistakes"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "tips-after-august-1",
+        "text": "Tips After August 1"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-discipline-of-tip-based-cash-paths",
+        "text": "Long-Term Discipline of Tip-Based Cash Paths"
       },
       {
-        "id": "the-cash-anti-pattern-diagnostic",
-        "text": "The Cash Anti-Pattern Diagnostic"
+        "id": "advanced-cash-anti-pattern-diagnostic",
+        "text": "Advanced Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "the-cash-per-minute-optimization-stack",
-        "text": "The Cash Per Minute Optimization Stack"
+        "id": "tip-stacked-cpm-gains",
+        "text": "Tip-Stacked CPM Gains"
       },
       {
-        "id": "the-session-length-trade-off",
-        "text": "The Session Length Trade-Off"
+        "id": "tips-based-session-length-trade-off",
+        "text": "Tips-Based Session Length Trade-Off"
+      },
+      {
+        "id": "tip-6-the-session-reset-pattern",
+        "text": "Tip 6: The Session Reset Pattern"
+      },
+      {
+        "id": "tip-7-the-reinvestment-threshold",
+        "text": "Tip 7: The Reinvestment Threshold"
+      },
+      {
+        "id": "five-high-value-habits",
+        "text": "Five High-Value Habits"
+      },
+      {
+        "id": "tip-impact-reference",
+        "text": "Tip Impact Reference"
+      },
+      {
+        "id": "tip-numbering-reference",
+        "text": "Tip Numbering Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -2202,8 +2450,8 @@
         "text": "The Late-Game Strategy"
       },
       {
-        "id": "the-multi-track-balance",
-        "text": "The Multi-Track Balance"
+        "id": "cross-track-equilibrium-in-late-phase",
+        "text": "Cross-Track Equilibrium In Late Phase"
       },
       {
         "id": "the-optimal-end-game-configuration",
@@ -2218,36 +2466,36 @@
         "text": "The Overnight Compounding Cycle"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-and-endgame-state",
+        "text": "Update 2 and Endgame State"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "beyond-update-2-endgame-horizon",
+        "text": "Beyond Update 2: Endgame Horizon"
       },
       {
-        "id": "the-expansion-readiness-checklist",
-        "text": "The Expansion Readiness Checklist"
+        "id": "late-tier-floor-verification",
+        "text": "Late-Tier Floor Verification"
       },
       {
-        "id": "the-expansion-decision-matrix",
-        "text": "The Expansion Decision Matrix"
+        "id": "endgame-floor-buyskip-logic",
+        "text": "Endgame Floor Buy/Skip Logic"
       },
       {
-        "id": "the-expansion-effect-on-income",
-        "text": "The Expansion Effect on Income"
+        "id": "income-lift-from-late-floors",
+        "text": "Income Lift From Late Floors"
       },
       {
         "id": "frequently-asked-questions",
         "text": "Frequently Asked Questions"
       },
       {
-        "id": "the-community-strategies-on-end-game",
-        "text": "The Community Strategies on End Game"
+        "id": "how-players-build-endgame",
+        "text": "How Players Build Endgame"
       },
       {
-        "id": "the-future-considerations-for-end-game",
-        "text": "The Future Considerations for End Game"
+        "id": "endgame-possibilities-forward",
+        "text": "Endgame Possibilities Forward"
       },
       {
         "id": "the-long-term-view-on-end-game",
@@ -2260,8 +2508,8 @@
         "text": "The Default Priority"
       },
       {
-        "id": "the-roller-coverage-test",
-        "text": "The Roller Coverage Test"
+        "id": "spare-capacity-identification",
+        "text": "Spare-Capacity Identification"
       },
       {
         "id": "the-area-expansion-priority",
@@ -2276,32 +2524,44 @@
         "text": "The Decision Points"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "high-tier-floor-buying-notes",
+        "text": "High-Tier Floor Buying Notes"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "preparing-for-the-august-1-drop",
+        "text": "Preparing for the August 1 Drop"
       },
       {
-        "id": "the-common-expansion-mistakes",
-        "text": "The Common Expansion Mistakes"
+        "id": "traps-to-dodge-when-buying-space",
+        "text": "Traps to Dodge When Buying Space"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "sustained-yield-from-floor-growth",
+        "text": "Sustained Yield From Floor Growth"
       },
       {
-        "id": "the-expansion-readiness-checklist",
-        "text": "The Expansion Readiness Checklist"
+        "id": "pre-purchase-verification-table",
+        "text": "Pre-Purchase Verification Table"
       },
       {
-        "id": "the-expansion-decision-matrix",
-        "text": "The Expansion Decision Matrix"
+        "id": "when-to-buy-vs-wait-reference",
+        "text": "When to Buy vs Wait Reference"
       },
       {
-        "id": "the-expansion-effect-on-income",
-        "text": "The Expansion Effect on Income"
+        "id": "income-shift-per-expansion-track",
+        "text": "Income Shift Per Expansion Track"
+      },
+      {
+        "id": "expansion-effect-on-income",
+        "text": "Expansion Effect On Income"
+      },
+      {
+        "id": "expansion-readiness-checklist",
+        "text": "Expansion Readiness Checklist"
+      },
+      {
+        "id": "common-expansion-mistakes",
+        "text": "Common Expansion Mistakes"
       },
       {
         "id": "frequently-asked-questions",
@@ -2322,28 +2582,40 @@
         "text": "The Strategy Reset"
       },
       {
-        "id": "the-common-mistakes-during-a-stall",
-        "text": "The Common Mistakes During a Stall"
+        "id": "mid-stall-error-list",
+        "text": "Mid-Stall Error List"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "could-update-2-break-the-stall",
+        "text": "Could Update 2 Break the Stall?"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "breaking-out-of-the-stall",
+        "text": "Breaking Out of the Stall"
       },
       {
-        "id": "the-expansion-readiness-checklist",
-        "text": "The Expansion Readiness Checklist"
+        "id": "stall-diagnostic-reference",
+        "text": "Stall Diagnostic Reference"
       },
       {
-        "id": "the-expansion-decision-matrix",
-        "text": "The Expansion Decision Matrix"
+        "id": "stall-decision-reference",
+        "text": "Stall Decision Reference"
       },
       {
-        "id": "the-expansion-effect-on-income",
-        "text": "The Expansion Effect on Income"
+        "id": "income-floor-in-a-stall",
+        "text": "Income Floor in a Stall"
+      },
+      {
+        "id": "stall-diagnostic-reference",
+        "text": "Stall Diagnostic Reference"
+      },
+      {
+        "id": "common-stalls-reference",
+        "text": "Common Stalls Reference"
+      },
+      {
+        "id": "strategy-reset-steps",
+        "text": "Strategy Reset Steps"
       },
       {
         "id": "frequently-asked-questions",
@@ -2392,24 +2664,36 @@
         "text": "The Common Progression Questions"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "could-rebirth-ship-august-1",
+        "text": "Could Rebirth Ship August 1?"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-without-reset-cycles",
+        "text": "Long View Without Reset Cycles"
       },
       {
-        "id": "the-expansion-readiness-checklist",
-        "text": "The Expansion Readiness Checklist"
+        "id": "additive-path-reference-table",
+        "text": "Additive Path Reference Table"
       },
       {
-        "id": "the-expansion-decision-matrix",
-        "text": "The Expansion Decision Matrix"
+        "id": "no-reset-spending-reference",
+        "text": "No-Reset Spending Reference"
       },
       {
-        "id": "the-expansion-effect-on-income",
-        "text": "The Expansion Effect on Income"
+        "id": "income-from-additive-path",
+        "text": "Income From Additive Path"
+      },
+      {
+        "id": "why-rebirth-is-not-confirmed",
+        "text": "Why Rebirth Is Not Confirmed"
+      },
+      {
+        "id": "three-independent-confirmations",
+        "text": "Three Independent Confirmations"
+      },
+      {
+        "id": "additive-path-benefits",
+        "text": "Additive Path Benefits"
       },
       {
         "id": "frequently-asked-questions",
@@ -2430,8 +2714,8 @@
     ],
     "expansion:en:when-to-expand": [
       {
-        "id": "the-roller-coverage-test",
-        "text": "The Roller Coverage Test"
+        "id": "is-your-roller-keeping-up",
+        "text": "Is Your Roller Keeping Up?"
       },
       {
         "id": "the-expansion-cost-analysis",
@@ -2450,32 +2734,76 @@
         "text": "The Multi-Track Balance"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-tier-floor-timing",
+        "text": "Late-Tier Floor Timing"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "august-1-expansion-possibilities",
+        "text": "August 1 Expansion Possibilities"
       },
       {
-        "id": "the-common-expansion-mistakes",
-        "text": "The Common Expansion Mistakes"
+        "id": "pitfalls-in-buying-floor-space",
+        "text": "Pitfalls in Buying Floor Space"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-horizon-floor-decisions",
+        "text": "Long-Horizon Floor Decisions"
       },
       {
-        "id": "the-expansion-readiness-checklist",
-        "text": "The Expansion Readiness Checklist"
+        "id": "buy-now-verification-reference",
+        "text": "Buy-Now Verification Reference"
       },
       {
-        "id": "the-expansion-decision-matrix",
-        "text": "The Expansion Decision Matrix"
+        "id": "spend-or-defer-comparison",
+        "text": "Spend or Defer Comparison"
       },
       {
-        "id": "the-expansion-effect-on-income",
-        "text": "The Expansion Effect on Income"
+        "id": "cpm-shift-per-floor-purchase",
+        "text": "CPM Shift Per Floor Purchase"
+      },
+      {
+        "id": "reading-the-in-game-expansion-prompt",
+        "text": "Reading the In-Game Expansion Prompt"
+      },
+      {
+        "id": "per-tier-floor-expansion-costs",
+        "text": "Per-Tier Floor Expansion Costs"
+      },
+      {
+        "id": "the-expansion-triggers-in-the-live-build",
+        "text": "The Expansion Triggers In the Live Build"
+      },
+      {
+        "id": "reading-the-in-game-expansion-prompt",
+        "text": "Reading the In-Game Expansion Prompt"
+      },
+      {
+        "id": "per-tier-floor-expansion-costs",
+        "text": "Per-Tier Floor Expansion Costs"
+      },
+      {
+        "id": "the-expansion-triggers-in-the-live-build",
+        "text": "The Expansion Triggers In the Live Build"
+      },
+      {
+        "id": "the-floor-saturation-signal",
+        "text": "The Floor Saturation Signal"
+      },
+      {
+        "id": "expansion-sizing-in-the-late-game",
+        "text": "Expansion Sizing In the Late Game"
+      },
+      {
+        "id": "expansion-decision-matrix",
+        "text": "Expansion Decision Matrix"
+      },
+      {
+        "id": "per-tier-expansion-cost-pattern",
+        "text": "Per-Tier Expansion Cost Pattern"
+      },
+      {
+        "id": "expansion-triggers",
+        "text": "Expansion Triggers"
       },
       {
         "id": "frequently-asked-questions",
@@ -2496,36 +2824,36 @@
         "text": "The Common Decision Points"
       },
       {
-        "id": "the-roi-comparison",
-        "text": "The ROI Comparison"
+        "id": "roi-comparison-of-the-top-3-upgrades",
+        "text": "ROI Comparison of the Top 3 Upgrades"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-re-ranking-of-top-upgrades",
+        "text": "Late-Game Re-Ranking of Top Upgrades"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "how-update-2-may-promote-a-new-top-upgrade",
+        "text": "How Update 2 May Promote a New Top Upgrade"
       },
       {
-        "id": "the-common-mistakes",
-        "text": "The Common Mistakes"
+        "id": "mistakes-players-make-buying-top-upgrades",
+        "text": "Mistakes Players Make Buying Top Upgrades"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "the-long-term-roi-of-the-top-3-upgrades",
+        "text": "The Long-Term ROI of the Top 3 Upgrades"
       },
       {
-        "id": "the-decision-speed-run",
-        "text": "The Decision Speed Run"
+        "id": "the-fastest-path-to-buying-the-top-3",
+        "text": "The Fastest Path to Buying the Top 3"
       },
       {
-        "id": "the-progression-track-tier-list",
-        "text": "The Progression Track Tier List"
+        "id": "the-upgrade-tier-list-per-track",
+        "text": "The Upgrade Tier List Per Track"
       },
       {
-        "id": "the-anti-pattern-tier-list",
-        "text": "The Anti-Pattern Tier List"
+        "id": "the-c-tier-upgrades-to-skip",
+        "text": "The C-Tier Upgrades to Skip"
       },
       {
         "id": "frequently-asked-questions",
@@ -2578,24 +2906,24 @@
         "text": "The Cumulative Effect"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-shift-the-mistake-tier",
+        "text": "Will Update 2 Shift the Mistake Tier"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-cost-of-common-tier-mistakes",
+        "text": "Long-Term Cost of Common Tier-Mistakes"
       },
       {
-        "id": "the-decision-speed-run",
-        "text": "The Decision Speed Run"
+        "id": "speed-run-mistakes-that-hurt-fast",
+        "text": "Speed-Run Mistakes That Hurt Fast"
       },
       {
-        "id": "the-progression-track-tier-list",
-        "text": "The Progression Track Tier List"
+        "id": "how-mistakes-map-to-track-tiers",
+        "text": "How Mistakes Map to Track Tiers"
       },
       {
-        "id": "the-anti-pattern-tier-list",
-        "text": "The Anti-Pattern Tier List"
+        "id": "the-worst-anti-patterns-by-tier",
+        "text": "The Worst Anti-Patterns by Tier"
       },
       {
         "id": "frequently-asked-questions",
@@ -2624,28 +2952,28 @@
         "text": "When Each Rank Changes"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-change-the-ranking",
+        "text": "Will Update 2 Change the Ranking"
       },
       {
         "id": "the-common-reasoning-mistakes",
         "text": "The Common Reasoning Mistakes"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-robustness-of-the-ranking",
+        "text": "Long-Term Robustness of the Ranking"
       },
       {
-        "id": "the-decision-speed-run",
-        "text": "The Decision Speed Run"
+        "id": "how-the-ranking-holds-up-at-speed",
+        "text": "How the Ranking Holds Up at Speed"
       },
       {
-        "id": "the-progression-track-tier-list",
-        "text": "The Progression Track Tier List"
+        "id": "per-track-ranking-breakdown",
+        "text": "Per-Track Ranking Breakdown"
       },
       {
-        "id": "the-anti-pattern-tier-list",
-        "text": "The Anti-Pattern Tier List"
+        "id": "where-the-anti-patterns-land-in-the-ranking",
+        "text": "Where the Anti-Patterns Land in the Ranking"
       },
       {
         "id": "frequently-asked-questions",
@@ -2662,8 +2990,8 @@
         "text": "The Bottleneck Recognition"
       },
       {
-        "id": "the-roi-comparison",
-        "text": "The ROI Comparison"
+        "id": "s-tier-vs-a-tier-roi",
+        "text": "S-Tier vs A-Tier ROI"
       },
       {
         "id": "the-multiplier-effect",
@@ -2674,32 +3002,32 @@
         "text": "The Decision Points"
       },
       {
-        "id": "the-late-game-considerations",
-        "text": "The Late-Game Considerations"
+        "id": "late-game-sa-tier-re-ranking",
+        "text": "Late-Game S/A-Tier Re-Ranking"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "will-update-2-promote-an-a-tier-to-s-tier",
+        "text": "Will Update 2 Promote an A-Tier to S-Tier"
       },
       {
-        "id": "the-common-mistakes",
-        "text": "The Common Mistakes"
+        "id": "mistakes-that-demote-s-tier-to-a-tier",
+        "text": "Mistakes That Demote S-Tier to A-Tier"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-sa-tier-stability",
+        "text": "Long-Term S/A-Tier Stability"
       },
       {
-        "id": "the-decision-speed-run",
-        "text": "The Decision Speed Run"
+        "id": "sa-tier-speed-run-order",
+        "text": "S/A-Tier Speed-Run Order"
       },
       {
-        "id": "the-progression-track-tier-list",
-        "text": "The Progression Track Tier List"
+        "id": "sa-tier-distribution-per-track",
+        "text": "S/A-Tier Distribution Per Track"
       },
       {
-        "id": "the-anti-pattern-tier-list",
-        "text": "The Anti-Pattern Tier List"
+        "id": "sa-tier-vs-anti-pattern-boundary",
+        "text": "S/A-Tier vs Anti-Pattern Boundary"
       },
       {
         "id": "frequently-asked-questions",
@@ -2732,24 +3060,24 @@
         "text": "The Common Tier List Mistakes"
       },
       {
-        "id": "the-update-2-implications",
-        "text": "The Update 2 Implications"
+        "id": "update-2-impact-on-the-overall-tier-list",
+        "text": "Update 2 Impact on the Overall Tier List"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-term-stability-of-the-tier-list",
+        "text": "Long-Term Stability of the Tier List"
       },
       {
-        "id": "the-decision-speed-run",
-        "text": "The Decision Speed Run"
+        "id": "tier-list-for-speed-run-players",
+        "text": "Tier List for Speed-Run Players"
       },
       {
-        "id": "the-progression-track-tier-list",
-        "text": "The Progression Track Tier List"
+        "id": "how-tracks-map-to-the-overall-tier-list",
+        "text": "How Tracks Map to the Overall Tier List"
       },
       {
-        "id": "the-anti-pattern-tier-list",
-        "text": "The Anti-Pattern Tier List"
+        "id": "how-anti-patterns-sit-in-the-overall-tier-list",
+        "text": "How Anti-Patterns Sit in the Overall Tier List"
       },
       {
         "id": "frequently-asked-questions",
@@ -2790,32 +3118,36 @@
         "text": "The Possible Addition: Code System"
       },
       {
-        "id": "the-common-update-questions",
-        "text": "The Common Update Questions"
+        "id": "common-new-content-questions",
+        "text": "Common New-Content Questions"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-predicted-content",
+        "text": "Long View of Predicted Content"
       },
       {
-        "id": "the-notification-setup",
-        "text": "The Notification Setup"
+        "id": "alerts-for-predicted-drop",
+        "text": "Alerts for Predicted Drop"
       },
       {
-        "id": "the-crunch-my-butter-update-timeline",
-        "text": "The Crunch My Butter Update Timeline"
+        "id": "predicted-drop-window",
+        "text": "Predicted Drop Window"
       },
       {
-        "id": "the-crunch-my-butter-live-stats-snapshot",
-        "text": "The Crunch My Butter Live Stats Snapshot"
+        "id": "live-snapshot-pre-drop",
+        "text": "Live Snapshot Pre-Drop"
+      },
+      {
+        "id": "predicted-new-content",
+        "text": "Predicted New Content"
       },
       {
         "id": "frequently-asked-questions",
         "text": "Frequently Asked Questions"
       },
       {
-        "id": "the-community-discussion-on-update-2-content",
-        "text": "The Community Discussion on Update 2 Content"
+        "id": "community-predicted-additions",
+        "text": "Community Predicted Additions"
       },
       {
         "id": "the-community-predictions",
@@ -2852,20 +3184,32 @@
         "text": "The Notable Milestones"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "release-window-long-view",
+        "text": "Release Window Long View"
       },
       {
-        "id": "the-notification-setup",
-        "text": "The Notification Setup"
+        "id": "alerts-for-release-day",
+        "text": "Alerts for Release Day"
       },
       {
-        "id": "the-crunch-my-butter-update-timeline",
-        "text": "The Crunch My Butter Update Timeline"
+        "id": "detailed-release-timeline",
+        "text": "Detailed Release Timeline"
       },
       {
-        "id": "the-crunch-my-butter-live-stats-snapshot",
-        "text": "The Crunch My Butter Live Stats Snapshot"
+        "id": "snapshot-at-release-time",
+        "text": "Snapshot at Release Time"
+      },
+      {
+        "id": "update-timeline",
+        "text": "Update Timeline"
+      },
+      {
+        "id": "notification-setup-reference",
+        "text": "Notification Setup Reference"
+      },
+      {
+        "id": "update-timeline-reference",
+        "text": "Update Timeline Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -2898,8 +3242,8 @@
         "text": "What Players Dislike"
       },
       {
-        "id": "the-comparison-to-other-simulators",
-        "text": "The Comparison to Other Simulators"
+        "id": "sentiment-vs-other-sims",
+        "text": "Sentiment vs Other Sims"
       },
       {
         "id": "the-player-sentiment",
@@ -2910,20 +3254,32 @@
         "text": "The Common Review Questions"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-player-sentiment",
+        "text": "Long View of Player Sentiment"
       },
       {
-        "id": "the-notification-setup",
-        "text": "The Notification Setup"
+        "id": "alerts-for-review-updates",
+        "text": "Alerts for Review Updates"
       },
       {
-        "id": "the-crunch-my-butter-update-timeline",
-        "text": "The Crunch My Butter Update Timeline"
+        "id": "review-activity-timeline",
+        "text": "Review Activity Timeline"
       },
       {
-        "id": "the-crunch-my-butter-live-stats-snapshot",
-        "text": "The Crunch My Butter Live Stats Snapshot"
+        "id": "live-stats-in-reviews",
+        "text": "Live Stats in Reviews"
+      },
+      {
+        "id": "sentiment-by-source",
+        "text": "Sentiment By Source"
+      },
+      {
+        "id": "comparison-to-similar-simulators",
+        "text": "Comparison To Similar Simulators"
+      },
+      {
+        "id": "sentiment-reference",
+        "text": "Sentiment Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -2968,24 +3324,36 @@
         "text": "The Genre Classification"
       },
       {
-        "id": "the-comparison-to-other-simulators",
-        "text": "The Comparison to Other Simulators"
+        "id": "crunch-my-butter-vs-others",
+        "text": "Crunch My Butter vs Others"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-the-numbers",
+        "text": "Long View of the Numbers"
       },
       {
-        "id": "the-notification-setup",
-        "text": "The Notification Setup"
+        "id": "tracking-number-changes",
+        "text": "Tracking Number Changes"
       },
       {
-        "id": "the-crunch-my-butter-update-timeline",
-        "text": "The Crunch My Butter Update Timeline"
+        "id": "numbers-across-timeline",
+        "text": "Numbers Across Timeline"
       },
       {
-        "id": "the-crunch-my-butter-live-stats-snapshot",
-        "text": "The Crunch My Butter Live Stats Snapshot"
+        "id": "live-stats-snapshot-detail",
+        "text": "Live Stats Snapshot Detail"
+      },
+      {
+        "id": "live-stats-snapshot",
+        "text": "Live Stats Snapshot"
+      },
+      {
+        "id": "comparison-to-other-simulators",
+        "text": "Comparison To Other Simulators"
+      },
+      {
+        "id": "live-stats-reference",
+        "text": "Live Stats Reference"
       },
       {
         "id": "frequently-asked-questions",
@@ -3026,24 +3394,36 @@
         "text": "The New Content Possibilities"
       },
       {
-        "id": "the-common-update-questions",
-        "text": "The Common Update Questions"
+        "id": "most-asked-update-2-questions",
+        "text": "Most-Asked Update 2 Questions"
       },
       {
-        "id": "the-long-term-view",
-        "text": "The Long-Term View"
+        "id": "long-view-of-confirmed-drop",
+        "text": "Long View of Confirmed Drop"
       },
       {
-        "id": "the-notification-setup",
-        "text": "The Notification Setup"
+        "id": "how-to-get-notified-for-drop",
+        "text": "How to Get Notified for Drop"
       },
       {
-        "id": "the-crunch-my-butter-update-timeline",
-        "text": "The Crunch My Butter Update Timeline"
+        "id": "update-2-timing-window",
+        "text": "Update 2 Timing Window"
       },
       {
-        "id": "the-crunch-my-butter-live-stats-snapshot",
-        "text": "The Crunch My Butter Live Stats Snapshot"
+        "id": "live-numbers-going-in",
+        "text": "Live Numbers Going In"
+      },
+      {
+        "id": "confirmed-update-2-details",
+        "text": "Confirmed Update 2 Details"
+      },
+      {
+        "id": "confirmed-update-2-reference",
+        "text": "Confirmed Update 2 Reference"
+      },
+      {
+        "id": "update-2-pre-event-checklist",
+        "text": "Update 2 Pre-Event Checklist"
       },
       {
         "id": "frequently-asked-questions",

@@ -6,7 +6,7 @@ const require = createRequire(import.meta.url);
 const { slug: githubSlug } = require('github-slugger');
 
 const SLUG_PREFIX = 'Crunch-My-Butter-';
-const LOCALES = ['en'];
+const LOCALES = ['en', 'th', 'es', 'pt'];
 const CONTENT_TYPES = ['guides', 'codes', 'butter-flavors', 'roller-upgrades', 'cash-farming', 'expansion', 'tier-list', 'updates'];
 const CONTENT_ROOT = path.join(process.cwd(), 'content');
 

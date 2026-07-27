@@ -3,11 +3,14 @@ import { hasLocale } from 'next-intl';
 import { routing } from './routing';
 
 import en from '@/locales/en.json';
+import th from '@/locales/th.json';
+import es from '@/locales/es.json';
+import pt from '@/locales/pt.json';
 import ko from '@/locales/ko.json';
 import ja from '@/locales/ja.json';
 import de from '@/locales/de.json';
 
-const messages = { en, ko, ja, de } as const;
+const messages = { en, th, es, pt, ko, ja, de } as const;
 
 type Messages = typeof en;
 

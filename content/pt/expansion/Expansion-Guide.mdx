@@ -1,0 +1,130 @@
+export const metadata = {
+id: "expansion-guide",
+slug: "expansion-guide",
+title: "Guia de Expansão de Crunch My Butter: Quando Aumentar o seu Piso",
+description: "Quando expandir o seu piso de manteiga no Crunch My Butter. O teste de cobertura do rolo, a prioridade de expansão e como equilibrar as quatro trilhas para obter o máximo de renda offline.",
+category: "expansion",
+image: "/images/expansion/hero.webp",
+video: "9SGjVomOWV0",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["guia de expansão crunch my butter", "crunch my butter expandir manteiga", "crunch my butter área de manteiga", "crunch my butter manteiga maior"]};
+
+A expansão em Crunch My Butter é o terceiro multiplicador de renda, e a prioridade é expandir o piso de manteiga quando o rolo tiver capacidade ociosa. Este artigo aborda o teste de cobertura do rolo, a prioridade de expansão e como equilibrar as quatro trilhas para obter o máximo de renda offline. O evento da Atualização 2 em 1 de agosto de 2026 é o ponto mais provável no ciclo de vida do jogo para o desenvolvedor adicionar novas expansões de área.
+
+A estrutura de expansão é a mesma para todos os jogadores porque o design é o mesmo para todos. A diferença está na capacidade do jogador de reconhecer a cobertura do rolo e investir na trilha que a resolve. O jogador que segue a estrutura acumula recursos mais rapidamente do que o jogador que se desvia dela.
+
+## A Prioridade Padrão
+
+A prioridade padrão é: sabor da manteiga > melhoria do rolo > expansão da área. Essa prioridade é a base da classificação de níveis S/A/B na lista de níveis (tier list) da wiki. O princípio é o mesmo, independentemente do sabor atual da manteiga ou do nível do rolo do jogador, conforme confirmado pelo instantâneo da API em tempo real de 26 de julho de 2026.
+
+A prioridade padrão se inverte quando o rolo é o gargalo ou quando o tamanho do piso é o novo teto. Se o rolo estiver limpando o piso entre os ressurgimentos (respawns) e não houver manteigas não esmagadas, o tamanho do piso é o novo teto, e o próximo investimento deve ser a expansão da área. Se o piso estiver cheio de manteiga não esmagada, o rolo é o gargalo, e o próximo investimento deve ser a próxima melhoria do rolo.
+
+A prioridade padrão também é a base da progressão de quatro trilhas. O acúmulo é mais rápido quando o jogador segue a prioridade, e mais lento quando o jogador se desvia. O jogador que segue a prioridade de forma consistente acumulará recursos mais rapidamente do que o jogador que se desvia.
+
+## Identificação de Capacidade Ociosa
+
+O teste de cobertura do rolo é a verificação simples que determina se o rolo consegue cobrir o piso atual. O teste é: se o rolo estiver limpando o piso entre os ressurgimentos e não houver manteigas não esmagadas, o rolo tem capacidade ociosa. Se o piso estiver cheio de manteiga não esmagada, o rolo é o gargalo.
+
+O teste de cobertura do rolo é a base da estrutura de decisão. O jogador que segue o teste investe na trilha que resolve o gargalo ou desbloqueia a próxima expansão. O jogador que ignora o teste investe em trilhas arbitrárias, o que gera um acúmulo mais lento.
+
+O teste de cobertura do rolo é qualitativo porque a cobertura exata do rolo não é publicada. O princípio é que o rolo deve ser capaz de acompanhar a taxa de ressurgimento da manteiga, e o piso deve estar livre de manteiga não esmagada quando o rolo estiver passando. O teste é a defesa do jogador contra o investimento excessivo na trilha errada.
+
+## A Prioridade de Expansão da Área
+
+A expansão da área é a terceira prioridade na progressão de quatro trilhas. A prioridade é: sabor da manteiga > melhoria do rolo > expansão da área. Essa prioridade é a base da classificação de níveis S/A/B na lista de níveis da wiki. O efeito de acúmulo é significativo e vale a pena priorizar durante cada sessão ativa, de acordo com a estrutura de progressão de quatro trilhas documentada na wiki.
+
+A expansão da área só faz sentido quando o rolo tem capacidade ociosa. Um piso maior que o rolo não consegue cobrir desperdiça tanto o dinheiro gasto na expansão quanto a renda ociosa que o novo piso teria gerado. O acúmulo só é significativo quando o rolo consegue esmagar a nova manteiga no novo piso.
+
+A expansão da área está no nível B (B-tier) na lista de níveis da wiki porque é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está sobrecarregado. O jogador que investe na expansão da área no momento certo acumula recursos mais rapidamente do que o jogador que investe no momento errado.
+
+## A Interação com a Camada Offline
+
+A interação com a camada offline é a relação entre a expansão da área, a melhoria do rolo e a taxa de AFK (ausente). A taxa de AFK é uma função da configuração atual do jogador, que inclui o sabor da manteiga, a melhoria do rolo e a expansão da área. Uma área maior produz uma taxa de AFK mais alta porque o servidor simula a superfície maior durante o tempo decorrido.
+
+A interação com a camada offline é a base do ciclo de acúmulo noturno. O jogador que possui uma configuração equilibrada com uma área grande, um rolo rápido e uma manteiga de nível alto acumulará mais dinheiro durante a noite do que o jogador que possui uma configuração desequilibrada. O acúmulo é mais rápido em níveis mais altos quando o jogador equilibra todas as quatro trilhas.
+
+A interação com a camada offline também é a razão pela qual a expansão da área é a terceira prioridade e não a primeira. A expansão só faz sentido quando o rolo consegue cobrir o novo piso, o que significa que a melhoria do rolo deve acontecer antes da expansão da área. A expansão é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está sobrecarregado.
+
+## Os Pontos de Decisão
+
+Os pontos de decisão são os momentos em que o jogador deve escolher entre comprar a próxima manteiga, melhorar o rolo ou expandir a área. O primeiro ponto de decisão ocorre no final da primeira sessão, quando o jogador tem dinheiro suficiente para o primeiro desbloqueio pago. O segundo ponto de decisão ocorre após a compra da primeira manteiga, quando o jogador tem dinheiro suficiente para a próxima manteiga ou para a primeira melhoria do rolo. O terceiro ponto de decisão ocorre após a primeira melhoria do rolo, quando o jogador deve decidir se estende a progressão da manteiga ou se expande a área.
+
+Os pontos de decisão são os momentos em que a taxa de acúmulo é determinada. O jogador que toma a decisão certa em cada ponto acumula recursos mais rapidamente do que o jogador que toma a decisão errada. O acúmulo é cumulativo, e é por isso que os pontos de decisão são críticos.
+
+Os pontos de decisão também são os momentos em que a estrutura de decisão da wiki é mais útil. A estrutura abrange a prioridade padrão (sabor da manteiga > melhoria do rolo > expansão da área), a regra de substituição (comprar a trilha que resolve o gargalo) e a etapa de verificação (verificar o aviso no jogo para saber o preço exato e o retorno). A estrutura é o guia do jogador para tomar a decisão certa.
+
+## Notas sobre a Compra de Pisos de Nível Alto
+
+As considerações de fim de jogo (late-game) são os fatores que importam mais em níveis mais altos. A primeira consideração é que as manteigas de nível mais alto têm durações de biscoito (cracker) mais longas, o que significa que a melhoria do rolo importa mais em níveis mais altos. A segunda consideração é que as manteigas de nível mais alto são mais caras, o que significa que a comparação de ROI (retorno sobre o investimento) muda a favor da melhoria do rolo. A terceira consideração é que a expansão da área se torna mais significativa em níveis mais altos, o que significa que vale a pena considerar a terceira trilha.
+
+As considerações de fim de jogo são a base da progressão avançada. O jogador que segue essas considerações acumulará mais recursos do que o jogador que as ignora, porque o acúmulo é mais rápido em níveis mais altos quando o jogador equilibra as quatro trilhas. O padrão é consistente com o que a wiki acompanha no instantâneo do jogo em tempo real e com o que o desenvolvedor confirma por meio da página oficial do jogo no Roblox.
+
+As considerações de fim de jogo também são a razão pela qual a lista de níveis da wiki enfatiza os fatores de fim de jogo. O nível S (S-tier) são os sabores de manteiga que se pagam rapidamente e geram um forte acúmulo. O nível A (A-tier) são as melhorias de rolo que complementam a progressão da manteiga. O nível B (B-tier) são as expansões de área que estendem o piso de manteiga quando o rolo tem capacidade ociosa.
+
+## Preparando-se para o Lançamento de 1 de Agosto
+
+O evento da Atualização 2 em 1 de agosto de 2026 é o ponto mais provável no ciclo de vida do jogo para o desenvolvedor adicionar novas expansões de área. A tag "newContent" na listagem do evento sugere novos conteúdos de progressão, que podem incluir novas expansões de área.
+
+As implicações da Atualização 2 também são a razão pela qual a wiki atualizará a lista de níveis assim que o novo conteúdo estiver visível no jogo. A wiki acompanha as alterações confirmadas, os novos nomes de expansão de área e as novas prioridades. O jogador deve confiar na wiki para obter as informações mais atualizadas.
+
+## Armadilhas a Evitar ao Comprar Espaço
+
+O erro de expansão mais comum é comprar a expansão de área antes que o rolo tenha capacidade ociosa. Um piso maior que o rolo não consegue cobrir desperdiça tanto o dinheiro gasto na expansão quanto a renda ociosa que o novo piso teria gerado. A solução é verificar o teste de cobertura do rolo antes de comprar.
+
+O segundo erro de expansão mais comum é comprar a expansão de área no nível errado. A expansão é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está sobrecarregado. A solução é reconhecer o momento certo para a expansão.
+
+O terceiro erro de expansão mais comum é ignorar completamente a expansão de área. O jogador que possui uma configuração equilibrada, mas um piso pequeno, está perdendo o acúmulo gerado pela expansão de área. A solução é expandir o piso quando o rolo tiver capacidade ociosa.
+
+## Rendimento Sustentável a partir do Crescimento do Piso
+
+A visão de longo prazo é que a expansão da área é a base da progressão de fim de jogo, e o jogador que segue a estrutura acumula recursos mais rapidamente do que o jogador que se desvia dela. A estrutura é a mesma em todos os níveis porque o design é o mesmo em todos os níveis.
+
+O eventual evento da Atualização 2 em 1 de agosto de 2026 é o ponto mais provável para o desenvolvedor adicionar novas expansões de área, o que ampliará as opções de melhoria. A wiki acompanhará o novo conteúdo assim que ele estiver visível no jogo e atualizará a lista de níveis com as novas expansões.
+
+Até lá, a resposta honesta é que o jogador deve seguir a prioridade padrão (manteiga > rolo > área), a menos que o rolo esteja sobrecarregado ou o piso esteja cheio. O acúmulo é mais rápido quando o jogador segue a estrutura, e mais lento quando se desvia dela.
+
+## Tabela de Verificação Pré-Compra
+
+## Referência de Quando Comprar vs. Esperar
+
+## Mudança de Renda por Trilha de Expansão
+
+## Efeito da Expansão na Renda
+
+| Trilha | Aumento de CPM Ativo | Aumento de CPM AFK | Condições |
+| --- | --- | --- | --- |
+| Primeira expansão | +15-25% | +10-20% | O rolo cobre a nova área |
+| Segunda expansão | +20-35% | +15-30% | Rolo de nível dois, manteiga de nível dois |
+| Expansão tardia | +30-50% | +25-45% | Ambas as trilhas saturadas |
+
+## Lista de Verificação de Prontidão para Expansão
+
+| Verificação | Condição de Aprovação | Se Falhar |
+| --- | --- | --- |
+| Cobertura do rolo | Tempo ocioso restante na varredura | Melhore o rolo primeiro |
+| Reserva de dinheiro | Acessível sem zerar o caixa | Adie por uma sessão |
+| Nível da manteiga | Passou do período de retorno | Compre a próxima manteiga primeiro |
+| Momento da sessão | Não prestes a deslogar | Termine a sessão e depois expanda |
+
+## Erros Comuns de Expansão
+
+| Erro | Sintoma | Correção |
+| --- | --- | --- |
+| Comprar antes do rolo estar pronto | Piso cheio, sem esmagamento | Execute o teste de cobertura primeiro |
+| Comprar no nível errado | Pequeno aumento | Espere pelo momento certo |
+| Pular a expansão completamente | Piso pequeno, configuração grande | Expanda quando o rolo tiver capacidade ociosa |
+
+## Perguntas Frequentes
+
+**Quando devo expandir meu piso de manteiga no Crunch My Butter?**
+
+O ROI exato não é confirmado publicamente. A regra qualitativa é que a expansão é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está sobrecarregado. O aviso no jogo mostra o preço exato e o aumento de área antes de você confirmar.
+
+**Devo expandir antes de melhorar o rolo?**
+
+Talvez. O evento da Atualização 2 está agendado para 1 de agosto de 2026 às 17:00 UTC, e a tag "newContent" sugere novos conteúdos de progressão. Novas expansões de área são prováveis, mas não confirmadas. A wiki acompanhará o novo conteúdo assim que ele estiver visível no jogo.
+
+**Qual é o ROI da expansão de área?**
+
+A expansão da área aumenta a superfície total de manteiga disponível, o que multiplica a taxa de AFK porque o servidor simula a superfície maior durante o tempo decorrido. Uma área maior produz uma taxa de AFK mais alta, o que acumula mais recursos durante a noite. Isso é consistente com o padrão de expansão verificado observado em sessões em tempo real e no instantâneo oficial da API do Roblox.

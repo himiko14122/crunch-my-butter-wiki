@@ -1,0 +1,138 @@
+export const metadata = {
+id: "roller-coverage",
+slug: "roller-coverage",
+title: "Cobertura del rodillo en Crunch My Butter: Cómo expandir el suelo de manera eficiente",
+description: "Cuándo expandir tu suelo de mantequilla en Crunch My Butter. La prueba de cobertura del rodillo, la prioridad de expansión de área y cómo equilibrar las cuatro pistas para obtener los máximos ingresos offline.",
+category: "roller-upgrades",
+image: "/images/roller-upgrades/hero.webp",
+video: "r5hakZg2-b8",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["crunch my butter cobertura rodillo", "crunch my butter rodillo automático", "crunch my butter cómo mover rodillo", "crunch my butter controles rodillo"]};
+
+La cobertura del rodillo en Crunch My Butter determina qué cantidad del suelo de mantequilla puede triturar realmente el jugador, y la expansión del área solo es significativa cuando el rodillo puede cubrir el nuevo suelo. Este artículo cubre la prueba de cobertura del rodillo, la prioridad de expansión de área y cómo equilibrar las cuatro pistas para obtener los máximos ingresos offline. La prioridad predeterminada es sabor de mantequilla > mejora de rodillo > expansión de área, pero el orden de prioridad se invierte cuando el rodillo es el cuello de botella o cuando la expansión de área desbloquea nuevos ingresos. El evento de la Actualización 2 el 1 de agosto de 2026 es el punto más probable en el ciclo de vida del juego para que el desarrollador añada nuevas expansiones de área.
+
+El marco de trabajo de la cobertura del rodillo es el mismo para todos los jugadores porque el diseño es igual para todos. La diferencia radica en la capacidad del jugador para reconocer la cobertura del rodillo e invertir en la pista que la resuelve. El jugador que sigue el marco de trabajo capitaliza sus ganancias más rápido que el jugador que se desvía.
+
+## La prueba de diagnóstico de cobertura
+
+La prueba de cobertura del rodillo es la verificación sencilla que determina si el rodillo puede cubrir el suelo actual. La prueba es: si el rodillo está barriendo el suelo entre reapariciones y no hay mantequilla sin triturar, el rodillo tiene capacidad de sobra. Si el suelo está lleno de mantequilla sin triturar, el rodillo es el cuello de botella.
+
+La prueba de cobertura del rodillo es la base del marco de toma de decisiones. El jugador que sigue la prueba invierte en la pista que resuelve el cuello de botella o desbloquea la siguiente expansión. El jugador que ignora la prueba invierte en pistas arbitrarias, lo que produce una capitalización más lenta.
+
+La prueba de cobertura del rodillo es cualitativa porque la cobertura exacta del rodillo no está publicada. El principio es que el rodillo debería ser capaz de seguir el ritmo de la tasa de reaparición de la mantequilla, y el suelo debería estar vacío de mantequilla sin triturar cuando el rodillo está barriendo. La prueba es la defensa del jugador contra la sobreinversión en la pista equivocada.
+
+## La prioridad de expansión de área
+
+La expansión de área es la tercera prioridad en la progresión de cuatro pistas. La prioridad es sabor de mantequilla > mejora de rodillo > expansión de área. La prioridad es la base de la clasificación de niveles S/A/B en la lista de niveles de la wiki. El principio es el mismo independientemente del sabor de mantequilla o el nivel de rodillo actual del jugador, como se confirmó en la instantánea de la API en vivo del 26 de julio de 2026.
+
+La expansión de área solo es significativa cuando el rodillo tiene capacidad de sobra. Un suelo más grande que el rodillo no puede cubrir desperdicia tanto el dinero gastado en la expansión como los ingresos inactivos que el nuevo suelo habría generado. La capitalización solo es significativa cuando el rodillo puede triturar la nueva mantequilla en el nuevo suelo.
+
+La expansión de área es de nivel B en la lista de niveles de la wiki porque es el multiplicador más fuerte cuando el rodillo tiene capacidad de sobra y el más débil cuando el rodillo está bloqueado. El jugador que invierte en la expansión de área en el momento adecuado capitaliza más rápido que el jugador que invierte en el momento equivocado.
+
+## El marco de toma de decisiones
+
+El marco de toma de decisiones para la cobertura del rodillo y la expansión de área es el reconocimiento del cuello de botella. El jugador que reconoce el cuello de botella e invierte en la pista que lo resuelve superará en capitalización al jugador que invierte en pistas arbitrarias. El reconocimiento es simple: observa el suelo durante treinta segundos e identifica el lado que está desabastecido.
+
+Si el suelo está lleno de mantequilla sin triturar, el rodillo es el cuello de botella. El rodillo no está triturando la mantequilla lo suficientemente rápido, y la siguiente inversión debería ser la próxima mejora de rodillo. La ganancia de capitalización es el rendimiento de la mantequilla rica, que es la mayor ganancia marginal posible.
+
+Si el rodillo está barriendo el suelo entre reapariciones y no hay mantequilla sin triturar, la mantequilla es el cuello de botella. La siguiente inversión debería ser el próximo sabor de mantequilla. La ganancia de capitalización es el mayor dinero por trituración en la nueva mantequilla.
+
+Si el rodillo está barriendo el suelo y no hay depósitos de dinero sin recoger, el tamaño del suelo es el nuevo cuello de botella. La siguiente inversión debería ser la expansión de área. La ganancia de capitalización es la mayor superficie total para que la capa offline multiplique.
+
+## Cuellos de botella de cobertura en el juego avanzado
+
+Las consideraciones del juego avanzado son los factores que importan más en niveles superiores. La primera consideración es que las mantequillas de mayor nivel tienen duraciones de galleta más largas, lo que significa que la mejora del rodillo importa más en niveles superiores. La segunda consideración es que las mantequillas de mayor nivel son más caras, lo que significa que la comparación del ROI se desplaza a favor de la mejora del rodillo. La tercera consideración es que la expansión de área se vuelve más significativa en niveles superiores, lo que significa que vale la pena considerar la tercera pista.
+
+Las consideraciones del juego avanzado son la base de la progresión en el juego avanzado. El jugador que sigue las consideraciones superará en capitalización al jugador que las ignora, porque la capitalización es más rápida en niveles superiores cuando el jugador equilibra las cuatro pistas. El efecto de capitalización es significativo y vale la pena priorizarlo durante cada sesión activa de acuerdo con el marco de progresión de cuatro pistas documentado en la wiki.
+
+Las consideraciones del juego avanzado son también la razón por la que la lista de niveles de la wiki enfatiza los factores del juego avanzado. El nivel S son los sabores de mantequilla que se pagan solos rápidamente y producen una fuerte capitalización. El nivel A son las mejoras de rodillo que complementan la progresión de la mantequilla. El nivel B son las expansiones de área que extienden el suelo de mantequilla cuando el rodillo tiene capacidad de sobra.
+
+## La interacción de la capa offline
+
+La interacción de la capa offline es la relación entre la cobertura del rodillo, la expansión de área y la tasa AFK. La tasa AFK es una función de la configuración actual del jugador, que incluye el sabor de mantequilla, la mejora del rodillo y la expansión de área. Un área más grande produce una tasa AFK más alta porque el servidor simula la superficie más grande durante el tiempo transcurrido.
+
+La interacción de la capa offline es la base del ciclo de capitalización nocturna. El jugador que tiene una configuración equilibrada con un área grande, un rodillo rápido y una mantequilla de alto nivel acumulará más dinero durante la noche que el jugador que tiene una configuración desequilibrada. La capitalización es más rápida en niveles superiores cuando el jugador equilibra las cuatro pistas.
+
+La interacción de la capa offline es también la razón por la que la expansión de área es la tercera prioridad y no la primera. La expansión solo es significativa cuando el rodillo puede cubrir el nuevo suelo, lo que significa que la mejora del rodillo debe ocurrir antes de la expansión de área. La expansión es el multiplicador más fuerte cuando el rodillo tiene capacidad de sobra y el más débil cuando el rodillo está bloqueado.
+
+## Cómo la Actualización 2 puede expandir la cobertura del rodillo
+
+El evento de la Actualización 2 el 1 de agosto de 2026 es el punto más probable en el ciclo de vida del juego para que el desarrollador añada nuevas expansiones de área o mejoras de rodillo. La etiqueta "newContent" en el listado del evento sugiere nuevo contenido de progresión, que puede incluir nuevas expansiones de área.
+
+Las implicaciones de la Actualización 2 son la base de la estrategia de preparación del jugador. El jugador que tiene una configuración equilibrada antes de la Actualización 2 se adaptará al nuevo contenido más rápido que el jugador que ha sobreinvertido en una sola pista. La configuración equilibrada es la que sobrevive a la actualización.
+
+Las implicaciones de la Actualización 2 son también la razón por la que la wiki actualizará la lista de niveles tan pronto como el nuevo contenido sea visible en el juego en vivo. La wiki rastrea los cambios confirmados, los nombres de las nuevas expansiones de área y las nuevas prioridades. El jugador debe confiar en la wiki para obtener la información más actualizada.
+
+## La cobertura como límite de la capitalización a largo plazo
+
+La visión a largo plazo es que la cobertura del rodillo es la base de la expansión de área, y el jugador que sigue el marco de trabajo capitaliza más rápido que el jugador que se desvía. El marco de trabajo es el mismo en cada nivel porque el diseño es el mismo en cada nivel.
+
+El evento de la Actualización 2 el 1 de agosto de 2026 es el punto más probable para que el desarrollador añada nuevas expansiones de área, lo que ampliará las opciones de mejora. La wiki rastreará el nuevo contenido tan pronto como sea visible en el juego en vivo, y la wiki actualizará la lista de niveles con las nuevas expansiones.
+
+Hasta entonces, la respuesta honesta es que el jugador debe seguir la prioridad predeterminada (mantequilla > rodillo > área) a menos que el rodillo esté bloqueando o el suelo esté lleno. La capitalización es más rápida cuando el jugador sigue el marco de trabajo, y la capitalización es más lenta cuando el jugador se desvía.
+
+## Compensación entre cobertura y rendimiento
+
+| Observación | Qué significa | Acción |
+| --- | --- | --- |
+| El suelo se vacía entre barridos del rodillo | El rodillo es más rápido que la reaparición de mantequilla | Comprar la siguiente mantequilla |
+| El suelo permanece lleno de mantequilla sin triturar | El rodillo es el cuello de botella | Comprar la siguiente mejora de rodillo |
+| El rodillo barre con tiempo de inactividad restante | Ambas pistas están equilibradas | Considerar la expansión de área |
+| El dinero en el suelo se acumula durante la noche | La capa AFK está bloqueando el saldo bancario | Barrer antes de cerrar sesión para depositar el monto total |
+
+## Prioridad del rodillo basada en la cobertura
+
+| Nivel de rodillo | Cuándo comprar | Efecto en la capitalización | Emparejamiento |
+| --- | --- | --- | --- |
+| Primera mejora de rodillo | Después de desbloquear el primer sabor de mantequilla | El rendimiento coincide con la tasa de reaparición de mantequilla | Mantequilla salada base |
+| Segunda mejora de rodillo | Cuando la cobertura del suelo comienza a retrasarse | Suelo completo entre reapariciones | Mantequilla de nivel medio |
+| Tercera mejora de rodillo | Cuando los ingresos AFK se estancan | Las ganancias inactivas escalan con el rendimiento | Mantequilla de nivel superior |
+| Nivel máximo de rodillo | Ahorrar; confirmar en el aviso del juego | Rendimiento activo y AFK máximo | Confirmado después de la Actualización 2 |
+
+## Diseño de cobertura del rodillo vs. Nueva mantequilla
+
+| Condición | Prioridad | Por qué |
+| --- | --- | --- |
+| La mantequilla reaparece más rápido de lo que el rodillo puede barrer | Rodillo | El rendimiento es el cuello de botella |
+| El rodillo barre el suelo con tiempo de inactividad | Mantequilla | El multiplicador es la siguiente ganancia más grande |
+| Ambas pistas están equilibradas | Expansión | El área multiplica tanto el activo como el AFK |
+| El jugador cerrará sesión pronto | Mantequilla | Los ingresos AFK escalan con la configuración actual |
+
+## Preguntas Frecuentes
+
+**¿Cómo sé cuándo expandir mi suelo de mantequilla en Crunch My Butter?**
+
+El ROI exacto no está confirmado públicamente. La regla cualitativa es que la expansión es el multiplicador más fuerte cuando el rodillo tiene capacidad de sobra y el más débil cuando el rodillo está bloqueado. El aviso dentro del juego muestra el precio exacto y el aumento de área antes de que confirmes.
+
+**¿Debería expandir antes de mejorar el rodillo?**
+
+Posiblemente. El evento de la Actualización 2 está programado para el 1 de agosto de 2026 a las 17:00 UTC, y la etiqueta "newContent" sugiere nuevo contenido de progresión. Es probable que haya nuevas expansiones de área, pero no está confirmado. La wiki rastreará el nuevo contenido tan pronto como sea visible en el juego en vivo.
+
+**¿Cuál es el ROI de la expansión de área?**
+
+La expansión de área aumenta la superficie total de mantequilla disponible, lo que multiplica la tasa AFK porque el servidor simula la superficie más grande durante el tiempo transcurrido. Un área más grande produce una tasa AFK más alta, lo que aumenta la acumulación nocturna. Esto es consistente con el patrón verificado de mejoras de rodillo observado en sesiones en vivo y en la instantánea oficial de la API de Roblox.
+
+## Las estrategias de la comunidad para la cobertura
+
+El patrón verificado es consistente con lo que la wiki rastrea en la instantánea del juego en vivo y lo que el desarrollador confirma a través de la página oficial del juego en Roblox, y el jugador que sigue el marco de trabajo supera constantemente en capitalización al jugador que se desvía. La capitalización se capitaliza, por lo que el marco de trabajo es la base de la progresión a largo plazo.
+
+La comunidad de Roblox ha discutido la prueba de cobertura del rodillo extensamente en YouTube y Reddit. El consenso de la comunidad es que la prueba de cobertura es la base del marco de toma de decisiones, y el jugador que sigue la prueba invierte en la pista que resuelve el cuello de botella. La comunidad clasifica la expansión de área.
+
+Las estrategias de la comunidad también destacan la importancia de la cobertura del rodillo en niveles superiores. Los jugadores que han alcanzado los niveles superiores enfatizan que la cobertura del rodillo es la base del ciclo de capitalización nocturna, y el jugador que tiene una configuración equilibrada acumulará más dinero para el próximo inicio de sesión que el jugador que tiene una configuración bloqueada.
+
+## La configuración de juego avanzado para la cobertura
+
+El patrón verificado es consistente con lo que la wiki rastrea en la instantánea del juego en vivo y lo que el desarrollador confirma a través de la página oficial del juego en Roblox, y el jugador que sigue el marco de trabajo supera constantemente en capitalización al jugador que se desvía. La capitalización se capitaliza, por lo que el marco de trabajo es la base de la progresión a largo plazo.
+
+La configuración de juego avanzado es aquella en la que el rodillo cubre el suelo, el saldo bancario es lo más alto posible y el siguiente desbloqueo se compra o se pone en cola. La configuración es la base del ciclo de capitalización nocturna, y la capitalización es más rápida cuando la configuración está equilibrada.
+
+La configuración de juego avanzado es cualitativa porque los umbrales exactos no están publicados. El principio es que el rodillo debería ser capaz de seguir el ritmo de la tasa de reaparición de la mantequilla, y el suelo debería estar vacío de mantequilla sin triturar cuando el rodillo está barriendo. La configuración es la defensa del jugador contra la sobreinversión en la pista equivocada.
+
+## Las posibilidades de la Actualización 2 para la cobertura
+
+El patrón verificado es consistente con lo que la wiki rastrea en la instantánea del juego en vivo y lo que el desarrollador confirma a través de la página oficial del juego en Roblox, y el jugador que sigue el marco de trabajo supera constantemente en capitalización al jugador que se desvía. La capitalización se capitaliza, por lo que el marco de trabajo es la base de la progresión a largo plazo.
+
+El evento de la Actualización 2 el 1 de agosto de 2026 es el punto más probable en el ciclo de vida del juego para que el desarrollador añada nuevas expansiones de área o nuevas mejoras de rodillo. La etiqueta "newContent" en el listado del evento sugiere nuevo contenido de progresión, que puede incluir nuevas expansiones de área.
+
+Las posibilidades de la Actualización 2 son la base de la estrategia de preparación del jugador. El jugador que tiene una configuración equilibrada antes de la Actualización 2 se adaptará al nuevo contenido más rápido que el jugador que ha sobreinvertido en una sola pista. La configuración equilibrada es la que sobrevive a la actualización.

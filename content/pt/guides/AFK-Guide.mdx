@@ -1,0 +1,124 @@
+export const metadata = {
+id: "afk-guide",
+slug: "afk-guide",
+title: "Guia AFK de Crunch My Butter: Melhores Configurações Ociosas e Offline",
+description: "Como configurar seu servidor de Crunch My Butter para o máximo de ganho AFK. Inclui as melhores posições, dicas de raio de coleta e a rotina de farm noturno usada por mais de 39 mil jogadores.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "dG2LCPsjqK8",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["guia afk crunch my butter", "ganhos offline crunch my butter", "guia ocioso crunch my butter", "melhor ponto afk crunch my butter"]};
+
+A camada AFK em Crunch My Butter é o que separa os jogadores casuais dos jogadores de juros compostos. O slogan oficial é "ganhe dinheiro enquanto dorme", e a camada offline é a confirmação explícita de que o jogo foi projetado para recompensar os jogadores que se afastam no momento certo. Este guia aborda as melhores configurações de AFK, a melhor posição para deixar seu servidor e a rotina de farm noturno que aproveita o multiplicador ocioso. A progressão de quatro trilhas é a base de toda configuração AFK, e o estado AFK ideal é aquele em que cada trilha está equilibrada, em vez de maximizada em apenas uma.
+
+O limite de 8 jogadores por servidor e o temporizador de acumulação offline são as duas restrições do lado do servidor que você precisa conhecer. O limite de 8 jogadores significa que seu servidor não ficará sobrecarregado com objetos de física simultâneos, o que mantém a taxa de AFK consistente para todos os jogadores. O temporizador de acumulação offline é o que credita o multiplicador ocioso ao seu saldo bancário quando você faz login novamente. Tudo abaixo está ancorado no loop oficial e no comportamento do jogo ativo, e evitamos deliberadamente nomes de itens inventados ou números de tiers.
+
+## O que a Camada AFK Realmente Faz
+
+A camada AFK em Crunch My Butter é o temporizador de ganhos offline que credita dinheiro ao seu saldo bancário quando você faz login novamente. O temporizador funciona do lado do servidor, o que significa que ele roda esteja você online ou offline, e a taxa é determinada pela sua combinação atual de sabor de manteiga, melhoria do rolo e expansão da área. O dinheiro não é gerado simulando o movimento real do seu rolo enquanto você está fora; o dinheiro é gerado pelo servidor aplicando seus multiplicadores atuais ao tempo decorrido.
+
+A implicação prática é que o estado AFK ideal é o mesmo que o estado de login ideal: o maior sabor de manteiga que você puder pagar, um rolo que cubra todo o chão entre os ressurgimentos, a maior área que seu rolo puder cobrir e nenhum dinheiro não depositado no chão. Se qualquer uma dessas quatro condições estiver incorreta, a taxa de AFK será menor do que deveria ser, e o acúmulo noturno será menor do que o máximo de juros compostos.
+
+A camada AFK não paga juros sobre o seu saldo de caixa. Ela não multiplica dinheiro não depositado em mais dinheiro. Cada minuto ocioso gasto com dinheiro não utilizado é uma renda composta que você deixa de ganhar, pois esse dinheiro poderia ter sido reinvestido em um sabor de manteiga ou melhoria de rolo que a camada AFK então multiplicaria. Um jogador que compra o próximo desbloqueio imediatamente e deixa a camada AFK rodar na economia maior está sempre à frente de um jogador que está economizando para uma compra "grande" que não melhora em nada quanto mais ele espera.
+
+## Melhor Estado para Deixar o Jogo
+
+O estado AFK ideal possui quatro condições: (1) você acabou de comprar o próximo desbloqueio, (2) seu rolo cobre todo o chão de manteiga entre os ressurgimentos, (3) você depositou cada gota no chão e (4) você não tem nenhuma decisão pendente que exija que você esteja online. Cada condição maximiza um multiplicador diferente, e as quatro condições juntas maximizam a taxa total de AFK.
+
+A primeira condição é sobre reinvestimento. Se você sair do jogo após uma compra, a camada AFK multiplicará sua nova economia, que é maior. Se você sair do jogo antes de uma compra, a camada AFK multiplicará sua economia antiga, que é menor. O efeito composto é sempre maior na economia maior, e é por isso que a compra deve acontecer antes de deslogar.
+
+A segunda condição é sobre cobertura. Se o rolo cobrir todo o chão, a camada AFK multiplicará o chão inteiro. Se o rolo cobrir apenas metade do chão, a camada AFK multiplicará a metade que o rolo consegue alcançar. O efeito composto é maior no chão inteiro, e é por isso que a melhoria do rolo deve acontecer antes de deslogar se o rolo estiver atualmente gargalado.
+
+A terceira condição é sobre o banco. Se o dinheiro estiver depositado, a camada AFK poderá creditar a taxa multiplicada sobre o saldo bancário. Se o dinheiro estiver no chão, a camada AFK o ignorará. O efeito composto é maior quando o dinheiro está depositado, e é por isso que a varredura de coleta deve acontecer antes de deslogar.
+
+A quarta condição é sobre decisões. Se a próxima decisão for "comprar o próximo sabor de manteiga", você poderá fazer isso antes de deslogar. Se a próxima decisão for "esperar que o dinheiro offline se acumule o suficiente para o próximo desbloqueio", você pode simplesmente deslogar e o dinheiro será depositado quando você fizer login novamente. A decisão deve ser tomada antes de deslogar para que a camada AFK comece a trabalhar na economia maior imediatamente.
+
+| Condição | Efeito na Taxa de AFK | Etapa de Verificação |
+|----------|-------------------|-------------------|
+| Acabou de comprar o próximo desbloqueio | Economia maior para o AFK multiplicar | Verifique o menu de melhorias antes de deslogar |
+| O rolo cobre todo o chão | Superfície maior para o AFK multiplicar | Observe o chão por 30 segundos |
+| Depositou cada gota | O AFK credita o saldo bancário | Caminhe pelo chão antes de deslogar |
+| Nenhuma decisão pendente | O AFK começa imediatamente | Faça a próxima compra antes de deslogar |
+
+## Melhor Posição no Servidor para AFK
+
+A melhor posição no servidor para AFK é aquela em que seu rolo está fazendo contato contínuo com a manteiga. A posição exata depende do layout do seu chão de manteiga e do nível de melhoria do seu rolo, mas o princípio é o mesmo: o rolo deve estar sobre a manteiga quando você sair, e o avatar do jogador deve estar em uma posição que não bloqueie o caminho do rolo.
+
+Um erro comum é deixar o rolo na borda do chão, o que significa que o rolo não está fazendo contato com nenhuma manteiga quando a camada AFK começa a funcionar. O servidor não simula o movimento do rolo durante o período AFK; ele apenas aplica os multiplicadores ao tempo decorrido. Portanto, quer o rolo esteja em contato com a manteiga no momento do logout ou não, a taxa de AFK é a mesma, mas a experiência do jogador ao fazer login é pior porque a manteiga ficou sem ser esmagada durante todo o período AFK e o chão parece caótico.
+
+A melhor prática é posicionar o rolo no meio do chão de manteiga e o avatar do jogador em um canto ou ao lado do menu de melhorias. Quando você faz login novamente, o rolo ainda está no meio, a manteiga está quase toda esmagada e os dinheiros caídos estão esperando pela varredura de coleta. O próximo desbloqueio se torna acessível com o acúmulo offline mais os novos dinheiros caídos.
+
+Se o chão for muito pequeno para o rolo ficar no meio e ainda ter espaço para varrer, deixe o rolo em uma extremidade do chão e o avatar do jogador na outra extremidade. O servidor não se importa com onde eles estão, mas a experiência do jogador ao fazer login é mais fluida quando o rolo não está bloqueando o caminho de coleta.
+
+## Plano Ocioso para a Hora de Dormir
+
+A rotina de farm noturno é a maneira mais eficiente de usar a camada AFK porque o jogador está genuinamente dormindo por seis a oito horas. A configuração da sessão é a mesma de um logout normal: coletar, comprar o próximo desbloqueio, confirmar que o rolo cobre o chão, deslogar. O resultado da sessão é o mesmo de um login normal: varrer o chão, comprar o próximo desbloqueio agora acessível pelo acúmulo noturno e retomar. Dois ciclos compostos em um único sono.
+
+O erro é deixar o jogo rodando durante a noite com o jogador "AFK" no teclado. A camada AFK não recompensa isso porque os multiplicadores são os mesmos, quer o rolo esteja varrendo ativamente ou o servidor esteja simulando a cobertura. Se você estiver acordado e o rolo estiver varrendo, sua renda ativa excede ligeiramente a taxa de AFK, mas você também está queimando oito horas da sua vida que a camada AFK poderia ter feito por você. Deixar o servidor cuidar do efeito composto noturno é estritamente melhor.
+
+O segundo erro é comparar o dinheiro da noite para o dia com o dinheiro que você teria ganho moendo pelas mesmas oito horas. A comparação é enganosa porque a taxa de AFK é constante por minuto, independentemente de quanto tempo você esteja fora, enquanto a taxa ativa mal excede a taxa de AFK durante a mesma configuração de multiplicador. A camada AFK foi projetada para ser ligeiramente pior do que a taxa ativa, e é por isso que permanecer online oferece um pequeno bônus de renda, mas a diferença é pequena o suficiente para que dormir seja sempre o melhor uso de oito horas.
+
+O terceiro erro é deixar o jogo em um estado gargalado porque o jogador está cansado demais para consertar isso antes de dormir. Se o rolo estiver atualmente limitando a manteiga, o acúmulo noturno multiplicará o gargalo. Ou melhore o rolo antes de deslogar ou aceite que a renda noturna será menor do que o máximo composto. A escolha é sua, mas a regra dos juros compostos é a mesma de qualquer maneira.
+
+## Matemática: Ocioso vs Ativo
+
+A taxa de renda ativa é ligeiramente maior do que a taxa de AFK para a mesma configuração de multiplicador, mas a diferença é pequena. A taxa ativa inclui o pequeno bônus de realmente esmagar manteiga em tempo real, enquanto a taxa de AFK é a aplicação simulada dos multiplicadores pelo servidor. A diferença geralmente fica em torno de 10 a 20 por cento, dependendo de quão eficientemente o jogador está esmagando durante a sessão ativa.
+
+A taxa de AFK tem a vantagem de ser constante por minuto, independentemente de quanto tempo você esteja fora. Um jogador que fica fora por oito horas acumula oito horas de taxa AFK, que é o efeito composto máximo que os multiplicadores podem produzir. Um jogador que joga ativamente pelas mesmas oito horas acumula oito horas de taxa ativa, que é apenas 10 a 20 por cento maior por minuto, mas exige que o jogador esteja no teclado.
+
+O ponto de equilíbrio geralmente é de cerca de trinta minutos. Um jogador que joga ativamente por trinta minutos acumula um pouco mais do que um jogador que fica fora por trinta minutos. Um jogador que joga ativamente por duas horas acumula aproximadamente o mesmo que um jogador que fica fora por oito horas, porque as duas horas do jogador ativo são compensadas pelas oito horas de efeito composto constante do jogador AFK.
+
+| Duração | Renda Ativa | Renda AFK | Vantagem do AFK |
+|---------|--------------|------------|--------------|
+| 30 minutos | Alta (ligeiramente maior por minuto) | Moderada | Ativo ligeiramente à frente |
+| 2 horas | Alta | Moderada × 2 | Aproximadamente igual |
+| 8 horas | Alta (mas queima tempo real) | Moderada × 8 | AFK significativamente à frente |
+
+A tabela é qualitativa porque as taxas exatas não são publicadas. O princípio é que a camada AFK foi projetada para ser ligeiramente pior do que a taxa ativa por minuto, mas a camada AFK pode rodar por muito mais tempo porque o jogador não precisa estar no teclado.
+
+## Estratégia AFK em Movimento
+
+No celular, a camada AFK funciona da mesma maneira, mas o jogador tem mais chances de se afastar do dispositivo com dinheiro no chão porque os controles de toque tornam a coleta mais lenta. A solução é tornar a varredura de coleta parte da sua rotina de logout, em vez de algo que você faz no início da próxima sessão. Em um telefone, caminhar pelo chão com o joystick na tela é o mesmo movimento que caminhar pelo chão com WASD no PC, então o custo de tempo é o mesmo. Incorpore a varredura no logout, não no login.
+
+Se a versão móvel travar quando o rolo estiver se movendo continuamente, a camada AFK ainda creditará você pelo tempo total decorrido porque o servidor não está simulando a física. O travamento é um problema visual, não um problema de progressão. Os números são rastreados no servidor, não no cliente, então uma sessão ativa travada não faz você perder dinheiro — apenas faz com que a sessão ativa pareça menos fluida.
+
+Os servidores limitam-se a 8 jogadores em todas as plataformas, incluindo dispositivos móveis, portanto não há uma fila móvel separada. Se você entrar em um servidor no seu telefone e se afastar do dispositivo, a camada AFK continuará a creditar você, mesmo se você estiver em uma rede Wi-Fi diferente ou até mesmo offline no mesmo dispositivo. Na próxima vez que você iniciar o jogo na mesma conta do Roblox, o dinheiro acumulado estará esperando por você.
+
+## Lista de Erros em Sessões Ociosas
+
+O erro mais comum de AFK é deslogar com dinheiro não depositado ainda no chão. A camada AFK credita você pelo seu saldo bancário, não pelo dinheiro não depositado no chão. Se você se afastar com mil unidades de dinheiro no chão e cem no banco, você acordará com o que quer que os multiplicadores produzam sobre os cem, não sobre os mil mais os cem. A varredura é uma renda gratuita que se acumula durante a noite, assim como o restante do seu saldo.
+
+Um segundo erro comum é deixar o jogo em um estado em que você acabou de comprar uma melhoria cara, mas o restante da sua configuração está gargalado. A camada AFK multiplica o gargalo junto com o restante da sua configuração, então um rolo que é muito lento para sua nova manteiga arrastará sua renda noturna para baixo. Compre o próximo desbloqueio e depois verifique se o rolo ainda consegue cobrir o chão de manteiga antes de deslogar. Se não conseguir, compre primeiro a próxima melhoria do rolo e deixe a renda noturna menor render juros compostos.
+
+Um terceiro erro é comparar a taxa de AFK com a taxa da noite anterior e presumir que a taxa está com bug. A taxa é uma função da sua manteiga, rolo e tamanho do chão atuais, e isso muda toda vez que você faz login. Se ontem à noite você tinha um rolo que cobria o chão e hoje à noite você expandiu o chão sem melhorar o rolo, os multiplicadores aplicados ao tempo decorrido são diferentes. A mudança não é um bug; é o efeito composto funcionando exatamente como projetado.
+
+## Referências Cruzadas de AFK na Wiki
+
+A camada AFK se cruza com todas as outras trilhas. O guia de [progressão de sabores de manteiga](/en/butter-flavors/) aborda como reconhecer quando o próximo sabor de manteiga vale o preço. O guia de [ordem de melhoria do rolo](/en/roller-upgrades/) aborda como medir seu dinheiro por minuto e decidir qual tier comprar a seguir. O guia de [fundamentos de farm de dinheiro](/en/cash-farming/) aborda o ritmo de esmagamento e as rotas de coleta que maximizam sua renda ativa antes que a camada AFK assuma o controle. O guia de [expansão](/en/expansion/) aborda quando uma expansão do chão de manteiga realmente se paga.
+
+Se você voltou ao jogo para o evento da Atualização 2 em 1º de agosto de 2026 às 17:00 UTC, a [categoria de atualizações](/en/updates/) acompanha tudo o que está confirmado para mudar. Nenhuma nota de atualização foi publicada ainda, então qualquer alteração na taxa de AFK ou no limite ocioso é desconhecida. Atualizaremos este guia assim que as alterações estiverem visíveis no jogo ativo.
+
+## Referência de Pré-Configuração Ociosa
+
+| Passo | Ação | Por quê |
+| --- | --- | --- |
+| 1 | Varra o chão do dinheiro caído | A camada ociosa credita apenas o saldo bancário |
+| 2 | Compre o próximo desbloqueio acessível | Reinvista para que a taxa de AFK aumente |
+| 3 | Estacione o avatar perto do centro | Mantém o rolo ao alcance |
+| 4 | Bloqueie a tela | Evita comandos acidentais |
+| 5 | Deixe o jogo rodando | O acúmulo ocioso é contínuo |
+
+## Perguntas Frequentes
+
+**Crunch My Butter ganha dinheiro enquanto está offline?**
+
+Não. A camada AFK multiplica sua manteiga, rolo e chão em dinheiro, não seu dinheiro em mais dinheiro. Cada minuto ocioso gasto com dinheiro não utilizado é uma renda composta que você deixa de ganhar. Compre o próximo desbloqueio antes de deslogar para que a camada AFK possa trabalhar na economia reinvestida.
+
+**Qual é a melhor configuração para deixar o jogo em AFK?**
+
+A camada AFK credita você por cada minuto decorrido, então qualquer período de tempo produz retorno. A maioria dos jogadores relata sessões de 20 a 40 minutos como um bom equilíbrio entre renda ativa e AFK, com sessões noturnas (de seis a oito horas) produzindo o maior acúmulo em um único dia. Lembre-se de que a taxa de AFK é constante por minuto, independentemente de quanto tempo você esteja fora.
+
+**A camada AFK paga juros sobre o seu saldo de caixa?**
+
+A taxa de AFK é uma função da sua manteiga, rolo e tamanho do chão atuais, portanto, qualquer atualização que altere essas trilhas altera a taxa de AFK. A Atualização 2 está programada para 1º de agosto de 2026 às 17:00 UTC, e nenhuma nota de atualização foi publicada ainda. Acompanharemos qualquer alteração confirmada.

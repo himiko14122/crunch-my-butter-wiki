@@ -1,0 +1,107 @@
+export const metadata = {
+id: "offline-earnings",
+slug: "offline-earnings",
+title: "Crunch My Butter: Ganhos Offline e Configuração AFK",
+description: "Como funciona o sistema de ganhar dinheiro enquanto dorme no Crunch My Butter, o que é transferido entre sessões e como deixar seu jogo no melhor estado AFK para obter o máximo de renda durante a noite.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "r5hakZg2-b8",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["crunch my butter ganhos offline", "guia afk crunch my butter", "crunch my butter ganhar dinheiro dormindo", "guia idle crunch my butter"]};
+
+Uma das características mais distintas do Crunch My Butter é a camada de ganhos offline, que permite que seu piso de manteiga continue gerando dinheiro enquanto você está longe do teclado. O próprio slogan do EX10 é "ganhe dinheiro enquanto dorme", o que é a confirmação explícita de que a camada ociosa (idle) foi projetada no jogo, e não é um efeito colateral. A maioria dos simuladores incrementais no Roblox possui um componente ocioso, mas a forma como o Crunch My Butter o apresenta através do loop visual do piso de manteiga faz com que os ganhos offline pareçam uma parte real do jogo, em vez de um temporizador de papel de parede. Entender exatamente como a camada offline funciona, o que é transferido entre sessões e como deixar o jogo no melhor estado AFK é a diferença entre acordar com uma pilha de dinheiro que você pode gastar imediatamente e acordar com uma pilha que você deveria ter acumulado por horas.
+
+Este guia foi escrito para jogadores que desejam entender a economia offline antes de deixarem o jogo sem supervisão pela primeira vez. Tudo abaixo está ancorado no loop oficial de jogabilidade, na progressão verificada de quatro trilhas e na observação direta da experiência ao vivo. As APIs públicas do Roblox confirmam zero Game Passes e zero emblemas, o que significa que os ganhos offline não estão bloqueados por nenhum *paywall*. Todo jogador recebe a mesma camada ociosa, e a única maneira de maximizá-la é entender como as camadas interagem.
+
+## Como funciona a camada offline
+
+O sistema de ganhos offline no Crunch My Butter acumula-se sobre o seu sabor de manteiga, melhoria de rolo e expansão de área atuais. Quando você sai do jogo, o servidor continua rastreando os multiplicadores dessas três trilhas e os credita como dinheiro na próxima vez que você fizer login. O dinheiro não é gerado simulando o movimento real do seu rolo — ele é gerado pelo servidor aplicando sua combinação atual de multiplicadores ao tempo decorrido. Isso significa que a camada offline recompensa os jogadores que melhoram ativamente, não os jogadores que deixam o jogo rodando enquanto estão AFK.
+
+A implicação prática é que a configuração ideal ao sair é a mesma configuração ideal ao entrar: você quer o maior sabor de manteiga que puder pagar, o rolo que consegue varrer todo o piso entre os *respawns* e a maior área que seu rolo pode cobrir. Se qualquer uma dessas três trilhas estiver atrasada, a camada offline multiplica o atraso em vez dos pontos fortes. Um jogador que melhora sua manteiga, mas deixa seu rolo para trás, obtém menos renda offline do que um jogador que equilibrou ambas as trilhas.
+
+| Trilha | Efeito nos Ganhos Offline | Tipo de Multiplicador |
+|-------|---------------------------|----------------|
+| Sabor de manteiga | Maior dinheiro por trituração torna-se maior dinheiro por minuto decorrido | Multiplicativo |
+| Melhoria de rolo | Maior rendimento não afeta diretamente a taxa offline | Indireto (via cobertura sustentada) |
+| Expansão de área | Piso maior multiplica o dinheiro total gerado | Multiplicativo |
+| Saldo de dinheiro | Não acumula enquanto não gasto | Nenhum |
+
+A linha de dinheiro é a que a maioria dos jogadores ignora. A camada offline não multiplica seu dinheiro não gasto. Ela não paga juros sobre seu saldo. Cada minuto ocioso que você passa com dinheiro não gasto é um rendimento acumulado que você não está ganhando, porque esse dinheiro poderia ter sido reinvestido em um sabor de manteiga ou melhoria de rolo que a camada offline multiplicaria. O modelo mental correto é que seu saldo de dinheiro é uma ferramenta, não uma conta poupança.
+
+## O que é transferido entre sessões
+
+O Crunch My Butter salva seu progresso no servidor do Roblox, então seu sabor de manteiga, melhoria de rolo, expansão de área e quaisquer outros desbloqueios persistentes são transferidos entre sessões automaticamente. O que não é transferido é o dinheiro que você deixou cair no chão sem coletar. Se você sair do teclado com dinheiro não depositado ainda no chão, a camada offline credita você pelo seu saldo depositado, mas o dinheiro não depositado no chão é perdido quando você sai. É por isso que a varredura de coleta antes de sair é inegociável.
+
+A ordem de início da sessão deve espelhar o que você deseja acumular. Primeiro, colete cada pedaço de dinheiro caído no chão. Segundo, compre o próximo desbloqueio que se torna acessível com o novo saldo. Terceiro, retome a trituração. Se você começar a triturar antes de coletar, as novas quedas de dinheiro se misturam com a pilha antiga e a camada offline credita você pelo total depositado, mas você também atrasa a compra do próximo desbloqueio pelo tempo que levou para atravessar o piso. A ordem é fundamental para o acúmulo.
+
+Jogadores que fazem login após uma longa pausa geralmente veem uma pilha de dinheiro não coletado no chão devido ao acúmulo offline, além de seu saldo anterior. O saldo combinado geralmente é suficiente para comprar dois ou três desbloqueios seguidos, que é exatamente o acúmulo que a camada offline foi projetada para oferecer. Atravesse o piso, recolha o dinheiro, abra o menu de melhorias e compre o maior desbloqueio que puder pagar antes de retomar o loop.
+
+## O melhor estado AFK para deixar o jogo
+
+O estado AFK ideal é aquele em que seu rolo consegue cobrir todo o piso de manteiga entre os *respawns* e você acabou de comprar o próximo desbloqueio. Essa combinação maximiza os multiplicadores que a camada offline aplica ao tempo decorrido. Se o rolo estiver limitado pelo tamanho do piso, a camada offline multiplica o gargalo. Se você tiver um grande saldo de dinheiro não gasto, a camada offline multiplica o restante da sua configuração, mas ignora o dinheiro. A configuração deve ser equilibrada, não maximizada em apenas uma trilha.
+
+Um erro comum de iniciante é deixar o jogo com o rolo varrendo o piso e o sabor de manteiga definido um nível abaixo do mais caro que o jogador pode pagar. O raciocínio é que o jogador quer economizar para o desbloqueio maior, mas a camada offline dará menos retorno do que se ele tivesse comprado o desbloqueio mais barato e deixado a camada offline multiplicá-lo. O acúmulo é sempre maior quando você reinveste imediatamente e deixa a camada offline trabalhar na economia reinvestida, não quando você acumula e deixa a camada offline trabalhar em uma economia menor.
+
+| Configuração | Multiplicador Offline | Recomendado? |
+|--------------|-------------------|-------------|
+| Rolo cobre o piso, próximo sabor de manteiga comprado, algum dinheiro não gasto | Alto | Sim, quase ideal |
+| Rolo cobre o piso, um nível abaixo da próxima manteiga, grande saldo de dinheiro | Médio | Não, compre o desbloqueio mais barato primeiro |
+| Rolo limitado, próxima manteiga comprada, grande saldo de dinheiro | Baixo | Não, melhore o rolo primeiro |
+| Rolo cobre o piso, área expandida demais, alguma manteiga não triturada | Baixo | Não, expanda apenas quando o rolo tiver cobertura de sobra |
+
+A tabela é deliberadamente qualitativa porque as APIs públicas confirmam zero Game Passes e zero produtos de desenvolvedor, portanto, não existe uma lista de preços publicada. Os limites exatos mudam com a Atualização 2, mas a estrutura (melhorar o lado que está causando gargalo, reinvestir imediatamente, varrer antes de sair) não muda.
+
+## Rotinas de cultivo noturno
+
+O cultivo noturno é a maneira mais eficiente de usar a camada offline, porque o jogador está genuinamente dormindo por seis a oito horas. A configuração da sessão é a mesma de um logout normal: colete, compre o próximo desbloqueio, confirme se o rolo cobre o piso, saia. O resultado da sessão é o mesmo de um login normal: varra o piso, compre o próximo desbloqueio agora tornado acessível pelo acúmulo noturno e retome. Dois ciclos de acúmulo em um sono.
+
+O erro é deixar o jogo rodando durante a noite com o jogador "AFK" no teclado. A camada offline não recompensa isso porque os multiplicadores são os mesmos, quer o rolo esteja varrendo ativamente ou o servidor esteja simulando a cobertura. Se você estiver acordado e o rolo estiver varrendo, sua renda ativa excede ligeiramente a taxa offline, mas você também está queimando oito horas da sua vida que a camada offline poderia estar fazendo por você. Deixar o servidor lidar com o acúmulo noturno é estritamente melhor.
+
+Um segundo erro é comparar o dinheiro noturno com o dinheiro que você teria ganho moendo as mesmas oito horas. A comparação é enganosa porque a taxa offline é constante por minuto, independentemente de quanto tempo você está fora, enquanto a taxa ativa mal excede a taxa offline durante a mesma configuração de multiplicador. A camada offline foi projetada para ser ligeiramente pior do que a taxa ativa, e é por isso que ficar online lhe dá uma pequena renda de bônus, mas a diferença é pequena o suficiente para que dormir seja sempre o melhor uso de oito horas.
+
+## Ganhos offline no celular
+
+No celular, a camada offline funciona da mesma maneira, mas o jogador tem mais probabilidade de se afastar do dispositivo com dinheiro no chão porque os controles de toque tornam a coleta mais lenta. A solução é tornar a varredura de coleta parte da sua rotina de logout, em vez de algo que você faz no início da próxima sessão. Em um telefone, caminhar pelo piso com o joystick na tela é o mesmo movimento que caminhar pelo piso com WASD no PC, então o custo de tempo é o mesmo. Integre a varredura ao logout, não ao login.
+
+Se a versão móvel travar quando o rolo estiver se movendo continuamente, a camada offline ainda credita você pelo tempo total decorrido, porque o servidor não está simulando a física — ele está aplicando os multiplicadores. O travamento é um problema visual, não um problema de progressão. Diminua a qualidade gráfica do Roblox para tornar a física mais suave, mas não presuma que a camada offline está pagando menos porque os visuais estão instáveis. Os números são rastreados no servidor, não no cliente.
+
+Os servidores comportam até 8 jogadores em todas as plataformas, incluindo dispositivos móveis, portanto, não há fila móvel separada. Se você entrar em um servidor no seu telefone e se afastar do dispositivo, a camada offline continuará a creditá-lo, mesmo que você esteja em uma rede Wi-Fi diferente ou até mesmo offline no mesmo dispositivo. Na próxima vez que você iniciar o jogo na mesma conta Roblox, o dinheiro acumulado estará esperando por você.
+
+## Lista de erros do modo offline
+
+O erro AFK mais comum é sair do jogo com dinheiro não depositado ainda no chão. A camada offline credita você pelo seu saldo depositado, não pelo dinheiro não depositado no chão. Se você sair com mil unidades de dinheiro no chão e cem no banco, você acorda com o que os multiplicadores produzirem sobre os cem, não sobre os mil mais os cem. A varredura é uma renda gratuita que se acumula durante a noite, assim como o restante do seu saldo, então torne-a parte da rotina.
+
+Um segundo erro comum é deixar o jogo em um estado em que você acabou de comprar uma melhoria cara, mas o restante da sua configuração está com gargalos. A camada offline multiplica o gargalo junto com o restante da sua configuração, então um rolo que é muito lento para sua nova manteiga reduzirá sua renda noturna. Compre o próximo desbloqueio e verifique se o rolo ainda consegue cobrir o piso de manteiga antes de sair. Se não conseguir, compre a próxima melhoria de rolo primeiro e deixe a renda noturna menor acumular.
+
+Um terceiro erro é comparar a taxa offline com a taxa da noite anterior e presumir que a taxa está com defeito. A taxa é uma função do seu sabor de manteiga, rolo e tamanho do piso atuais, e eles mudam toda vez que você faz login. Se na noite passada você tinha um rolo que cobria o piso e hoje à noite você expandiu o piso sem melhorar o rolo, os multiplicadores aplicados ao tempo decorrido são diferentes. A mudança não é um erro; é o acúmulo funcionando exatamente como projetado.
+
+## Referências cruzadas da Wiki offline
+
+O sistema de ganhos offline é o quarto pilar da progressão de quatro trilhas e cruza com todas as outras trilhas. O guia de [progressão de sabor de manteiga](/en/butter-flavors/) aborda como reconhecer quando o próximo sabor de manteiga vale o seu preço. O guia de [ordem de melhoria de rolo](/en/roller-upgrades/) aborda como medir seu dinheiro por minuto e decidir qual nível comprar a seguir. O guia de [noções básicas de cultivo de dinheiro](/en/cash-farming/) aborda o ritmo de trituração e as rotas de coleta que maximizam sua renda ativa antes que a camada offline assuma o controle. O guia de [expansão](/en/expansion/) aborda quando uma expansão de piso de manteiga realmente se paga em renda offline.
+
+Se você voltou ao jogo para o evento da Atualização 2 em 1 de agosto de 2026, às 17:00 UTC, a [categoria de atualizações](/en/updates/) rastreia tudo o que está confirmado para mudar. Nenhuma nota de patch foi publicada ainda, portanto, qualquer alteração na taxa offline ou no limite ocioso é desconhecida. Atualizaremos a análise de ganhos offline assim que as alterações estiverem visíveis no jogo ao vivo.
+
+## A matemática dos ganhos offline
+
+| Variável | Efeito | Notas |
+| --- | --- | --- |
+| Saldo depositado | Multiplica o pagamento AFK | Banco maior = AFK maior |
+| Sabor de manteiga | Multiplica o pagamento AFK | Nível mais alto = taxa mais alta |
+| Nível do rolo | Multiplica o rendimento AFK | Nível mais alto = mais manteiga triturada por minuto |
+| Tempo fora | Acumula a taxa | Mais tempo fora = mais dinheiro |
+| Varredura do piso no logout | Determina o saldo depositado | Pular = AFK perdido |
+
+## Perguntas Frequentes
+
+**O Crunch My Butter ganha dinheiro enquanto offline?**
+
+Sim. A camada offline multiplica sua manteiga, rolo e piso em dinheiro. Ela não multiplica seu dinheiro em mais dinheiro. Cada minuto ocioso gasto com dinheiro não gasto é um rendimento acumulado que você não está ganhando. Compre o próximo desbloqueio antes de sair para que a camada offline possa trabalhar na economia reinvestida.
+
+**Qual é a melhor configuração para deixar o jogo para ganhos offline?**
+
+A camada offline credita você por cada minuto decorrido, então qualquer período de tempo produz retorno. A maioria dos jogadores relata sessões de 20 a 40 minutos como um bom compromisso entre renda ativa e offline, com sessões noturnas (seis a oito horas) produzindo o maior acúmulo em um único dia. A taxa offline é constante por minuto, independentemente de quanto tempo você está fora.
+
+**A camada offline paga juros sobre meu saldo de dinheiro?**
+
+Não. A taxa offline é uma função do seu sabor de manteiga, rolo e tamanho do piso atuais, portanto, qualquer atualização que altere essas trilhas altera a taxa offline. A Atualização 2 está agendada para 1 de agosto de 2026, às 17:00 UTC, e nenhuma nota de patch foi publicada ainda. Rastrearemos qualquer alteração confirmada.

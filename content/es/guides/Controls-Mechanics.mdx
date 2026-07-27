@@ -1,0 +1,119 @@
+export const metadata = {
+id: "controls-and-mechanics",
+slug: "controls-and-mechanics",
+title: "Controles y mecánicas de Crunch My Butter explicados",
+description: "Desglose completo de cómo funcionan las mecánicas de crujido, rodillo y recolección en Crunch My Butter. Controles para PC y móviles, las cuatro vías de progresión y la física detrás del agrietamiento de la mantequilla.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "AQsC8VMVu8g",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["controles de crunch my butter", "crunch my butter cómo crujir mantequilla", "juego crunch my butter explicado", "crunch my butter cómo funciona"]};
+
+Crunch My Butter parece un juguete ASMR de un solo botón cuando entras por primera vez, pero bajo la superficie el juego ejecuta cuatro vías de progresión entrelazadas con una quinta capa inactiva (idle) en la parte superior. Esta guía desglosa exactamente cómo funciona cada mecánica, qué hacen realmente los controles y por qué el orden en el que activas cada mecánica es importante para tu acumulación. Ninguna de las mecánicas a continuación es inventada, ya que las API públicas de Roblox confirman el bucle descrito en la descripción oficial del juego, y la progresión de cuatro vías es la descomposición natural de ese bucle.
+
+La descripción oficial nombra el bucle en cinco palabras: crujir, recolectar, desbloquear, mejorar, expandir. Cada una de esas palabras corresponde a una mecánica específica, y cada mecánica tiene un esquema de control y una vía de progresión. Comprender el esquema de control te indica cómo activar la mecánica. Comprender la vía de progresión te indica por qué deberías activarla. Juntas forman todo el juego.
+
+## Mecánica de crujido: Cómo se agrieta la mantequilla
+
+La mecánica de crujido es el acto de presionar una mantequilla con tu rodillo hasta que su capa exterior se agriete. El crujido de la capa es el sonido ASMR característico del juego, y las etiquetas oficiales de Roblox incluyen Crunchy (Crujiente) y Squishy (Esponjoso), que juntas describen la doble sensación: la capa exterior se rompe con dureza mientras que la mantequilla interior se deforma suavemente. Esta física de doble sensación es lo que hace que el bucle se sienta satisfactorio en lugar de simplemente mecánico.
+
+Por el lado de la física, el rodillo mantiene el contacto con la mantequilla durante una duración que depende del nivel (tier) de la mantequilla. Una mantequilla salada inicial (Starter Salted Butter) se agrieta en aproximadamente uno o dos segundos de contacto continuo, mientras que las mantequillas de niveles superiores requieren un contacto más prolongado. El contacto más prolongado es la razón por la cual las mantequillas de mayor nivel pagan más dinero por crujido: estás invirtiendo más tiempo de rodillo por caída, y el juego recompensa esa inversión con un pago mayor. Es por esto que la mejora del rodillo importa en los niveles superiores; un rodillo más rápido puede crujir la misma mantequilla en menos tiempo real, multiplicando el dinero efectivo por minuto.
+
+El control en PC son las teclas WASD para dirigir el rodillo, con el ratón o un mando para apuntar. En móviles, el joystick en pantalla mueve el rodillo. El esquema de control es idéntico para cada nivel de mantequilla y cada mejora de rodillo, lo que significa que la habilidad del jugador que se acumula es el ritmo y el patrón del barrido, no la destreza del control.
+
+| Nivel de mantequilla | Tiempo aproximado de agrietamiento | Caída de dinero relativa |
+|-------------|------------------------|-------------------|
+| Mantequilla salada inicial | 1–2 segundos | Línea base |
+| Segundo sabor de mantequilla | 2–3 segundos | Mayor que la inicial |
+| Tercer sabor de mantequilla | 3–4 segundos | Mayor que la segunda |
+| Niveles superiores | Más tiempo | Mayor que la anterior |
+
+Los números exactos no están publicados y se estiman a partir de la observación. El patrón cualitativo es consistente: un mayor tiempo de contacto produce mayores caídas de dinero, y la mejora del rodillo acorta el tiempo de contacto efectivo por caída de dinero. El principio es el mismo independientemente del sabor de mantequilla actual del jugador o del nivel del rodillo, como lo confirma la captura de la API en vivo del 26 de julio de 2026.
+
+## Mecánica de recolección: Recoger el dinero tirado
+
+La mecánica de recolección es el acto de caminar sobre el dinero tirado para recogerlo. El contador de dinero aumenta a medida que recolectas, y el saldo bancario es lo que el menú de mejoras utiliza para determinar la asequibilidad. El dinero tirado permanece en el suelo hasta que se recolecta, lo que significa que el barrido de recolección es una acción separada de la acción de crujir y no un efecto secundario automático.
+
+En PC, el barrido de recolección consiste simplemente en caminar por el suelo con las teclas WASD. En móviles, el barrido de recolección consiste simplemente en caminar por el suelo con el joystick en pantalla. El esquema de control es el mismo que el movimiento del rodillo, lo que significa que no hay una segunda superficie de control que aprender. La única diferencia es la intención: el rodillo se dirige hacia la mantequilla y el avatar del jugador camina sobre el dinero.
+
+El barrido de recolección importa porque la capa sin conexión (offline) te acredita por tu saldo bancario, no por el dinero no recolectado en el suelo. Si te alejas del teclado con mil unidades de dinero en el suelo y cien en el banco, te despertarás con lo que los multiplicadores produzcan sobre las cien, no sobre las mil más las cien. El barrido es un ingreso gratuito que se acumula de la noche a la mañana.
+
+Si el juego en vivo introduce alguna vez una mejora del radio de auto-recolección, el barrido de recolección será menos crítico para el suelo inmediatamente alrededor del jugador. Hasta entonces, el barrido manual es la única forma de depositar el dinero. El radio de recolección y cualquier mejora de auto-recolección se confirmarán en un parche futuro o en el lanzamiento de la Actualización 2.
+
+## Mecánica de desbloqueo: Comprar la siguiente mantequilla
+
+La mecánica de desbloqueo es el acto de comprar el siguiente sabor de mantequilla cuando el aviso del juego lo permita. El aviso muestra el precio exacto y el pago antes de confirmar, para que puedas ver cuánto costará el desbloqueo y cuánto dinero por crujido ganarás después. El aviso es la interfaz canónica para la mecánica de desbloqueo, y es el único lugar en el juego donde se muestra el precio de un sabor de mantequilla específico.
+
+La regla de decisión para la mecánica de desbloqueo es sencilla. Si el siguiente sabor de mantequilla es asequible y tu mantequilla actual es el cuello de botella de tu flujo de caja, cómpralo. Si tu rodillo actual es el cuello de botella, ahorra para la mejora del rodillo en su lugar. El precio exacto por nivel de mantequilla no está publicado, pero el aviso del juego lo hace visible en el momento de la compra.
+
+La mecánica de desbloqueo es el multiplicador de ingresos principal en el juego. EX10 describe el bucle como "desbloquear mejor mantequilla", lo que hace que el nivel de sabor sea la palanca más grande que puedes mover en el dinero por crujido. Una nueva mantequilla que paga aproximadamente el doble de lo que paga tu sabor actual duplicará tus ingresos efectivos de cada pasada de rodillo subsiguiente, lo que supera con creces la ganancia de rendimiento de una sola mejora de rodillo en la misma franja de precio.
+
+## Mecánica de mejora: Rendimiento del rodillo
+
+La mecánica de mejora es el acto de comprar la siguiente mejora de rodillo cuando el aviso del juego lo permita. La mejora del rodillo multiplica el rendimiento, que es la cantidad de mantequilla que puedes crujir por minuto. Un rodillo más rápido puede barrer el suelo más veces por minuto, lo que significa más contactos con la mantequilla por minuto, lo que se traduce en más caídas de dinero por minuto.
+
+La regla de decisión para la mecánica de mejora es el reflejo de la mecánica de desbloqueo. Si tu mantequilla actual es el cuello de botella y el rodillo está barriendo el suelo entre reapariciones, ahorra para el siguiente sabor de mantequilla. Si tu mantequilla actual está generando más dinero del que el rodillo puede barrer, compra la mejora del rodillo. Observar el suelo durante treinta segundos te dirá qué lado está desabastecido.
+
+La mejora del rodillo es el multiplicador de ingresos secundario. El rodillo no multiplica directamente el dinero por crujido; multiplica el número de crujidos por minuto. La acumulación ocurre cuando el rodillo más rápido se combina con un sabor de mantequilla más rico, por lo que la mejora se evalúa mejor en el contexto del nivel de mantequilla actual.
+
+| Estado de decisión | Comprar esto a continuación | Por qué |
+|---------------|--------------|-----|
+| Suelo lleno de mantequilla sin crujir | Mejora de rodillo | El rendimiento es el cuello de botella |
+| El rodillo barre el suelo entre reapariciones | Siguiente sabor de mantequilla | El ingreso por crujido es el cuello de botella |
+| Ambos se mantienen al día el uno con el otro | Expansión de área | El tamaño del suelo es el nuevo límite |
+| Gran saldo de dinero sin gastar | Lo que sea que se desbloquee a continuación | Los minutos inactivos con dinero sin gastar se desperdician |
+
+## Mecánica de expansión: Agrandar el suelo de mantequilla
+
+La mecánica de expansión es el acto de comprar un suelo de mantequilla más grande cuando el aviso del juego lo permita. La expansión multiplica la superficie total de mantequilla disponible, lo que multiplica tanto el dinero activo por minuto (porque se puede crujir más mantequilla a la vez) como el dinero sin conexión por minuto (porque la capa sin conexión multiplica la superficie más grande). La expansión es la tercera vía de progresión y la que la mayoría de los jugadores ignoran.
+
+La regla de decisión para la mecánica de expansión es la más fácil: solo expande una vez que tu rodillo pueda cubrir la nueva área. Un suelo más grande que el rodillo no puede cubrir desperdicia tanto el dinero gastado en la expansión como los ingresos inactivos que el nuevo suelo habría generado. La acumulación de la expansión solo es significativa cuando el rodillo tiene capacidad de sobra para crujir realmente la nueva mantequilla.
+
+EX10 describe la expansión como el quinto paso en el bucle oficial ("expande tu mantequilla"), lo cual es la confirmación explícita de que la expansión es parte de la progresión y no un cosmético opcional. La vía de expansión es una sólida B en la lista de niveles, detrás de los desbloqueos de mantequilla (S) y las mejoras de rodillo (A), porque la expansión es el multiplicador más fuerte de los tres cuando el rodillo tiene capacidad de sobra y el más débil cuando el rodillo es el cuello de botella.
+
+## Mecánica inactiva (Idle): La capa de ganancias sin conexión
+
+La mecánica inactiva es la capa de ganancias sin conexión que acredita dinero a tu saldo bancario mientras estás fuera del juego. El eslogan oficial es "gana dinero mientras duermes", lo que confirma que la capa existe. La tasa sin conexión es una función de tu mantequilla actual, rodillo y tamaño del suelo, y el servidor acredita el dinero acumulado la próxima vez que inicies sesión.
+
+La mecánica inactiva es la cuarta vía y la que recompensa la acumulación a largo plazo. Los jugadores que equilibran las otras tres vías y dejan que la capa inactiva funcione de la noche a la mañana se despiertan con una pila de dinero y un desbloqueo adquirible aún mayor. Los jugadores que abandonan el juego con dinero no depositado o una configuración con cuellos de botella se despiertan con una acumulación menor porque la capa inactiva multiplica la configuración más débil.
+
+La mecánica inactiva es la razón por la que importa la progresión de cuatro vías. Cada vía contribuye al multiplicador sin conexión, y las vías interactúan de forma multiplicativa. Un jugador con una mantequilla fuerte, un rodillo fuerte y un suelo fuerte obtiene más ingresos sin conexión que un jugador con una mantequilla fuerte pero un rodillo débil y un suelo pequeño, aunque ambos jugadores tengan "una vía fuerte". La acumulación está en el equilibrio, no en el pico.
+
+## Cómo interactúan las mecánicas
+
+Las cuatro mecánicas (crujido, recolección, desbloqueo, mejora) más la capa inactiva forman un único bucle de acumulación. La mecánica de crujido genera caídas de dinero, la mecánica de recolección deposita esas caídas, la mecánica de desbloqueo reinvierte el saldo bancario en sabor de mantequilla, la mecánica de mejora reinvierte el saldo bancario en rendimiento del rodillo y la mecánica inactiva multiplica el resultado mientras estás fuera. Cada paso alimenta al siguiente, y la única forma de romper el bucle es dejar un paso sin completar.
+
+La ruptura más común es olvidar el barrido de recolección. Las caídas de dinero en el suelo no se depositan hasta que se recolectan, y la capa inactiva no acredita el dinero no depositado. Un jugador que cruje durante treinta minutos y olvida barrer el suelo se va con el mismo saldo bancario con el que empezó, lo cual es el peor resultado de acumulación posible. El barrido de recolección es el seguro más barato contra el error más común.
+
+La segunda ruptura más común es invertir en una vía que ya es fuerte mientras se ignora una vía que es débil. Un jugador que tiene un rodillo rápido pero un suelo pequeño tiene un cuello de botella por el tamaño del suelo, y comprar otra mejora de rodillo desperdicia la acumulación porque el rodillo ya cubre más mantequilla de la que tiene el suelo. El cuello de botella debe identificarse y resolverse antes de que el bucle se acumule a toda velocidad.
+
+## Qué viene después
+
+La guía de mecánicas es la base para el resto de la wiki. La [guía para principiantes](/en/beginner-guide/) cubre cómo ejecutar el bucle en el orden correcto durante tu primera sesión. La guía de [progresión de sabores de mantequilla](/en/butter-flavors/) cubre la mecánica de desbloqueo en profundidad. La guía de [orden de mejora del rodillo](/en/roller-upgrades/) cubre la mecánica de mejora en profundidad. La guía de [conceptos básicos del cultivo de dinero](/en/cash-farming/) cubre las mecánicas de crujido y recolección en profundidad. La guía de [ganancias sin conexión](/en/offline-earnings/) cubre la mecánica inactiva en profundidad.
+
+Si regresaste al juego para el evento de la Actualización 2 el 1 de agosto de 2026 a las 17:00 UTC, la [categoría de actualizaciones](/en/updates/) realiza un seguimiento de todo lo que se confirma que cambiará. Aún no se han publicado notas del parche, por lo que se desconoce cualquier cambio en las cuatro mecánicas. Actualizaremos esta guía tan pronto como los cambios sean visibles en el juego en vivo.
+
+## Referencia rápida de controles
+
+| Acción | PC | Móvil | Consola |
+| --- | --- | --- | --- |
+| Mover avatar | WASD | Joystick izquierdo | Joystick izquierdo |
+| Barrer rodillo | Arrastrar ratón | Arrastrar pulgar derecho | Gatillo derecho |
+| Abrir menú de mejoras | E o hacer clic en el botón | Tocar icono de mejora | Botón sur |
+| Alternar cámara | Arrastrar botón derecho del ratón | Pellizcar con dos dedos | Joystick derecho |
+| Salir al menú | Escape | Gesto de volver | Botón de menú |
+
+## Preguntas Frecuentes
+
+**¿Cuál es la mecánica principal en Crunch My Butter?**
+
+Usa el joystick en pantalla para dirigir el rodillo en barridos continuos. Los toques cortos producen movimientos cortos del rodillo, lo que genera menos contactos con la mantequilla. El ritmo óptimo en móviles es un barrido lento y continuo en un patrón ovalado o en forma de ocho, similar a cómo una Roomba navega por una habitación.
+
+**¿Cómo controlo el rodillo en PC?**
+
+No. La capa sin conexión multiplica tu mantequilla, rodillo y suelo en dinero, no tu dinero en más dinero. Cada minuto inactivo que pasas con dinero sin gastar es un ingreso acumulado que no estás ganando. Compra el siguiente desbloqueo antes de cerrar sesión para que la capa sin conexión pueda trabajar en la economía reinvertida.
+
+**¿Cómo controlo el rodillo en móviles?**
+
+Las teclas de movimiento estándar de Roblox (WASD) dirigen el rodillo, y las teclas de interacción estándar de Roblox funcionan en los avisos del juego. El juego no publica una lista de teclas de acceso rápido, pero la documentación oficial de Roblox cubre el esquema de movimiento estándar. No hay ninguna tecla de acceso rápido para auto-crujido o auto-recolección en la versión actual.

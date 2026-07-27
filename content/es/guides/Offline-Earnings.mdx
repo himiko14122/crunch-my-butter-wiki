@@ -1,0 +1,107 @@
+export const metadata = {
+id: "offline-earnings",
+slug: "offline-earnings",
+title: "Ganancias sin conexión y configuración AFK en Crunch My Butter",
+description: "Cómo funciona el sistema de ganar dinero mientras duermes en Crunch My Butter, qué se transfiere entre sesiones y cómo dejar tu juego en el mejor estado AFK para obtener los máximos ingresos durante la noche.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "r5hakZg2-b8",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["ganancias sin conexión crunch my butter", "guía afk crunch my butter", "ganar dinero mientras duermes crunch my butter", "guía idle crunch my butter"]};
+
+Una de las características más distintivas de Crunch My Butter es la capa de ganancias sin conexión que permite que tu suelo de mantequilla siga generando dinero mientras estás lejos del teclado. El propio eslogan de EX10 es "gana dinero mientras duermes", lo cual es la confirmación explícita de que la capa inactiva (idle) está diseñada desde el principio y no es un efecto secundario. La mayoría de los simuladores incrementales en Roblox tienen un componente inactivo, pero la forma en que Crunch My Butter lo presenta a través del bucle visual del suelo de mantequilla hace que las ganancias sin conexión se sientan como una parte real del juego en lugar de un temporizador de fondo de pantalla. Entender exactamente cómo funciona la capa sin conexión, qué se transfiere entre sesiones y cómo dejar el juego en el mejor estado AFK es la diferencia entre despertarse con una pila de dinero que puedes gastar inmediatamente y despertarse con una pila que deberías haber estado ganando durante horas.
+
+Esta guía está escrita para jugadores que quieren entender la economía sin conexión antes de dejar el juego desatendido por primera vez. Todo lo que aparece a continuación se basa en el bucle de juego oficial, la progresión verificada de cuatro vías y la observación directa de la experiencia en vivo. Las API públicas de Roblox confirman que no hay Game Passes ni insignias, lo que significa que las ganancias sin conexión no están bloqueadas detrás de ningún muro de pago. Todos los jugadores obtienen la misma capa inactiva, y la única forma de maximizarla es entender cómo interactúan las capas.
+
+## Cómo funciona la capa sin conexión
+
+El sistema de ganancias sin conexión en Crunch My Butter se acumula sobre tu sabor de mantequilla, mejora de rodillo y expansión de área actuales. Cuando abandonas el juego, el servidor sigue rastreando los multiplicadores de esas tres vías y los acredita como dinero la próxima vez que inicies sesión. El dinero no se genera simulando el movimiento real de tu rodillo, sino que se genera mediante el servidor aplicando tu combinación actual de multiplicadores al tiempo transcurrido. Eso significa que la capa sin conexión recompensa a los jugadores que mejoran activamente, no a los jugadores que dejan el juego ejecutándose mientras están AFK.
+
+La implicación práctica es que la configuración óptima al cerrar sesión es la misma que la óptima al iniciar sesión: quieres el mayor sabor de mantequilla que puedas permitirte, el rodillo que pueda barrer todo el suelo entre reapariciones y el área más grande que tu rodillo pueda cubrir. Si alguna de esas tres vías se queda atrás, la capa sin conexión multiplica el retraso en lugar de las fortalezas. Un jugador que mejora su mantequilla pero descuida su rodillo obtiene menos ingresos sin conexión que un jugador que equilibró ambas vías.
+
+| Vía | Efecto en las ganancias sin conexión | Tipo de multiplicador |
+|-------|---------------------------|----------------|
+| Sabor de mantequilla | Mayor dinero por crujido se convierte en mayor dinero por minuto transcurrido | Multiplicativo |
+| Mejora de rodillo | Un mayor rendimiento no afecta directamente la tasa sin conexión | Indirecto (vía cobertura sostenida) |
+| Expansión de área | Un suelo más grande multiplica el dinero total generado | Multiplicativo |
+| Saldo de dinero | No se acumula mientras permanece sin gastar | Ninguno |
+
+La fila del dinero es la que más jugadores pasan por alto. La capa sin conexión no multiplica tu dinero sin gastar. No paga intereses sobre tu saldo. Cada minuto inactivo que pasas con dinero sin gastar es un ingreso compuesto que no estás obteniendo, porque ese dinero podría haberse reinvertido en un sabor de mantequilla o una mejora de rodillo que la capa sin conexión multiplicaría. El modelo mental correcto es que tu saldo de dinero es una herramienta, no una cuenta de ahorros.
+
+## Qué se transfiere entre sesiones
+
+Crunch My Butter guarda tu progreso en el servidor de Roblox, por lo que tu sabor de mantequilla, mejora de rodillo, expansión de área y cualquier otro desbloqueo persistente se transfieren entre sesiones automáticamente. Lo que no se transfiere es el dinero que dejaste caer en el suelo sin recoger. Si te alejas del teclado con dinero sin depositar todavía en el suelo, la capa sin conexión te acredita por tu saldo depositado, pero el dinero sin depositar en el suelo se pierde cuando cierras sesión. Es por esto que el barrido de recolección antes de cerrar sesión no es negociable.
+
+El orden de inicio de sesión debe reflejar lo que quieres que se acumule. Primero, recoge cada pieza de dinero caído en el suelo. Segundo, compra el siguiente desbloqueo que sea asequible con el nuevo saldo. Tercero, reanuda el crujido. Si empiezas a crujir antes de recoger, las nuevas caídas de dinero se mezclan con la pila vieja y la capa sin conexión te acredita por el total depositado, pero también retrasas la compra del siguiente desbloqueo por el tiempo que tardaste en cruzar el suelo. El orden es acumulación.
+
+Los jugadores que inician sesión después de un largo descanso a menudo ven una pila de dinero sin recoger en el suelo proveniente de la acumulación sin conexión más su saldo anterior. El saldo combinado suele ser suficiente para comprar dos o tres desbloqueos seguidos, que es exactamente la acumulación que la capa sin conexión está diseñada para ofrecer. Cruza el suelo, recoge el dinero, abre el menú de mejoras y compra el desbloqueo más grande que puedas permitirte antes de reanudar el bucle.
+
+## El mejor estado AFK para dejar el juego
+
+El estado AFK óptimo es aquel en el que tu rodillo puede cubrir todo el suelo de mantequilla entre reapariciones y acabas de comprar el siguiente desbloqueo. Esa combinación maximiza los multiplicadores que la capa sin conexión aplica al tiempo transcurrido. Si el rodillo está limitado por el tamaño del suelo, la capa sin conexión multiplica el cuello de botella. Si tienes un gran saldo de dinero sin gastar, la capa sin conexión multiplica el resto de tu configuración pero ignora el dinero. La configuración debe estar equilibrada, no maximizada en una sola vía.
+
+Un error común de los principiantes es dejar el juego con el rodillo barriendo el suelo y el sabor de mantequilla configurado un nivel por debajo del más caro que el jugador puede permitirse. El razonamiento es que el jugador quiere ahorrar para el desbloqueo más grande, pero la capa sin conexión le dará menos rendimiento que si hubiera comprado el desbloqueo más barato y hubiera dejado que la capa sin conexión lo multiplicara. La acumulación es siempre mayor cuando reinviertes inmediatamente y dejas que la capa sin conexión trabaje en la economía reinvertida, no cuando acumulas y dejas que la capa sin conexión trabaje en una economía más pequeña.
+
+| Configuración | Multiplicador sin conexión | ¿Recomendado? |
+|--------------|-------------------|-------------|
+| El rodillo cubre el suelo, siguiente sabor de mantequilla comprado, algo de dinero sin gastar | Alto | Sí, casi óptimo |
+| El rodillo cubre el suelo, un nivel por debajo de la siguiente mantequilla, gran saldo de dinero | Medio | No, compra primero el desbloqueo más barato |
+| Rodillo limitado, siguiente mantequilla comprada, gran saldo de dinero | Bajo | No, mejora primero el rodillo |
+| El rodillo cubre el suelo, área expandida demasiado, algo de mantequilla sin crujir | Bajo | No, expande solo cuando el rodillo tenga cobertura de sobra |
+
+La tabla es deliberadamente cualitativa porque las API públicas confirman cero Game Passes y cero productos de desarrollador, por lo que no existe una lista de precios publicada. Los umbrales exactos cambian con la Actualización 2, pero el marco (mejorar el lado que está causando el cuello de botella, reinvertir inmediatamente, barrer antes de cerrar sesión) no lo hace.
+
+## Rutinas de cultivo nocturno
+
+El cultivo nocturno es la forma más eficiente de usar la capa sin conexión porque el jugador está realmente dormido durante seis a ocho horas. La configuración de la sesión es la misma que la de un cierre de sesión normal: recoger, comprar el siguiente desbloqueo, confirmar que el rodillo cubre el suelo, cerrar sesión. El resultado de la sesión es el mismo que el de un inicio de sesión normal: barrer el suelo, comprar el siguiente desbloqueo que ahora es asequible gracias a la acumulación nocturna y reanudar. Dos ciclos de acumulación en un solo sueño.
+
+El error es dejar el juego ejecutándose durante la noche con el jugador "AFK" en el teclado. La capa sin conexión no recompensa eso porque los multiplicadores son los mismos tanto si el rodillo está barriendo activamente como si el servidor está simulando la cobertura. Si estás despierto y el rodillo está barriendo, tus ingresos activos superan ligeramente la tasa sin conexión, pero también estás quemando ocho horas de tu vida que la capa sin conexión podría haber estado haciendo por ti. Dejar que el servidor maneje la acumulación nocturna es estrictamente mejor.
+
+Un segundo error es comparar el dinero nocturno con el dinero que habrías ganado trabajando las mismas ocho horas. La comparación es engañosa porque la tasa sin conexión es constante por minuto independientemente de cuánto tiempo estés fuera, mientras que la tasa activa apenas supera la tasa sin conexión durante la misma configuración de multiplicador. La capa sin conexión está diseñada para ser ligeramente peor que la tasa activa, razón por la cual estar en línea te da un pequeño ingreso adicional, pero la diferencia es lo suficientemente pequeña como para que dormir sea siempre el mejor uso de ocho horas.
+
+## Ganancias sin conexión en dispositivos móviles
+
+En dispositivos móviles, la capa sin conexión funciona de la misma manera, pero es más probable que el jugador se aleje del dispositivo con dinero en el suelo porque los controles táctiles hacen que la recolección sea más lenta. La solución es hacer que el barrido de recolección sea parte de tu rutina de cierre de sesión en lugar de algo que haces al comienzo de la siguiente sesión. En un teléfono, caminar sobre el suelo con el joystick en pantalla es el mismo movimiento que caminar por el suelo con WASD en PC, por lo que el costo de tiempo es el mismo. Integra el barrido en el cierre de sesión, no en el inicio de sesión.
+
+Si la versión móvil se entrecorta cuando el rodillo se mueve continuamente, la capa sin conexión aún te acredita por el tiempo transcurrido completo porque el servidor no está simulando la física, está aplicando los multiplicadores. El entrecortamiento es un problema visual, no un problema de progresión. Reduce la calidad de los gráficos de Roblox para que la física sea más fluida, pero no asumas que la capa sin conexión te está pagando menos porque los efectos visuales son entrecortados. Los números se rastrean en el servidor, no en el cliente.
+
+Los servidores tienen un límite de 8 jugadores en todas las plataformas, incluido el móvil, por lo que no hay una cola móvil separada. Si te unes a un servidor en tu teléfono y te alejas del dispositivo, la capa sin conexión continúa acreditándote incluso si estás en una red Wi-Fi diferente o incluso sin conexión en el mismo dispositivo. La próxima vez que inicies el juego en la misma cuenta de Roblox, el dinero acumulado te estará esperando.
+
+## Lista de errores del modo sin conexión
+
+El error AFK más común es cerrar sesión con dinero sin depositar todavía en el suelo. La capa sin conexión te acredita por tu saldo depositado, no por el dinero sin depositar en el suelo. Si te alejas con mil unidades de dinero en el suelo y cien en el banco, te despiertas con lo que produzcan los multiplicadores sobre los cien, no sobre los mil más los cien. El barrido es un ingreso gratuito que se acumula durante la noche al igual que el resto de tu saldo, así que haz que sea parte de la rutina.
+
+Un segundo error común es dejar el juego en un estado en el que acabas de comprar una mejora cara pero el resto de tu configuración está limitada. La capa sin conexión multiplica el cuello de botella junto con el resto de tu configuración, por lo que un rodillo que es demasiado lento para tu nueva mantequilla reducirá tus ingresos nocturnos. Compra el siguiente desbloqueo y luego verifica que el rodillo aún pueda cubrir el suelo de mantequilla antes de cerrar sesión. Si no puede, compra primero la siguiente mejora de rodillo y deja que los ingresos nocturnos más pequeños se acumulen.
+
+Un tercer error es comparar la tasa sin conexión con la tasa de una noche anterior y asumir que la tasa tiene errores. La tasa es una función de tu mantequilla, rodillo y tamaño de suelo actuales, y esos cambian cada vez que inicias sesión. Si anoche tenías un rodillo que cubría el suelo y esta noche expandiste el suelo sin mejorar el rodillo, los multiplicadores aplicados al tiempo transcurrido son diferentes. El cambio no es un error; es la acumulación funcionando exactamente como fue diseñada.
+
+## Referencias cruzadas de la Wiki sobre el modo sin conexión
+
+El sistema de ganancias sin conexión es el cuarto pilar de la progresión de cuatro vías, y se cruza con todas las demás vías. La guía de [progresión de sabores de mantequilla](/en/butter-flavors/) cubre cómo reconocer cuándo el siguiente sabor de mantequilla vale su precio. La guía de [orden de mejora de rodillos](/en/roller-upgrades/) cubre cómo medir tu dinero por minuto y decidir qué nivel comprar a continuación. La guía de [conceptos básicos de cultivo de dinero](/en/cash-farming/) cubre el ritmo de crujido y las rutas de recolección que maximizan tus ingresos activos antes de que la capa sin conexión tome el control. La guía de [expansión](/en/expansion/) cubre cuándo una expansión del suelo de mantequilla realmente se paga sola en ingresos sin conexión.
+
+Si volviste al juego para el evento de la Actualización 2 el 1 de agosto de 2026 a las 17:00 UTC, la categoría de [actualizaciones](/en/updates/) rastrea todo lo que se confirma que cambiará. Aún no se han publicado notas del parche, por lo que cualquier cambio en la tasa sin conexión o el límite de inactividad es desconocido. Actualizaremos el análisis de ganancias sin conexión tan pronto como los cambios sean visibles en el juego en vivo.
+
+## Las matemáticas de las ganancias sin conexión
+
+| Variable | Efecto | Notas |
+| --- | --- | --- |
+| Saldo depositado | Multiplica el pago AFK | Banco más grande = AFK más grande |
+| Sabor de mantequilla | Multiplica el pago AFK | Nivel más alto = tasa más alta |
+| Nivel de rodillo | Multiplica el rendimiento AFK | Nivel más alto = más mantequilla crujida por minuto |
+| Tiempo fuera | Acumula la tasa | Más tiempo fuera = más dinero |
+| Barrido de suelo al cerrar sesión | Determina el saldo depositado | Saltar el barrido = AFK perdido |
+
+## Preguntas Frecuentes
+
+**¿Crunch My Butter gana dinero mientras está sin conexión?**
+
+No. La capa sin conexión multiplica tu mantequilla, rodillo y suelo en dinero, no tu dinero en más dinero. Cada minuto inactivo que pasas con dinero sin gastar es un ingreso compuesto que no estás obteniendo. Compra el siguiente desbloqueo antes de cerrar sesión para que la capa sin conexión pueda trabajar en la economía reinvertida.
+
+**¿Cuál es la mejor configuración para dejar el juego para las ganancias sin conexión?**
+
+La capa sin conexión te acredita por cada minuto transcurrido, por lo que cualquier cantidad de tiempo produce retorno. La mayoría de los jugadores informan que las sesiones de 20 a 40 minutos son un buen compromiso entre los ingresos activos y los sin conexión, siendo las sesiones nocturnas (seis a ocho horas) las que producen la mayor acumulación en un solo día. La tasa sin conexión es constante por minuto independientemente de cuánto tiempo estés fuera.
+
+**¿La capa sin conexión paga intereses sobre mi saldo de dinero?**
+
+La tasa sin conexión es una función de tu mantequilla, rodillo y tamaño de suelo actuales, por lo que cualquier actualización que cambie esas vías cambia la tasa sin conexión. La Actualización 2 está programada para el 1 de agosto de 2026 a las 17:00 UTC, y aún no se han publicado notas del parche. Rastrearemos cualquier cambio confirmado.

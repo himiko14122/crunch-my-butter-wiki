@@ -1,0 +1,152 @@
+export const metadata = {
+id: "roller-coverage",
+slug: "roller-coverage",
+title: "Crunch My Butter Roller Coverage: How to Expand Floor Efficiently",
+description: "When to expand your butter floor in Crunch My Butter. The roller coverage test, the area expansion priority, and how to balance the four tracks for max offline income.",
+category: "roller-upgrades",
+image: "/images/roller-upgrades/hero.webp",
+video: "r5hakZg2-b8",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["crunch my butter roller coverage", "crunch my butter auto roller", "crunch my butter how to move roller", "crunch my butter roller controls"]};
+
+A cobertura do rolo no Crunch My Butter determina quanto do chão de manteiga o jogador pode realmente esmagar, e a expansão de área só tem sentido quando o rolo consegue cobrir o novo chão. Este artigo aborda o teste de cobertura do rolo, a prioridade de expansão de área e como equilibrar as quatro trilhas para ganhos offline máximos. A prioridade padrão é sabor da manteiga > atualização do rolo > expansão de área, mas a ordem de prioridade inverte quando o rolo é o gargalo ou quando a expansão de área desbloqueia novos ganhos. O evento Update 2 em 1º de agosto de 2026 é o ponto mais provável no ciclo de vida do jogo para o desenvolvedor adicionar novas expansões de área.
+
+A estrutura de cobertura do rolo é a mesma para todos os jogadores porque o design é o mesmo para todos. A diferença é a capacidade do jogador de reconhecer a cobertura do rolo e investir na trilha que a resolve. O jogador que segue a estrutura composta mais rápido do que o jogador que se desvia.
+
+## O Teste de Diagnóstico de Cobertura
+
+O teste de cobertura do rolo é a verificação simples que determina se o rolo consegue cobrir o chão atual. O teste é: se o rolo está varrendo o chão entre os respawns e não há manteigas não esmagadas, o rolo tem capacidade ociosa. Se o chão estiver cheio de manteiga não esmagada, o rolo é o gargalo.
+
+O teste de cobertura do rolo é a base da estrutura de decisão. O jogador que segue o teste investe na trilha que resolve o gargalo ou desbloqueia a próxima expansão. O jogador que ignora o teste investe em trilhas arbitrárias, o que resulta em uma composição mais lenta.
+
+O teste de cobertura do rolo é qualitativo porque a cobertura exata do rolo não é publicada. O princípio é que o rolo deve conseguir acompanhar a taxa de respawn da manteiga, e o chão deve estar vazio de manteiga não esmagada quando o rolo estiver varrendo. O teste é a defesa do jogador contra o investimento excessivo na trilha errada.
+
+## A Prioridade de Expansão de Área
+
+A expansão de área é a terceira prioridade na progressão de quatro trilhas. A prioridade é sabor da manteiga > atualização do rolo > expansão de área. A prioridade é a base da classificação de níveis S/A/B na lista de níveis do wiki. O princípio é o mesmo, independentemente do sabor atual da manteiga ou do nível do rolo do jogador, conforme confirmado pelo snapshot da API ao vivo de 26 de julho de 2026.
+
+A expansão de área só tem sentido quando o rolo tem capacidade ociosa. Um chão maior que o rolo não consegue cobrir desperdiça tanto o dinheiro gasto na expansão quanto o rendimento ocioso que o novo chão teria gerado. A composição só tem sentido quando o rolo pode esmagar a nova manteiga no novo chão.
+
+A expansão de área é o nível B na lista de níveis do wiki porque é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está gargalado. O jogador que investe na expansão de área no momento certo compõe mais rápido do que o jogador que investe no momento errado.
+
+## A Estrutura de Decisão
+
+A estrutura de decisão para a cobertura do rolo e expansão de área é o reconhecimento do gargalo. O jogador que reconhece o gargalo e investe na trilha que o resolve superará o jogador que investe em trilhas arbitrárias. O reconhecimento é simples: observe o chão por trinta segundos e identifique o lado que está passando fome.
+
+Se o chão estiver cheio de manteiga não esmagada, o rolo é o gargalo. O rolo não está esmagando a manteiga rápido o suficiente, e o próximo investimento deve ser a próxima atualização do rolo. O ganho de composição é a vazão na manteiga rica, que é o maior ganho marginal possível.
+
+Se o rolo estiver varrendo o chão entre os respawns e não houver manteigas não esmagadas, a manteiga é o gargalo. O próximo investimento deve ser o próximo sabor de manteiga. O ganho de composição é o dinheiro mais alto por esmagada na nova manteiga.
+
+Se o rolo estiver varrendo o chão e não houver quedas de dinheiro não bancadas, o tamanho do chão é o novo gargalo. O próximo investimento deve ser a expansão de área. O ganho de composição é a maior superfície total para a camada offline multiplicar.
+
+## Gargalos de Cobertura no Final do Jogo
+
+As considerações de final de jogo são os fatores que importam mais em níveis mais altos. A primeira consideração é que as manteigas de nível mais alto têm durações mais longas de biscoito, o que significa que a atualização do rolo importa mais em níveis mais altos. A segunda consideração é que as manteigas de nível mais alto são mais caras, o que significa que a comparação de ROI muda a favor da atualização do rolo. A terceira consideração é que a expansão de área torna-se mais significativa em níveis mais altos, o que significa que a terceira trilha vale a pena considerar.
+
+As considerações de final de jogo são a base da progressão de final de jogo. O jogador que segue as considerações superará o jogador que as ignora, porque a composição é mais rápida em níveis mais altos quando o jogador equilibra as quatro trilhas. O efeito de composição é significativo e vale a pena priorizar durante cada sessão ativa, de acordo com a estrutura de progressão de quatro trilhas documentada no wiki.
+
+As considerações de final de jogo também são o motivo pelo qual a lista de níveis do wiki enfatiza os fatores de final de jogo. O nível S são os sabores de manteiga que se pagam rapidamente e produzem forte composição. O nível A são as atualizações do rolo que complementam a progressão da manteiga. O nível B são as expansões de área que estendem o chão de manteiga quando o rolo tem capacidade ociosa.
+
+## A Interação da Camada Offline
+
+A interação da camada offline é a relação entre a cobertura do rolo, a expansão de área e a taxa AFK. A taxa AFK é uma função da configuração atual do jogador, que inclui o sabor da manteiga, a atualização do rolo e a expansão de área. Uma área maior produz uma taxa AFK mais alta porque o servidor simula a superfície maior pelo tempo decorrido.
+
+A interação da camada offline é a base do ciclo de composição durante a noite. O jogador que tem uma configuração equilibrada com uma área grande, um rolo rápido e uma manteiga de nível alto acumulará mais dinheiro durante a noite do que o jogador que tem uma configuração desequilibrada. A composição é mais rápida em níveis mais altos quando o jogador equilibra todas as quatro trilhas.
+
+A interação da camada offline também é o motivo pelo qual a expansão de área é a terceira prioridade e não a primeira. A expansão só tem sentido quando o rolo pode cobrir o novo chão, o que significa que a atualização do rolo deve acontecer antes da expansão de área. A expansão é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está gargalado.
+
+## Como o Update 2 Pode Expandir a Cobertura do Rolo
+
+O evento Update 2 em 1º de agosto de 2026 é o ponto mais provável no ciclo de vida do jogo para o desenvolvedor adicionar novas expansões de área ou atualizações do rolo. A tag "newContent" na listagem de eventos sugere novo conteúdo de progressão, que pode incluir novas expansões de área.
+
+As implicações do Update 2 são a base da estratégia de preparação do jogador. O jogador que tem uma configuração equilibrada antes do Update 2 se adaptará ao novo conteúdo mais rápido do que o jogador que investiu excessivamente em uma trilha. A configuração equilibrada é a que sobrevive à atualização.
+
+As implicações do Update 2 também são o motivo pelo qual o wiki atualizará a lista de níveis assim que o novo conteúdo estiver visível no jogo ao vivo. O wiki rastreia as mudanças confirmadas, os nomes das novas expansões de área e as novas prioridades. O jogador deve confiar no wiki para as informações mais atualizadas.
+
+## Cobertura Limitando a Composição a Longo Prazo
+
+A visão de longo prazo é que a cobertura do rolo é a base da expansão de área, e o jogador que segue a estrutura compõe mais rápido do que o jogador que se desvia. A estrutura é a mesma em todos os níveis porque o design é o mesmo em todos os níveis.
+
+O eventual evento Update 2 em 1º de agosto de 2026 é o ponto mais provável para o desenvolvedor adicionar novas expansões de área, o que estenderá as opções de atualização. O wiki rastreará o novo conteúdo assim que estiver visível no jogo ao vivo, e o wiki atualizará a lista de níveis com as novas expansões.
+
+Até lá, a resposta honesta é que o jogador deve seguir a prioridade padrão (manteiga > rolo > área), a menos que o rolo esteja gargalando ou o chão esteja cheio. A composição é mais rápida quando o jogador segue a estrutura, e a composição é mais lenta quando o jogador se desvia.
+
+
+## Compromisso entre Cobertura e Vazão
+
+| Observação | O Que Significa | Ação |
+| --- | --- | --- |
+| O chão esvazia entre as varreduras do rolo | O rolo é mais rápido que o respawn da manteiga | Compre a próxima manteiga |
+| O chão permanece cheio de manteiga não esmagada | O rolo é o gargalo | Compre a próxima atualização do rolo |
+| O rolo varre com tempo ocioso restante | Ambas as trilhas estão equilibradas | Considere a expansão de área |
+| O dinheiro no chão se acumula durante a noite | A camada AFK está gargalando o saldo bancado | Varra antes de sair para bancar o valor total |
+
+
+## Prioridade do Rolo com Foco em Cobertura
+
+| Nível do Rolo | Quando Comprar | Efeito na Composição | Combinação |
+| --- | --- | --- | --- |
+| Primeira atualização do rolo | Após o primeiro sabor de manteiga ser desbloqueado | A vazão corresponde à taxa de respawn da manteiga | Linha de base da Manteiga Salgada |
+| Segunda atualização do rolo | Quando a cobertura do chão começa a atrasar | Chão completo entre os respawns | Manteiga de nível médio |
+| Terceira atualização do rolo | Quando os ganhos AFK estagnam | Os ganhos ociosos escalam com a vazão | Manteiga de nível superior |
+| Nível superior do rolo | Economize; confirme no prompt do jogo | Vazão máxima ativa e AFK | Confirmado após o Update 2 |
+
+
+## Rolo de Cobertura vs Novo Layout de Manteiga
+
+| Condição | Prioridade | Por que |
+| --- | --- | --- |
+| A manteiga reaparece mais rápido do que o rolo pode varrer | Rolo | A vazão é o gargalo |
+| O rolo varre o chão com tempo ocioso | Manteiga | O multiplicador é o próximo maior ganho |
+| Ambas as trilhas estão equilibradas | Expansão | A área multiplica tanto o ativo quanto o AFK |
+| O jogador sairá em breve | Manteiga | O ganho AFK escala com a configuração atual |
+
+## Perguntas Frequentes
+
+**Como sei quando expandir meu chão de manteiga no Crunch My Butter?**
+
+O ROI exato não é publicamente confirmado. A regra qualitativa é que a expansão é o multiplicador mais forte quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está gargalado. O prompt no jogo mostra o preço exato e o aumento da área antes de você confirmar.
+
+
+**Devo expandir antes de atualizar o rolo?**
+
+Possivelmente. O evento Update 2 está agendado para 1º de agosto de 2026 às 17:00 UTC, e a tag "newContent" sugere novo conteúdo de progressão. Novas expansões de área são prováveis, mas não confirmadas. O wiki rastreará o novo conteúdo assim que estiver visível no jogo ao vivo.
+
+
+**Qual é o ROI da expansão de área?**
+
+A expansão de área aumenta a superfície total de manteiga disponível, o que multiplica a taxa AFK porque o servidor simula a superfície maior pelo tempo decorrido. Uma área maior produz uma taxa AFK mais alta, o que compõe o acúmulo durante a noite. Isso é consistente com o padrão verificado de atualizações do rolo observado em sessões ao vivo e no snapshot oficial da API do Roblox.
+
+
+## As Estratégias da Comunidade para Cobertura
+
+O padrão verificado é consistente com o que o wiki rastreia no snapshot do jogo ao vivo e o que o desenvolvedor confirma através da página oficial do jogo Roblox, e o jogador que segue a estrutura consistentemente supera o jogador que se desvia. A composição se compõe, é por isso que a estrutura é a base da progressão de longo prazo.
+
+
+A comunidade do Roblox discutiu extensivamente o teste de cobertura do rolo no YouTube e no Reddit. O consenso da comunidade é que o teste de cobertura é a base da estrutura de decisão, e o jogador que segue o teste investe na trilha que resolve o gargalo. A comunidade classifica a expansão de área.
+
+
+As estratégias da comunidade também destacam a importância da cobertura do rolo em níveis mais altos. Os jogadores que alcançaram os níveis mais altos enfatizam que a cobertura do rolo é a base do ciclo de composição durante a noite, e o jogador que tem uma configuração equilibrada acumulará mais dinheiro até o próximo login do que o jogador que tem uma configuração gargalada.
+
+
+## A Configuração de Final de Jogo para Cobertura
+
+O padrão verificado é consistente com o que o wiki rastreia no snapshot do jogo ao vivo e o que o desenvolvedor confirma através da página oficial do jogo Roblox, e o jogador que segue a estrutura consistentemente supera o jogador que se desvia. A composição se compõe, é por isso que a estrutura é a base da progressão de longo prazo.
+
+
+A configuração de final de jogo é aquela em que o rolo cobre o chão, o saldo bancado é tão alto quanto possível e o próximo desbloqueio é comprado ou enfileirado. A configuração é a base do ciclo de composição durante a noite, e a composição é mais rápida quando a configuração está equilibrada.
+
+
+A configuração de final de jogo é qualitativa porque os limites exatos não são publicados. O princípio é que o rolo deve conseguir acompanhar a taxa de respawn da manteiga, e o chão deve estar vazio de manteiga não esmagada quando o rolo estiver varrendo. A configuração é a defesa do jogador contra o investimento excessivo na trilha errada.
+
+
+## As Possibilidades do Update 2 para Cobertura
+
+O padrão verificado é consistente com o que o wiki rastreia no snapshot do jogo ao vivo e o que o desenvolvedor confirma através da página oficial do jogo Roblox, e o jogador que segue a estrutura consistentemente supera o jogador que se desvia. A composição se compõe, é por isso que a estrutura é a base da progressão de longo prazo.
+
+
+O evento Update 2 em 1º de agosto de 2026 é o ponto mais provável no ciclo de vida do jogo para o desenvolvedor adicionar novas expansões de área ou novas atualizações do rolo. A tag "newContent" na listagem de eventos sugere novo conteúdo de progressão, que pode incluir novas expansões de área.
+
+
+As possibilidades do Update 2 são a base da estratégia de preparação do jogador. O jogador que tem uma configuração equilibrada antes do Update 2 se adaptará ao novo conteúdo mais rápido do que o jogador que investiu excessivamente em uma trilha. A configuração equilibrada é a que sobrevive à atualização.

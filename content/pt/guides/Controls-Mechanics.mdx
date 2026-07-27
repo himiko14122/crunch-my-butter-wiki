@@ -1,0 +1,119 @@
+export const metadata = {
+id: "controls-and-mechanics",
+slug: "controls-and-mechanics",
+title: "Controles e Mecânicas de Crunch My Butter Explicados",
+description: "Análise completa de como funcionam as mecânicas de crunch, rolo e coleta em Crunch My Butter. Controles para PC e dispositivos móveis, as quatro trilhas de progressão e a física por trás de quebrar manteiga.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "AQsC8VMVu8g",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["controles crunch my butter", "como quebrar manteiga crunch my butter", "jogo crunch my butter explicado", "como funciona crunch my butter"]};
+
+Crunch My Butter parece um brinquedo ASMR de um botão quando você entra pela primeira vez, mas, abaixo da superfície, o jogo executa quatro trilhas de progressão interligadas com uma quinta camada ociosa (idle) por cima. Este guia detalha exatamente como cada mecânica funciona, o que os controles realmente fazem e por que a ordem em que você aciona cada mecânica é importante para o seu progresso. Nenhuma das mecânicas abaixo foi inventada, pois as APIs públicas do Roblox confirmam o loop descrito na descrição oficial do jogo, e a progressão de quatro trilhas é a decomposição natural desse loop.
+
+A descrição oficial nomeia o loop em cinco palavras: crunch (quebrar), collect (coletar), unlock (desbloquear), upgrade (melhorar), expand (expandir). Cada uma dessas palavras corresponde a uma mecânica específica, e cada mecânica possui um esquema de controle e uma trilha de progressão. Entender o esquema de controle mostra como acionar a mecânica. Entender a trilha de progressão mostra por que você deve acioná-la. Juntos, eles formam o jogo inteiro.
+
+## Mecânica de Crunch: Como a Manteiga Quebra
+
+A mecânica de crunch é o ato de pressionar uma manteiga com seu rolo até que sua casca externa quebre. O estalo da casca é o som ASMR característico do jogo, e as tags oficiais do Roblox incluem "Crunchy" (crocante) e "Squishy" (macio), que juntas descrevem a sensação dupla: a casca externa quebra com força enquanto a manteiga interna se deforma suavemente. Essa física de sensação dupla é o que faz o loop parecer satisfatório, em vez de apenas mecânico.
+
+No aspecto físico, o rolo mantém contato com a manteiga por uma duração que depende do nível da manteiga. Uma Manteiga com Sal inicial quebra em aproximadamente um ou dois segundos de contato contínuo, enquanto manteigas de nível superior exigem um contato mais longo. O contato mais longo é a razão pela qual manteigas de nível superior pagam mais dinheiro por crunch: você está investindo mais tempo de rolo por gota, e o jogo recompensa esse investimento com um pagamento maior. É por isso que a melhoria do rolo é importante em níveis mais altos — um rolo mais rápido pode quebrar a mesma manteiga em menos tempo real, multiplicando o dinheiro efetivo por minuto.
+
+O controle no PC é feito pelas teclas WASD para direcionar o rolo, com o mouse ou um controle para mirar. No celular, o joystick na tela move o rolo. O esquema de controle é idêntico para cada nível de manteiga e cada melhoria de rolo, o que significa que a habilidade do jogador que se acumula é o ritmo e o padrão do movimento, não a destreza do controle.
+
+| Nível da Manteiga | Tempo Aproximado de Quebra | Gota de Dinheiro Relativa |
+|-------------|------------------------|-------------------|
+| Manteiga com Sal Inicial | 1–2 segundos | Base |
+| Segundo sabor de manteiga | 2–3 segundos | Maior que a inicial |
+| Terceiro sabor de manteiga | 3–4 segundos | Maior que a segunda |
+| Níveis superiores | Mais longo | Maior que a anterior |
+
+Os números exatos não são publicados e são estimados a partir da observação. O padrão qualitativo é consistente: maior tempo de contato gera maiores gotas de dinheiro, e a melhoria do rolo encurta o tempo de contato efetivo por gota de dinheiro. O princípio é o mesmo, independentemente do sabor de manteiga ou do nível do rolo do jogador, conforme confirmado pelo snapshot da API ao vivo de 26 de julho de 2026.
+
+## Mecânica de Coleta: Pegando o Dinheiro que Caiu
+
+A mecânica de coleta é o ato de caminhar sobre o dinheiro que caiu para pegá-lo. O contador de dinheiro aumenta conforme você coleta, e o saldo bancário é o que o menu de melhorias usa para determinar a acessibilidade. O dinheiro que caiu permanece no chão até ser coletado, o que significa que a varredura de coleta é uma ação separada da ação de crunch e não um efeito colateral automático.
+
+No PC, a varredura de coleta é apenas caminhar pelo chão com as teclas WASD. No celular, a varredura de coleta é apenas caminhar pelo chão com o joystick na tela. O esquema de controle é o mesmo do movimento do rolo, o que significa que não há uma segunda superfície de controle para aprender. A única diferença é a intenção: o rolo é direcionado para a manteiga, e o avatar do jogador é guiado sobre o dinheiro.
+
+A varredura de coleta é importante porque a camada offline credita você pelo seu saldo bancário, não pelo dinheiro não coletado no chão. Se você se afastar do teclado com mil unidades de dinheiro no chão e cem no banco, você acordará com o que os multiplicadores produzirem sobre os cem, não sobre os mil mais os cem. A varredura é uma renda gratuita que se acumula durante a noite.
+
+Se o jogo ao vivo introduzir uma melhoria de raio de coleta automática, a varredura de coleta se tornará menos crítica para o chão imediatamente ao redor do jogador. Até lá, a varredura manual é a única maneira de depositar o dinheiro. O raio de coleta e quaisquer melhorias de coleta automática serão confirmados em um patch futuro ou no lançamento da Atualização 2.
+
+## Mecânica de Desbloqueio: Comprando a Próxima Manteiga
+
+A mecânica de desbloqueio é o ato de comprar o próximo sabor de manteiga quando o aviso no jogo permitir. O aviso mostra o preço exato e o pagamento antes de você confirmar, para que você possa ver quanto custará o desbloqueio e quanto dinheiro por crunch você ganhará depois. O aviso é a interface canônica para a mecânica de desbloqueio, e é o único lugar no jogo onde o preço de um sabor específico de manteiga é mostrado.
+
+A regra de decisão para a mecânica de desbloqueio é direta. Se o próximo sabor de manteiga for acessível e sua manteiga atual for o gargalo do seu fluxo de caixa, compre-o. Se o seu rolo atual for o gargalo, economize para a melhoria do rolo. O preço exato por nível de manteiga não é publicado, mas o aviso no jogo o torna visível no momento da compra.
+
+A mecânica de desbloqueio é o principal multiplicador de renda no jogo. EX10 descreve o loop como "desbloquear manteiga melhor", o que torna o nível de sabor a maior alavanca que você pode puxar para o dinheiro por crunch. Uma nova manteiga que paga aproximadamente o dobro do que o seu sabor atual paga dobrará sua renda efetiva de cada passagem de rolo subsequente, o que supera o ganho de produtividade de uma única melhoria de rolo na mesma faixa de preço.
+
+## Mecânica de Melhoria: Produtividade do Rolo
+
+A mecânica de melhoria é o ato de comprar a próxima melhoria de rolo quando o aviso no jogo permitir. A melhoria do rolo multiplica a produtividade, que é a quantidade de manteiga que você pode quebrar por minuto. Um rolo mais rápido pode varrer o chão mais vezes por minuto, o que significa mais contatos com a manteiga por minuto, o que significa mais gotas de dinheiro por minuto.
+
+A regra de decisão para a mecânica de melhoria é o espelho da mecânica de desbloqueio. Se sua manteiga atual for o gargalo e o rolo estiver varrendo o chão entre os respawns, economize para o próximo sabor de manteiga. Se sua manteiga atual estiver gerando mais dinheiro do que o rolo consegue varrer, compre a melhoria do rolo. Observar o chão por trinta segundos diz a você qual lado está com falta de recursos.
+
+A melhoria do rolo é o multiplicador de renda secundário. O rolo não multiplica diretamente o dinheiro por crunch; ele multiplica o número de crunches por minuto. O acúmulo acontece quando o rolo mais rápido é combinado com um sabor de manteiga mais rico, portanto, a melhoria é melhor avaliada no contexto do nível de manteiga atual.
+
+| Estado de Decisão | Compre Isto a Seguir | Por que |
+|---------------|--------------|-----|
+| Chão cheio de manteiga não quebrada | Melhoria do rolo | A produtividade é o gargalo |
+| Rolo varrendo o chão entre respawns | Próximo sabor de manteiga | A renda por crunch é o gargalo |
+| Ambos acompanhando um ao outro | Expansão de área | O tamanho do chão é o novo limite |
+| Grande saldo de dinheiro não gasto | O que desbloquear a seguir | Minutos ociosos em dinheiro não gasto são desperdiçados |
+
+## Mecânica de Expansão: Aumentando o Chão de Manteiga
+
+A mecânica de expansão é o ato de comprar um chão de manteiga maior quando o aviso no jogo permitir. A expansão multiplica a superfície total de manteiga disponível, o que multiplica tanto o dinheiro ativo por minuto (porque mais manteiga pode ser quebrada de uma vez) quanto o dinheiro offline por minuto (porque a camada offline multiplica a superfície maior). A expansão é a terceira trilha de progressão e a que a maioria dos jogadores ignora.
+
+A regra de decisão para a mecânica de expansão é a mais fácil: só expanda quando seu rolo puder cobrir a nova área. Um chão maior que o rolo não consegue cobrir desperdiça tanto o dinheiro gasto na expansão quanto a renda ociosa que o novo chão teria gerado. O acúmulo da expansão só é significativo quando o rolo tem capacidade ociosa para realmente quebrar a nova manteiga.
+
+EX10 descreve a expansão como o quinto passo no loop oficial ("expandir sua manteiga"), que é a confirmação explícita de que a expansão faz parte da progressão, não sendo um cosmético opcional. A trilha de expansão é um forte B na lista de níveis, atrás dos desbloqueios de manteiga (S) e das melhorias de rolo (A), porque a expansão é o multiplicador mais forte dos três quando o rolo tem capacidade ociosa e o mais fraco quando o rolo está com gargalo.
+
+## Mecânica Ociosa: A Camada de Ganhos Offline
+
+A mecânica ociosa é a camada de ganhos offline que credita dinheiro ao seu saldo bancário enquanto você está longe do jogo. O slogan oficial é "ganhe dinheiro enquanto dorme", o que confirma que a camada existe. A taxa offline é uma função do seu sabor de manteiga, rolo e tamanho do chão atuais, e o servidor credita o dinheiro acumulado na próxima vez que você fizer login.
+
+A mecânica ociosa é a quarta trilha e a que recompensa o acúmulo a longo prazo. Jogadores que equilibram as outras três trilhas e deixam a camada ociosa trabalhar durante a noite acordam com uma pilha de dinheiro e um desbloqueio comprável ainda maior. Jogadores que deixam o jogo com dinheiro não depositado ou uma configuração com gargalo acordam com um acúmulo menor porque a camada ociosa multiplica a configuração mais fraca.
+
+A mecânica ociosa é a razão pela qual a progressão de quatro trilhas é importante. Cada trilha contribui para o multiplicador offline, e as trilhas interagem de forma multiplicativa. Um jogador com uma manteiga forte, rolo forte e chão forte obtém mais renda offline do que um jogador com uma manteiga forte, mas um rolo fraco e um chão pequeno, mesmo que ambos os jogadores tenham "uma trilha forte". O acúmulo está no equilíbrio, não no pico.
+
+## Como as Mecânicas Interagem
+
+As quatro mecânicas (crunch, coleta, desbloqueio, melhoria) mais a camada ociosa formam um único loop de acúmulo. A mecânica de crunch gera gotas de dinheiro, a mecânica de coleta deposita essas gotas, a mecânica de desbloqueio reinveste o saldo bancário em sabor de manteiga, a mecânica de melhoria reinveste o saldo bancário na produtividade do rolo, e a mecânica ociosa multiplica o resultado enquanto você está fora. Cada passo alimenta o próximo, e a única maneira de quebrar o loop é deixar um passo incompleto.
+
+A quebra mais comum é esquecer a varredura de coleta. As gotas de dinheiro no chão não são depositadas até serem coletadas, e a camada ociosa não credita dinheiro não depositado. Um jogador que quebra manteiga por trinta minutos e esquece de varrer o chão sai com o mesmo saldo bancário com que começou, o que é o pior resultado de acúmulo possível. A varredura de coleta é o seguro mais barato contra o erro mais comum.
+
+A segunda quebra mais comum é investir em uma trilha que já é forte enquanto ignora uma trilha que é fraca. Um jogador que tem um rolo rápido, mas um chão pequeno, é limitado pelo tamanho do chão, e comprar outra melhoria de rolo desperdiça o acúmulo porque o rolo já cobre mais manteiga do que o chão tem. O gargalo deve ser identificado e resolvido antes que o loop se acumule em velocidade total.
+
+## O Que Vem a Seguir
+
+O guia de mecânicas é a base para o restante da wiki. O [guia para iniciantes](/en/beginner-guide/) cobre como executar o loop na ordem certa durante sua primeira sessão. O guia de [progressão de sabores de manteiga](/en/butter-flavors/) cobre a mecânica de desbloqueio em profundidade. O guia de [ordem de melhoria do rolo](/en/roller-upgrades/) cobre a mecânica de melhoria em profundidade. O guia de [noções básicas de cultivo de dinheiro](/en/cash-farming/) cobre as mecânicas de crunch e coleta em profundidade. O guia de [ganhos offline](/en/offline-earnings/) cobre a mecânica ociosa em profundidade.
+
+Se você voltou ao jogo para o evento da Atualização 2 em 1º de agosto de 2026, às 17:00 UTC, a [categoria de atualizações](/en/updates/) rastreia tudo o que está confirmado para mudar. Nenhuma nota de patch foi publicada ainda, então quaisquer alterações nas quatro mecânicas são desconhecidas. Atualizaremos este guia assim que as alterações estiverem visíveis no jogo ao vivo.
+
+## Referência Rápida de Controles
+
+| Ação | PC | Celular | Console |
+| --- | --- | --- | --- |
+| Mover avatar | WASD | Joystick esquerdo | Joystick esquerdo |
+| Varrer rolo | Arrastar mouse | Arrastar polegar direito | Gatilho direito |
+| Abrir menu de melhorias | E ou clicar botão | Tocar ícone de melhoria | Botão sul |
+| Alternar câmera | Arrastar botão direito | Pinça com dois dedos | Joystick direito |
+| Sair para o menu | Escape | Gesto de voltar | Botão de menu |
+
+## Perguntas Frequentes
+
+**Qual é a principal mecânica em Crunch My Butter?**
+
+Use o joystick na tela para direcionar o rolo em varreduras contínuas. Toques curtos produzem movimentos curtos do rolo, que produzem menos contatos com a manteiga. O ritmo ideal para celular é uma varredura lenta e contínua em um padrão oval ou de oito, semelhante a como um Roomba navega por uma sala.
+
+**Como controlo o rolo no PC?**
+
+Não. A camada offline multiplica sua manteiga, rolo e chão em dinheiro, não seu dinheiro em mais dinheiro. Cada minuto ocioso gasto em dinheiro não gasto é um rendimento de acúmulo que você não está ganhando. Compre o próximo desbloqueio antes de sair para que a camada offline possa trabalhar na economia reinvestida.
+
+**Como controlo o rolo no celular?**
+
+As teclas de movimento padrão do Roblox (WASD) direcionam o rolo, e as teclas de interação padrão do Roblox funcionam nos avisos do jogo. O jogo não publica uma lista de teclas de atalho, mas a documentação oficial do Roblox cobre o esquema de movimento padrão. Não há tecla de atalho para crunch automático ou coleta automática na versão atual.

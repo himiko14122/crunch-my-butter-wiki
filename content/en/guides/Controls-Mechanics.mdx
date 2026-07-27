@@ -1,0 +1,122 @@
+export const metadata = {
+id: "controls-and-mechanics",
+slug: "controls-and-mechanics",
+title: "Crunch My Butter Controls and Mechanics Explained",
+description: "Complete breakdown of how the crunch, roller, and collection mechanics work in Crunch My Butter. PC and mobile controls, the four progression tracks, and the physics behind butter cracking.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "AQsC8VMVu8g",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["crunch my butter controls", "crunch my butter how to crunch butter", "crunch my butter game explained", "crunch my butter how does it work"]};
+
+Crunch My Butter looks like a one-button ASMR toy when you first join, but underneath the surface the game runs four interlocking progression tracks with a fifth idle layer on top. This guide breaks down exactly how each mechanic works, what the controls actually do, and why the order in which you trigger each mechanic matters for your compounding. None of the mechanics below are invented because the public Roblox APIs confirm the loop described in the official game description, and the four-track progression is the natural decomposition of that loop.
+
+The official description names the loop in five words: crunch, collect, unlock, upgrade, expand. Each of those words corresponds to a specific mechanic, and each mechanic has a control scheme and a progression track. Understanding the control scheme tells you how to trigger the mechanic. Understanding the progression track tells you why you should trigger it. Together they form the entire game.
+
+## Crunch Mechanic: How Butter Cracks
+
+The crunch mechanic is the act of pressing a butter with your roller until its outer shell cracks. The shell crack is the signature ASMR sound of the game, and the official Roblox tags include Crunchy and Squishy, which together describe the dual sensation: the outer shell breaks hard while the inner butter deforms softly. This dual-sensation physics is what makes the loop feel satisfying rather than just mechanical.
+
+On the physics side, the roller maintains contact with the butter for a duration that depends on the butter tier. A starter Salted Butter cracks in roughly one or two seconds of continuous contact, while higher-tier butters require longer contact. The longer contact is the reason higher-tier butters pay more cash per crunch: you are investing more roller-time per drop, and the game rewards that investment with a larger payout. This is why the roller upgrade matters at higher tiers — a faster roller can crunch the same butter in less wall-clock time, multiplying the effective cash per minute.
+
+The control on PC is the WASD keys to steer the roller, with the mouse or a controller to aim. On mobile, the on-screen joystick moves the roller. The control scheme is identical for every butter tier and every roller upgrade, which means the player skill that compounds is the rhythm and pattern of the sweep, not the dexterity of the control.
+
+| Butter Tier | Approximate Crack Time | Relative Cash Drop |
+|-------------|------------------------|-------------------|
+| Starter Salted Butter | 1–2 seconds | Baseline |
+| Second butter flavor | 2–3 seconds | Higher than starter |
+| Third butter flavor | 3–4 seconds | Higher than second |
+| Higher tiers | Longer | Higher than previous |
+
+The exact numbers are not published and are estimated from observation. The qualitative pattern is consistent: longer contact time yields higher cash drops, and the roller upgrade shortens the effective contact time per cash drop. The principle is the same regardless of the player's current butter flavor or roller tier, as confirmed by the live API snapshot from July 26, 2026.
+
+## Collection Mechanic: Picking Up Dropped Cash
+
+The collection mechanic is the act of walking over the dropped cash to pick it up. The cash counter ticks up as you collect, and the banked balance is what the upgrade menu uses to determine affordability. Dropped cash sits on the floor until collected, which means the collection sweep is a separate action from the crunch action and not an automatic side effect.
+
+On PC, the collection sweep is just walking across the floor with the WASD keys. On mobile, the collection sweep is just walking across the floor with the on-screen joystick. The control scheme is the same as the roller movement, which means there is no second control surface to learn. The only difference is the intent: the roller is steered into butter, and the player avatar is walked over cash.
+
+The collection sweep matters because the offline layer credits you for your banked balance, not for uncollected cash on the floor. If you walk away from the keyboard with a thousand units of cash on the floor and a hundred in the bank, you wake up with whatever the multipliers produce on the hundred, not on the thousand plus the hundred. The sweep is free income that compounds overnight.
+
+If the live game ever introduces an auto-collection radius upgrade, the collection sweep will become less critical for the floor immediately around the player. Until then, the manual sweep is the only way to bank the cash. The collection radius and any auto-collection upgrades will be confirmed in a future patch or the Update 2 release.
+
+## Unlock Mechanic: Buying the Next Butter
+
+The unlock mechanic is the act of buying the next butter flavor when the in-game prompt allows. The prompt shows the exact price and payout before you confirm, so you can see how much cash the unlock will cost and how much cash per crunch you will earn afterward. The prompt is the canonical interface for the unlock mechanic, and it is the only place in the game where the price of a specific butter flavor is shown.
+
+The decision rule for the unlock mechanic is straightforward. If the next butter flavor is affordable and your current butter is the bottleneck of your cash flow, buy it. If your current roller is the bottleneck, save for the roller upgrade instead. The exact price per butter tier is not published, but the in-game prompt makes it visible at the moment of purchase.
+
+The unlock mechanic is the primary income multiplier in the game. EX10 describes the loop as "unlock better butter", which makes flavor tier the largest lever you can pull on cash per crunch. A new butter that pays roughly twice what your current flavor pays will double your effective income from every subsequent roller pass, which dwarfs the throughput gain from a single roller upgrade in the same price band.
+
+## Upgrade Mechanic: Roller Throughput
+
+The upgrade mechanic is the act of buying the next roller upgrade when the in-game prompt allows. The roller upgrade multiplies the throughput, which is the amount of butter you can crunch per minute. A faster roller can sweep the floor more times per minute, which means more butter contacts per minute, which means more cash drops per minute.
+
+The decision rule for the upgrade mechanic is the mirror of the unlock mechanic. If your current butter is the bottleneck and the roller is sweeping the floor between respawns, save for the next butter flavor. If your current butter is generating more cash than the roller can sweep, buy the roller upgrade. Watching the floor for thirty seconds tells you which side is starving.
+
+The roller upgrade is the secondary income multiplier. The roller does not directly multiply cash per crunch; it multiplies the number of crunches per minute. The compounding happens when the faster roller is paired with a richer butter flavor, so the upgrade is best evaluated in the context of the current butter tier.
+
+| Decision State | Buy This Next | Why |
+|---------------|--------------|-----|
+| Floor full of uncrunched butter | Roller upgrade | Throughput is the bottleneck |
+| Roller sweeping floor between respawns | Next butter flavor | Income per crunch is the bottleneck |
+| Both keeping up with each other | Area expansion | Floor size is the new ceiling |
+| Large unspent cash balance | Whatever unlocks next | Idle minutes on unspent cash are wasted |
+
+## Expansion Mechanic: Growing the Butter Floor
+
+The expansion mechanic is the act of buying a larger butter floor when the in-game prompt allows. The expansion multiplies the total butter surface available, which multiplies both the active cash per minute (because more butter can be crunched at once) and the offline cash per minute (because the offline layer multiplies the larger surface). Expansion is the third progression track and the one most players ignore.
+
+The decision rule for the expansion mechanic is the easiest: only expand once your roller can cover the new area. A larger floor that the roller cannot cover wastes both the cash spent on the expansion and the idle income the new floor would have generated. The compounding of the expansion is only meaningful when the roller has spare capacity to actually crunch the new butter.
+
+EX10 describes the expansion as the fifth step in the official loop ("expand your butter"), which is the explicit confirmation that expansion is part of the progression, not an optional cosmetic. The expansion track is a strong B on the tier list, behind butter unlocks (S) and roller upgrades (A), because the expansion is the strongest multiplier of the three when the roller has spare capacity and the weakest when the roller is bottlenecked.
+
+## Idle Mechanic: The Offline Earnings Layer
+
+The idle mechanic is the offline earnings layer that credits cash to your banked balance while you are away from the game. The official tagline is "earn cash while you sleep", which confirms the layer exists. The offline rate is a function of your current butter, roller, and floor size, and the server credits the accumulated cash the next time you log in.
+
+The idle mechanic is the fourth track and the one that rewards long-term compounding. Players who balance the other three tracks and let the idle layer work overnight wake up to a stack of cash and an even bigger buyable unlock. Players who leave the game with unbanked cash or a bottlenecked setup wake up to a smaller accumulation because the idle layer multiplies the weaker setup.
+
+The idle mechanic is the reason the four-track progression matters. Each track contributes to the offline multiplier, and the tracks interact multiplicatively. A player with a strong butter, strong roller, and strong floor gets more offline income than a player with a strong butter but a weak roller and a small floor, even though both players have "one strong track". The compounding is in the balance, not the peak.
+
+## How the Mechanics Interact
+
+The four mechanics (crunch, collection, unlock, upgrade) plus the idle layer form a single compounding loop. The crunch mechanic generates cash drops, the collection mechanic banks those drops, the unlock mechanic reinvests the banked balance into butter flavor, the upgrade mechanic reinvests the banked balance into roller throughput, and the idle mechanic multiplies the result while you are away. Each step feeds the next, and the only way to break the loop is to leave one step uncompleted.
+
+The most common break is forgetting the collection sweep. The cash drops on the floor are not banked until collected, and the idle layer does not credit unbanked cash. A player who crunches for thirty minutes and forgets to sweep the floor walks away with the same banked balance they started with, which is the worst possible compounding outcome. The collection sweep is the cheapest insurance against the most common mistake.
+
+The second most common break is investing in a track that is already strong while ignoring a track that is weak. A player who has a fast roller but a small floor is bottlenecked by the floor size, and buying another roller upgrade wastes the compounding because the roller already covers more butter than the floor has. The bottleneck must be identified and resolved before the loop compounds at full speed.
+
+## What Comes Next
+
+The mechanics guide is the foundation for the rest of the wiki. The [beginner guide](/en/beginner-guide/) covers how to run the loop in the right order during your first session. The [butter flavor progression](/en/butter-flavors/) guide covers the unlock mechanic in depth. The [roller upgrade order](/en/roller-upgrades/) guide covers the upgrade mechanic in depth. The [cash farming basics](/en/cash-farming/) guide covers the crunch and collection mechanics in depth. The [offline earnings](/en/offline-earnings/) guide covers the idle mechanic in depth.
+
+If you came back to the game for the Update 2 event on August 1, 2026 at 17:00 UTC, the [updates category](/en/updates/) tracks everything that is confirmed to change. No patch notes have been published yet, so any changes to the four mechanics are unknown. We will update this guide as soon as the changes are visible in the live game.
+
+
+## The Controls Quick Reference
+
+| Action | PC | Mobile | Console |
+| --- | --- | --- | --- |
+| Move avatar | WASD | Left thumbstick | Left thumbstick |
+| Sweep roller | Mouse drag | Right thumb drag | Right trigger |
+| Open upgrade menu | E or click button | Tap upgrade icon | South button |
+| Toggle camera | Right mouse drag | Two-finger pinch | Right thumbstick |
+| Quit to menu | Escape | Back gesture | Menu button |
+
+## Frequently Asked Questions
+
+**What is the main mechanic in Crunch My Butter?**
+
+Use the on-screen joystick to steer the roller in continuous sweeps. Short taps produce short roller motions, which produce fewer butter contacts. The optimal mobile rhythm is a slow, continuous sweep in an oval or figure-eight pattern, similar to how a Roomba navigates a room.
+
+
+**How do I control the roller on PC?**
+
+No. The offline layer multiplies your butter, roller, and floor into cash, not your cash into more cash. Every idle minute spent on unspent cash is compounding income you are not earning. Buy the next unlock before logging out so the offline layer can work on the reinvested economy.
+
+
+**How do I control the roller on mobile?**
+
+The standard Roblox movement keys (WASD) steer the roller, and the standard Roblox interaction keys work on the in-game prompts. The game does not publish a list of hotkeys, but the official Roblox documentation covers the standard movement scheme. There is no auto-crunch or auto-collect hotkey in the current build.

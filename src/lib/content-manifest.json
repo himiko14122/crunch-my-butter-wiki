@@ -1,0 +1,3066 @@
+{
+  "contentPaths": [
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "afk-guide",
+      "segments": [
+        "afk-guide"
+      ],
+      "importPath": "AFK-Guide",
+      "title": "Crunch My Butter AFK Guide: Best Idle and Offline Setups"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "afk-money",
+      "segments": [
+        "afk-money"
+      ],
+      "importPath": "AFK-Money",
+      "title": "Crunch My Butter AFK Money & Offline Cash Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "auto-collect",
+      "segments": [
+        "auto-collect"
+      ],
+      "importPath": "Auto-Collect",
+      "title": "Crunch My Butter Auto Collect: Manual vs AFK Cash"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Crunch My Butter Beginner Guide: Your First 30 Minutes"
+    },
+    {
+      "locale": "en",
+      "contentType": "butter-flavors",
+      "slug": "best-butter",
+      "segments": [
+        "best-butter"
+      ],
+      "importPath": "Best-Butter",
+      "title": "Crunch My Butter Best Butter: Which to Buy First"
+    },
+    {
+      "locale": "en",
+      "contentType": "roller-upgrades",
+      "slug": "best-roller",
+      "segments": [
+        "best-roller"
+      ],
+      "importPath": "Best-Roller",
+      "title": "Crunch My Butter Best Roller Upgrade Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "best-upgrades",
+      "segments": [
+        "best-upgrades"
+      ],
+      "importPath": "Best-Upgrades",
+      "title": "Crunch My Butter Best Upgrades: What to Buy First"
+    },
+    {
+      "locale": "en",
+      "contentType": "butter-flavors",
+      "slug": "butter-list",
+      "segments": [
+        "butter-list"
+      ],
+      "importPath": "Butter-List",
+      "title": "Crunch My Butter Butter List: Complete Flavor Progression"
+    },
+    {
+      "locale": "en",
+      "contentType": "butter-flavors",
+      "slug": "butter-progression",
+      "segments": [
+        "butter-progression"
+      ],
+      "importPath": "Butter-Progression",
+      "title": "Crunch My Butter Butter Progression: Unlock Order Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "butter-flavors",
+      "slug": "butter-vs-roller",
+      "segments": [
+        "butter-vs-roller"
+      ],
+      "importPath": "Butter-Vs-Roller",
+      "title": "Crunch My Butter: Butter vs Roller Upgrade Priority"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "cash-farming-basics",
+      "segments": [
+        "cash-farming-basics"
+      ],
+      "importPath": "Cash-Farming-Basics",
+      "title": "Crunch My Butter Cash Farming Basics for Beginners"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "common-mistakes",
+      "segments": [
+        "common-mistakes"
+      ],
+      "importPath": "Common-Mistakes",
+      "title": "Crunch My Butter Common Mistakes New Players Make"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "common-mistakes-tier",
+      "segments": [
+        "common-mistakes-tier"
+      ],
+      "importPath": "Common-Mistakes-Tier",
+      "title": "Crunch My Butter Common Mistakes in Upgrade Priority"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "controls-and-mechanics",
+      "segments": [
+        "controls-and-mechanics"
+      ],
+      "importPath": "Controls-Mechanics",
+      "title": "Crunch My Butter Controls and Mechanics Explained"
+    },
+    {
+      "locale": "en",
+      "contentType": "expansion",
+      "slug": "end-game",
+      "segments": [
+        "end-game"
+      ],
+      "importPath": "End-Game",
+      "title": "Crunch My Butter End Game: Late Progression Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "expansion",
+      "slug": "expansion-guide",
+      "segments": [
+        "expansion-guide"
+      ],
+      "importPath": "Expansion-Guide",
+      "title": "Crunch My Butter Expansion Guide: When to Grow Your Floor"
+    },
+    {
+      "locale": "en",
+      "contentType": "codes",
+      "slug": "fake-codes-warning",
+      "segments": [
+        "fake-codes-warning"
+      ],
+      "importPath": "Fake-Codes-Warning",
+      "title": "Spotting Fake Crunch My Butter Code Lists: 5 Red Flags"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "fastest-money",
+      "segments": [
+        "fastest-money"
+      ],
+      "importPath": "Fastest-Money",
+      "title": "Crunch My Butter Fastest Money Method: CPM Optimization"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "fastest-progression",
+      "segments": [
+        "fastest-progression"
+      ],
+      "importPath": "Fastest-Progression",
+      "title": "Crunch My Butter Fastest Progression Method"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "first-hour-guide",
+      "segments": [
+        "first-hour-guide"
+      ],
+      "importPath": "First-Hour-Guide",
+      "title": "Crunch My Butter First Hour Guide: From Zero to Second Butter"
+    },
+    {
+      "locale": "en",
+      "contentType": "codes",
+      "slug": "how-to-redeem",
+      "segments": [
+        "how-to-redeem"
+      ],
+      "importPath": "How-To-Redeem",
+      "title": "How to Redeem Codes in Crunch My Butter (When They Exist)"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "is-it-safe",
+      "segments": [
+        "is-it-safe"
+      ],
+      "importPath": "Is-It-Safe",
+      "title": "Is Crunch My Butter Safe? Roblox Safety and Age Rating Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "roller-upgrades",
+      "slug": "max-roller",
+      "segments": [
+        "max-roller"
+      ],
+      "importPath": "Max-Roller",
+      "title": "Crunch My Butter Max Roller: Late-Game Upgrade Strategy"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "mobile-guide",
+      "segments": [
+        "mobile-guide"
+      ],
+      "importPath": "Mobile-Guide",
+      "title": "Crunch My Butter Mobile Guide: Playing on Phone and Tablet"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "money-glitch",
+      "segments": [
+        "money-glitch"
+      ],
+      "importPath": "Money-Glitch",
+      "title": "Crunch My Butter Money Glitch: Why Glitches Don't Exist"
+    },
+    {
+      "locale": "en",
+      "contentType": "cash-farming",
+      "slug": "money-making-tips",
+      "segments": [
+        "money-making-tips"
+      ],
+      "importPath": "Money-Making-Tips",
+      "title": "Crunch My Butter Money Making Tips: Cash Farming Strategy"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "new-content",
+      "segments": [
+        "new-content"
+      ],
+      "importPath": "New-Content",
+      "title": "Crunch My Butter New Content: What Update 2 Might Add"
+    },
+    {
+      "locale": "en",
+      "contentType": "codes",
+      "slug": "no-codes-yet",
+      "segments": [
+        "no-codes-yet"
+      ],
+      "importPath": "No-Codes-Yet",
+      "title": "Crunch My Butter Codes: No Codes Yet (July 2026 Status)"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "offline-earnings",
+      "segments": [
+        "offline-earnings"
+      ],
+      "importPath": "Offline-Earnings",
+      "title": "Crunch My Butter Offline Earnings & AFK Setup"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "progression-guide",
+      "segments": [
+        "progression-guide"
+      ],
+      "importPath": "Progression-Guide",
+      "title": "Crunch My Butter Progression Guide: Order of Upgrades"
+    },
+    {
+      "locale": "en",
+      "contentType": "expansion",
+      "slug": "progression-stalled",
+      "segments": [
+        "progression-stalled"
+      ],
+      "importPath": "Progression-Stalled",
+      "title": "Crunch My Butter Progression Stalled: How to Get Unstuck"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "ranking-explained",
+      "segments": [
+        "ranking-explained"
+      ],
+      "importPath": "Ranking-Explained",
+      "title": "Crunch My Butter Tier List Explained: Why Each Rank"
+    },
+    {
+      "locale": "en",
+      "contentType": "expansion",
+      "slug": "rebirth-prestige",
+      "segments": [
+        "rebirth-prestige"
+      ],
+      "importPath": "Rebirth-Prestige",
+      "title": "Crunch My Butter Rebirth & Prestige: Does It Exist?"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "release-date",
+      "segments": [
+        "release-date"
+      ],
+      "importPath": "Release-Date",
+      "title": "Crunch My Butter Release Date & Game History"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "reviews-and-rating",
+      "segments": [
+        "reviews-and-rating"
+      ],
+      "importPath": "Reviews-And-Rating",
+      "title": "Crunch My Butter Reviews & Rating: Is It Good?"
+    },
+    {
+      "locale": "en",
+      "contentType": "roller-upgrades",
+      "slug": "roller-coverage",
+      "segments": [
+        "roller-coverage"
+      ],
+      "importPath": "Roller-Coverage",
+      "title": "Crunch My Butter Roller Coverage: How to Expand Floor Efficiently"
+    },
+    {
+      "locale": "en",
+      "contentType": "roller-upgrades",
+      "slug": "roller-upgrade-order",
+      "segments": [
+        "roller-upgrade-order"
+      ],
+      "importPath": "Roller-Upgrade-Order",
+      "title": "Crunch My Butter Roller Upgrade Order: Best Path"
+    },
+    {
+      "locale": "en",
+      "contentType": "roller-upgrades",
+      "slug": "roller-vs-butter",
+      "segments": [
+        "roller-vs-butter"
+      ],
+      "importPath": "Roller-Vs-Butter",
+      "title": "Crunch My Butter: Roller Upgrade vs Butter Flavor"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "s-tier-a-tier",
+      "segments": [
+        "s-tier-a-tier"
+      ],
+      "importPath": "S-Tier-A-Tier",
+      "title": "Crunch My Butter S Tier vs A Tier: Which to Choose"
+    },
+    {
+      "locale": "en",
+      "contentType": "butter-flavors",
+      "slug": "salted-butter",
+      "segments": [
+        "salted-butter"
+      ],
+      "importPath": "Salted-Butter",
+      "title": "Crunch My Butter Salted Butter: The Starter Tier Explained"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "script-warning",
+      "segments": [
+        "script-warning"
+      ],
+      "importPath": "Script-Warning",
+      "title": "Crunch My Butter Script Warning: Ban Risks and Roblox ToS"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "stats-and-popularity",
+      "segments": [
+        "stats-and-popularity"
+      ],
+      "importPath": "Stats-And-Popularity",
+      "title": "Crunch My Butter Stats: Visits, Favorites & Player Count"
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "tier-list-overview",
+      "segments": [
+        "tier-list-overview"
+      ],
+      "importPath": "Tier-List-Overview",
+      "title": "Crunch My Butter Tier List: Best Upgrades Ranked"
+    },
+    {
+      "locale": "en",
+      "contentType": "codes",
+      "slug": "update-2-codes",
+      "segments": [
+        "update-2-codes"
+      ],
+      "importPath": "Update-2-Codes",
+      "title": "Crunch My Butter Update 2 Codes: What to Expect"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "update-2-overview",
+      "segments": [
+        "update-2-overview"
+      ],
+      "importPath": "Update-2-Overview",
+      "title": "Crunch My Butter Update 2: Release Date & What to Expect"
+    },
+    {
+      "locale": "en",
+      "contentType": "expansion",
+      "slug": "when-to-expand",
+      "segments": [
+        "when-to-expand"
+      ],
+      "importPath": "When-To-Expand",
+      "title": "Crunch My Butter When to Expand: Floor Size Decision Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "codes",
+      "slug": "why-no-codes",
+      "segments": [
+        "why-no-codes"
+      ],
+      "importPath": "Why-No-Codes",
+      "title": "Why Crunch My Butter Has No Codes (And What That Means)"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "worth-playing",
+      "segments": [
+        "worth-playing"
+      ],
+      "importPath": "Is-It-Worth-Playing",
+      "title": "Is Crunch My Butter Worth Playing in 2026? Honest Review"
+    }
+  ],
+  "tocMap": {
+    "guides:en:afk-guide": [
+      {
+        "id": "what-the-afk-layer-actually-does",
+        "text": "What the AFK Layer Actually Does"
+      },
+      {
+        "id": "the-optimal-afk-state",
+        "text": "The Optimal AFK State"
+      },
+      {
+        "id": "best-server-position-for-afk",
+        "text": "Best Server Position for AFK"
+      },
+      {
+        "id": "overnight-farming-routine",
+        "text": "Overnight Farming Routine"
+      },
+      {
+        "id": "afk-vs-active-income-comparison",
+        "text": "AFK vs. Active Income Comparison"
+      },
+      {
+        "id": "mobile-afk-strategy",
+        "text": "Mobile AFK Strategy"
+      },
+      {
+        "id": "common-afk-mistakes-to-avoid",
+        "text": "Common AFK Mistakes to Avoid"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-afk-setup-checklist",
+        "text": "The AFK Setup Checklist"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:beginner-guide": [
+      {
+        "id": "the-five-step-loop-in-the-right-order",
+        "text": "The Five-Step Loop in the Right Order"
+      },
+      {
+        "id": "what-to-buy-first-in-crunch-my-butter",
+        "text": "What to Buy First in Crunch My Butter"
+      },
+      {
+        "id": "crunching-and-collection-mechanics",
+        "text": "Crunching and Collection Mechanics"
+      },
+      {
+        "id": "the-four-track-progression-explained",
+        "text": "The Four-Track Progression Explained"
+      },
+      {
+        "id": "offline-earnings-and-the-afk-setup",
+        "text": "Offline Earnings and the AFK Setup"
+      },
+      {
+        "id": "common-beginner-mistakes-to-avoid",
+        "text": "Common Beginner Mistakes to Avoid"
+      },
+      {
+        "id": "what-comes-after-the-beginner-phase",
+        "text": "What Comes After the Beginner Phase"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:common-mistakes": [
+      {
+        "id": "mistake-1-hoarding-cash",
+        "text": "Mistake 1: Hoarding Cash"
+      },
+      {
+        "id": "mistake-2-ignoring-the-collection-sweep",
+        "text": "Mistake 2: Ignoring the Collection Sweep"
+      },
+      {
+        "id": "mistake-3-buying-the-wrong-upgrade-first",
+        "text": "Mistake 3: Buying the Wrong Upgrade First"
+      },
+      {
+        "id": "mistake-4-over-investing-in-one-track",
+        "text": "Mistake 4: Over-Investing in One Track"
+      },
+      {
+        "id": "mistake-5-buying-the-area-expansion-too-early",
+        "text": "Mistake 5: Buying the Area Expansion Too Early"
+      },
+      {
+        "id": "mistake-6-browsing-the-upgrade-menu-too-long",
+        "text": "Mistake 6: Browsing the Upgrade Menu Too Long"
+      },
+      {
+        "id": "mistake-7-leaving-the-game-with-a-bottlenecked-setup",
+        "text": "Mistake 7: Leaving the Game with a Bottlenecked Setup"
+      },
+      {
+        "id": "mistake-8-comparing-active-income-to-afk-income-unfairly",
+        "text": "Mistake 8: Comparing Active Income to AFK Income Unfairly"
+      },
+      {
+        "id": "mistake-9-using-scripts-or-exploits",
+        "text": "Mistake 9: Using Scripts or Exploits"
+      },
+      {
+        "id": "mistake-10-ignoring-the-update-2-content",
+        "text": "Mistake 10: Ignoring the Update 2 Content"
+      },
+      {
+        "id": "the-cumulative-effect-of-mistakes",
+        "text": "The Cumulative Effect of Mistakes"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-beginner-trap-diagnostic",
+        "text": "The Beginner Trap Diagnostic"
+      },
+      {
+        "id": "the-progression-phases-at-a-glance",
+        "text": "The Progression Phases at a Glance"
+      },
+      {
+        "id": "the-habit-stack-that-compounds",
+        "text": "The Habit Stack That Compounds"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:controls-and-mechanics": [
+      {
+        "id": "crunch-mechanic-how-butter-cracks",
+        "text": "Crunch Mechanic: How Butter Cracks"
+      },
+      {
+        "id": "collection-mechanic-picking-up-dropped-cash",
+        "text": "Collection Mechanic: Picking Up Dropped Cash"
+      },
+      {
+        "id": "unlock-mechanic-buying-the-next-butter",
+        "text": "Unlock Mechanic: Buying the Next Butter"
+      },
+      {
+        "id": "upgrade-mechanic-roller-throughput",
+        "text": "Upgrade Mechanic: Roller Throughput"
+      },
+      {
+        "id": "expansion-mechanic-growing-the-butter-floor",
+        "text": "Expansion Mechanic: Growing the Butter Floor"
+      },
+      {
+        "id": "idle-mechanic-the-offline-earnings-layer",
+        "text": "Idle Mechanic: The Offline Earnings Layer"
+      },
+      {
+        "id": "how-the-mechanics-interact",
+        "text": "How the Mechanics Interact"
+      },
+      {
+        "id": "what-comes-next",
+        "text": "What Comes Next"
+      },
+      {
+        "id": "the-controls-quick-reference",
+        "text": "The Controls Quick Reference"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:fastest-progression": [
+      {
+        "id": "the-reinvestment-discipline",
+        "text": "The Reinvestment Discipline"
+      },
+      {
+        "id": "the-active-session-routine",
+        "text": "The Active Session Routine"
+      },
+      {
+        "id": "the-session-length-sweet-spot",
+        "text": "The Session Length Sweet Spot"
+      },
+      {
+        "id": "the-overnight-compounding-cycle",
+        "text": "The Overnight Compounding Cycle"
+      },
+      {
+        "id": "the-bottleneck-recognition",
+        "text": "The Bottleneck Recognition"
+      },
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-multi-track-balance",
+        "text": "The Multi-Track Balance"
+      },
+      {
+        "id": "the-update-2-timing",
+        "text": "The Update 2 Timing"
+      },
+      {
+        "id": "the-compounding-multiplier",
+        "text": "The Compounding Multiplier"
+      },
+      {
+        "id": "common-fast-progression-mistakes",
+        "text": "Common Fast-Progression Mistakes"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-beginner-trap-diagnostic",
+        "text": "The Beginner Trap Diagnostic"
+      },
+      {
+        "id": "the-progression-phases-at-a-glance",
+        "text": "The Progression Phases at a Glance"
+      },
+      {
+        "id": "the-habit-stack-that-compounds",
+        "text": "The Habit Stack That Compounds"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:first-hour-guide": [
+      {
+        "id": "minutes-05-join-crunch-collect",
+        "text": "Minutes 0–5: Join, Crunch, Collect"
+      },
+      {
+        "id": "minutes-515-first-cash-pile-first-decision",
+        "text": "Minutes 5–15: First Cash Pile, First Decision"
+      },
+      {
+        "id": "minutes-1530-second-butter-first-roller-upgrade",
+        "text": "Minutes 15–30: Second Butter, First Roller Upgrade"
+      },
+      {
+        "id": "minutes-3045-roller-upgrade-or-another-butter",
+        "text": "Minutes 30–45: Roller Upgrade or Another Butter"
+      },
+      {
+        "id": "minutes-4560-idle-layer-preview-and-logout-prep",
+        "text": "Minutes 45–60: Idle Layer Preview and Logout Prep"
+      },
+      {
+        "id": "common-first-hour-mistakes",
+        "text": "Common First-Hour Mistakes"
+      },
+      {
+        "id": "what-comes-after-the-first-hour",
+        "text": "What Comes After the First Hour"
+      },
+      {
+        "id": "the-first-hour-milestone-tracker",
+        "text": "The First Hour Milestone Tracker"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:is-it-safe": [
+      {
+        "id": "the-roblox-age-rating-system",
+        "text": "The Roblox Age Rating System"
+      },
+      {
+        "id": "voice-chat-and-camera-status",
+        "text": "Voice Chat and Camera Status"
+      },
+      {
+        "id": "server-size-and-moderation",
+        "text": "Server Size and Moderation"
+      },
+      {
+        "id": "monetization-and-spending-pressure",
+        "text": "Monetization and Spending Pressure"
+      },
+      {
+        "id": "chat-filtering-and-social-interaction",
+        "text": "Chat Filtering and Social Interaction"
+      },
+      {
+        "id": "the-roblox-parental-controls",
+        "text": "The Roblox Parental Controls"
+      },
+      {
+        "id": "comparison-to-other-roblox-games",
+        "text": "Comparison to Other Roblox Games"
+      },
+      {
+        "id": "what-parents-should-do-before-their-child-plays",
+        "text": "What Parents Should Do Before Their Child Plays"
+      },
+      {
+        "id": "the-roblox-safety-reporting-system",
+        "text": "The Roblox Safety Reporting System"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-crunch-my-butter-safety-snapshot",
+        "text": "The Crunch My Butter Safety Snapshot"
+      },
+      {
+        "id": "the-parental-setup-checklist",
+        "text": "The Parental Setup Checklist"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:worth-playing": [
+      {
+        "id": "the-verified-strengths",
+        "text": "The Verified Strengths"
+      },
+      {
+        "id": "the-honest-weaknesses",
+        "text": "The Honest Weaknesses"
+      },
+      {
+        "id": "the-asmr-comparison",
+        "text": "The ASMR Comparison"
+      },
+      {
+        "id": "who-should-play-crunch-my-butter",
+        "text": "Who Should Play Crunch My Butter"
+      },
+      {
+        "id": "the-update-2-timing",
+        "text": "The Update 2 Timing"
+      },
+      {
+        "id": "the-long-term-verdict",
+        "text": "The Long-Term Verdict"
+      },
+      {
+        "id": "the-worth-it-scorecard",
+        "text": "The Worth-It Scorecard"
+      },
+      {
+        "id": "the-who-should-play-matrix",
+        "text": "The Who-Should-Play Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:mobile-guide": [
+      {
+        "id": "on-screen-joystick-and-touch-controls",
+        "text": "On-Screen Joystick and Touch Controls"
+      },
+      {
+        "id": "graphics-quality-and-performance",
+        "text": "Graphics Quality and Performance"
+      },
+      {
+        "id": "collection-sweep-on-mobile",
+        "text": "Collection Sweep on Mobile"
+      },
+      {
+        "id": "mobile-afk-strategy",
+        "text": "Mobile AFK Strategy"
+      },
+      {
+        "id": "battery-and-thermal-considerations",
+        "text": "Battery and Thermal Considerations"
+      },
+      {
+        "id": "server-browser-on-mobile",
+        "text": "Server Browser on Mobile"
+      },
+      {
+        "id": "common-mobile-mistakes-to-avoid",
+        "text": "Common Mobile Mistakes to Avoid"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-mobile-layout-guide",
+        "text": "The Mobile Layout Guide"
+      },
+      {
+        "id": "the-mobile-performance-cheatsheet",
+        "text": "The Mobile Performance Cheatsheet"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:offline-earnings": [
+      {
+        "id": "how-the-offline-layer-works",
+        "text": "How the Offline Layer Works"
+      },
+      {
+        "id": "what-carries-over-between-sessions",
+        "text": "What Carries Over Between Sessions"
+      },
+      {
+        "id": "the-best-afk-state-to-leave-the-game-in",
+        "text": "The Best AFK State to Leave the Game In"
+      },
+      {
+        "id": "overnight-farming-routines",
+        "text": "Overnight Farming Routines"
+      },
+      {
+        "id": "mobile-afk-strategy",
+        "text": "Mobile AFK Strategy"
+      },
+      {
+        "id": "common-afk-mistakes-to-avoid",
+        "text": "Common AFK Mistakes to Avoid"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-offline-earnings-math",
+        "text": "The Offline Earnings Math"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:progression-guide": [
+      {
+        "id": "the-four-track-progression-framework",
+        "text": "The Four-Track Progression Framework"
+      },
+      {
+        "id": "stage-1-the-first-30-minutes",
+        "text": "Stage 1: The First 30 Minutes"
+      },
+      {
+        "id": "stage-2-the-first-hour-to-the-third-hour",
+        "text": "Stage 2: The First Hour to the Third Hour"
+      },
+      {
+        "id": "stage-3-the-third-hour-onwards",
+        "text": "Stage 3: The Third Hour Onwards"
+      },
+      {
+        "id": "the-priority-order-of-the-four-tracks",
+        "text": "The Priority Order of the Four Tracks"
+      },
+      {
+        "id": "when-to-stop-investing-in-a-track",
+        "text": "When to Stop Investing in a Track"
+      },
+      {
+        "id": "long-term-progression-goals",
+        "text": "Long-Term Progression Goals"
+      },
+      {
+        "id": "common-progression-mistakes",
+        "text": "Common Progression Mistakes"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:script-warning": [
+      {
+        "id": "what-the-scripts-claim-to-do",
+        "text": "What the Scripts Claim to Do"
+      },
+      {
+        "id": "roblox-terms-of-service-and-automation",
+        "text": "Roblox Terms of Service and Automation"
+      },
+      {
+        "id": "realistic-ban-risk-assessment",
+        "text": "Realistic Ban Risk Assessment"
+      },
+      {
+        "id": "safe-alternatives-for-faster-progression",
+        "text": "Safe Alternatives for Faster Progression"
+      },
+      {
+        "id": "the-role-of-scripts-in-the-roblox-community",
+        "text": "The Role of Scripts in the Roblox Community"
+      },
+      {
+        "id": "what-to-do-if-you-have-used-a-script",
+        "text": "What to Do If You Have Used a Script"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "linking-to-the-rest-of-the-wiki",
+        "text": "Linking to the Rest of the Wiki"
+      },
+      {
+        "id": "the-script-risk-matrix",
+        "text": "The Script Risk Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "codes:en:fake-codes-warning": [
+      {
+        "id": "red-flag-1-very-short-codes",
+        "text": "Red Flag 1: Very Short Codes"
+      },
+      {
+        "id": "red-flag-2-no-expiration-dates",
+        "text": "Red Flag 2: No Expiration Dates"
+      },
+      {
+        "id": "red-flag-3-generic-rewards",
+        "text": "Red Flag 3: Generic Rewards"
+      },
+      {
+        "id": "red-flag-4-page-full-of-ads",
+        "text": "Red Flag 4: Page Full of Ads"
+      },
+      {
+        "id": "red-flag-5-no-official-sources",
+        "text": "Red Flag 5: No Official Sources"
+      },
+      {
+        "id": "the-clickbait-pattern",
+        "text": "The Clickbait Pattern"
+      },
+      {
+        "id": "the-roblox-community-standards-angle",
+        "text": "The Roblox Community Standards Angle"
+      },
+      {
+        "id": "what-to-do-if-you-encounter-a-fake-code-list",
+        "text": "What to Do If You Encounter a Fake Code List"
+      },
+      {
+        "id": "the-update-2-risk-window",
+        "text": "The Update 2 Risk Window"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roblox-code-redeem-lifecycle",
+        "text": "The Roblox Code Redeem Lifecycle"
+      },
+      {
+        "id": "the-code-status-matrix",
+        "text": "The Code Status Matrix"
+      },
+      {
+        "id": "the-fake-code-red-flags",
+        "text": "The Fake Code Red Flags"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "codes:en:how-to-redeem": [
+      {
+        "id": "the-standard-roblox-redeem-pattern",
+        "text": "The Standard Roblox Redeem Pattern"
+      },
+      {
+        "id": "where-the-code-box-will-likely-appear",
+        "text": "Where the Code Box Will Likely Appear"
+      },
+      {
+        "id": "what-to-do-if-the-game-adds-codes",
+        "text": "What to Do If the Game Adds Codes"
+      },
+      {
+        "id": "why-codes-fail-to-redeem",
+        "text": "Why Codes Fail to Redeem"
+      },
+      {
+        "id": "the-honest-status-for-july-2026",
+        "text": "The Honest Status for July 2026"
+      },
+      {
+        "id": "the-pattern-across-ex10s-other-titles",
+        "text": "The Pattern Across EX10's Other Titles"
+      },
+      {
+        "id": "the-risk-of-fake-code-lists",
+        "text": "The Risk of Fake Code Lists"
+      },
+      {
+        "id": "what-the-wiki-will-do-when-codes-ship",
+        "text": "What the Wiki Will Do When Codes Ship"
+      },
+      {
+        "id": "the-bottom-line",
+        "text": "The Bottom Line"
+      },
+      {
+        "id": "the-roblox-code-redeem-lifecycle",
+        "text": "The Roblox Code Redeem Lifecycle"
+      },
+      {
+        "id": "the-code-status-matrix",
+        "text": "The Code Status Matrix"
+      },
+      {
+        "id": "the-fake-code-red-flags",
+        "text": "The Fake Code Red Flags"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "codes:en:no-codes-yet": [
+      {
+        "id": "why-crunch-my-butter-has-no-codes",
+        "text": "Why Crunch My Butter Has No Codes"
+      },
+      {
+        "id": "how-to-verify-the-code-status-yourself",
+        "text": "How to Verify the Code Status Yourself"
+      },
+      {
+        "id": "the-five-red-flags-of-fake-code-lists",
+        "text": "The Five Red Flags of Fake Code Lists"
+      },
+      {
+        "id": "what-the-update-2-event-might-change",
+        "text": "What the Update 2 Event Might Change"
+      },
+      {
+        "id": "the-honest-alternative-to-codes",
+        "text": "The Honest Alternative to Codes"
+      },
+      {
+        "id": "the-history-of-ex10-code-systems",
+        "text": "The History of EX10 Code Systems"
+      },
+      {
+        "id": "what-to-do-if-you-see-a-working-code",
+        "text": "What to Do If You See a \"Working Code\""
+      },
+      {
+        "id": "the-bottom-line-on-codes",
+        "text": "The Bottom Line on Codes"
+      },
+      {
+        "id": "the-roblox-code-redeem-lifecycle",
+        "text": "The Roblox Code Redeem Lifecycle"
+      },
+      {
+        "id": "the-code-status-matrix",
+        "text": "The Code Status Matrix"
+      },
+      {
+        "id": "the-fake-code-red-flags",
+        "text": "The Fake Code Red Flags"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "codes:en:update-2-codes": [
+      {
+        "id": "the-ex10-code-pattern",
+        "text": "The EX10 Code Pattern"
+      },
+      {
+        "id": "what-the-newcontent-tag-suggests",
+        "text": "What the newContent Tag Suggests"
+      },
+      {
+        "id": "how-to-prepare-for-the-update-window",
+        "text": "How to Prepare for the Update Window"
+      },
+      {
+        "id": "the-risk-of-fake-code-lists",
+        "text": "The Risk of Fake Code Lists"
+      },
+      {
+        "id": "the-most-likely-code-additions",
+        "text": "The Most Likely Code Additions"
+      },
+      {
+        "id": "what-the-wiki-will-do",
+        "text": "What the Wiki Will Do"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roblox-code-redeem-lifecycle",
+        "text": "The Roblox Code Redeem Lifecycle"
+      },
+      {
+        "id": "the-code-status-matrix",
+        "text": "The Code Status Matrix"
+      },
+      {
+        "id": "the-fake-code-red-flags",
+        "text": "The Fake Code Red Flags"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "codes:en:why-no-codes": [
+      {
+        "id": "the-three-structural-reasons",
+        "text": "The Three Structural Reasons"
+      },
+      {
+        "id": "why-this-is-normal-for-new-simulators",
+        "text": "Why This Is Normal for New Simulators"
+      },
+      {
+        "id": "what-the-absence-means-for-players",
+        "text": "What the Absence Means for Players"
+      },
+      {
+        "id": "the-three-alternative-free-reward-channels",
+        "text": "The Three Alternative Free-Reward Channels"
+      },
+      {
+        "id": "the-update-2-risk-window",
+        "text": "The Update 2 Risk Window"
+      },
+      {
+        "id": "how-to-help-the-wiki-track-the-status",
+        "text": "How to Help the Wiki Track the Status"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roblox-code-redeem-lifecycle",
+        "text": "The Roblox Code Redeem Lifecycle"
+      },
+      {
+        "id": "the-code-status-matrix",
+        "text": "The Code Status Matrix"
+      },
+      {
+        "id": "the-fake-code-red-flags",
+        "text": "The Fake Code Red Flags"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "butter-flavors:en:best-butter": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-payback-period-estimate",
+        "text": "The Payback Period Estimate"
+      },
+      {
+        "id": "the-roller-bottleneck-check",
+        "text": "The Roller Bottleneck Check"
+      },
+      {
+        "id": "the-multiplier-effect",
+        "text": "The Multiplier Effect"
+      },
+      {
+        "id": "the-flavor-tier-comparison",
+        "text": "The Flavor Tier Comparison"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-unlock-decision-tree",
+        "text": "The Unlock Decision Tree"
+      },
+      {
+        "id": "the-butter-flavor-tier-reference",
+        "text": "The Butter Flavor Tier Reference"
+      },
+      {
+        "id": "the-butter-vs-roller-decision-matrix",
+        "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-feedback-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Feedback This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-payback-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term Payback This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-possibility-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Possibility This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "butter-flavors:en:butter-list": [
+      {
+        "id": "the-progression-structure",
+        "text": "The Progression Structure"
+      },
+      {
+        "id": "the-unlock-rule",
+        "text": "The Unlock Rule"
+      },
+      {
+        "id": "the-data-status-of-the-butter-list",
+        "text": "The Data Status of the Butter List"
+      },
+      {
+        "id": "the-roller-pairing",
+        "text": "The Roller Pairing"
+      },
+      {
+        "id": "the-income-effect",
+        "text": "The Income Effect"
+      },
+      {
+        "id": "the-flavor-specific-asmr-effects",
+        "text": "The Flavor-Specific ASMR Effects"
+      },
+      {
+        "id": "the-decision-framework",
+        "text": "The Decision Framework"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-unlock-decision-tree",
+        "text": "The Unlock Decision Tree"
+      },
+      {
+        "id": "the-butter-flavor-tier-reference",
+        "text": "The Butter Flavor Tier Reference"
+      },
+      {
+        "id": "the-butter-vs-roller-decision-matrix",
+        "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "butter-flavors:en:butter-progression": [
+      {
+        "id": "the-optimal-unlock-order",
+        "text": "The Optimal Unlock Order"
+      },
+      {
+        "id": "the-first-decision-point",
+        "text": "The First Decision Point"
+      },
+      {
+        "id": "the-second-decision-point",
+        "text": "The Second Decision Point"
+      },
+      {
+        "id": "the-third-decision-point",
+        "text": "The Third Decision Point"
+      },
+      {
+        "id": "the-late-game-unlock-order",
+        "text": "The Late-Game Unlock Order"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-unlock-decision-tree",
+        "text": "The Unlock Decision Tree"
+      },
+      {
+        "id": "the-butter-flavor-tier-reference",
+        "text": "The Butter Flavor Tier Reference"
+      },
+      {
+        "id": "the-butter-vs-roller-decision-matrix",
+        "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-tier-progression-in-detail-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Tier Progression in Detail This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-community-discussion-on-progression-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Progression This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-considerations-for-progression-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Considerations for Progression This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "butter-flavors:en:butter-vs-roller": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-roller-bottleneck-check",
+        "text": "The Roller Bottleneck Check"
+      },
+      {
+        "id": "the-payback-period-estimate",
+        "text": "The Payback Period Estimate"
+      },
+      {
+        "id": "the-roi-comparison",
+        "text": "The ROI Comparison"
+      },
+      {
+        "id": "the-multiplier-effect",
+        "text": "The Multiplier Effect"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-unlock-decision-tree",
+        "text": "The Unlock Decision Tree"
+      },
+      {
+        "id": "the-butter-flavor-tier-reference",
+        "text": "The Butter Flavor Tier Reference"
+      },
+      {
+        "id": "the-butter-vs-roller-decision-matrix",
+        "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "butter-flavors:en:salted-butter": [
+      {
+        "id": "the-asmr-experience",
+        "text": "The ASMR Experience"
+      },
+      {
+        "id": "the-baseline-reference",
+        "text": "The Baseline Reference"
+      },
+      {
+        "id": "the-upgrade-path",
+        "text": "The Upgrade Path"
+      },
+      {
+        "id": "the-roller-pairing",
+        "text": "The Roller Pairing"
+      },
+      {
+        "id": "the-income-effect",
+        "text": "The Income Effect"
+      },
+      {
+        "id": "the-decision-framework",
+        "text": "The Decision Framework"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-unlock-decision-tree",
+        "text": "The Unlock Decision Tree"
+      },
+      {
+        "id": "the-butter-flavor-tier-reference",
+        "text": "The Butter Flavor Tier Reference"
+      },
+      {
+        "id": "the-butter-vs-roller-decision-matrix",
+        "text": "The Butter vs Roller Decision Matrix"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-visual-design-details-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Visual Design Details This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-audio-design-details-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Audio Design Details This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-physics-design-details-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-butter-flavors-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Physics Design Details This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified butter-flavors pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "roller-upgrades:en:best-roller": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-payback-period-estimate",
+        "text": "The Payback Period Estimate"
+      },
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-throughput-effect",
+        "text": "The Throughput Effect"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roller-throughput-test",
+        "text": "The Roller Throughput Test"
+      },
+      {
+        "id": "the-roller-upgrade-priority",
+        "text": "The Roller Upgrade Priority"
+      },
+      {
+        "id": "the-roller-vs-butter-decision",
+        "text": "The Roller vs Butter Decision"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-feedback-on-best-roller-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Feedback on Best Roller This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-payback-for-roller-upgrades-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term Payback for Roller Upgrades This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-considerations-for-roller-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Considerations for Roller This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "roller-upgrades:en:max-roller": [
+      {
+        "id": "the-late-game-strategy",
+        "text": "The Late-Game Strategy"
+      },
+      {
+        "id": "the-multi-track-balance",
+        "text": "The Multi-Track Balance"
+      },
+      {
+        "id": "when-to-stop-upgrading-the-roller",
+        "text": "When to Stop Upgrading the Roller"
+      },
+      {
+        "id": "the-common-late-game-mistakes",
+        "text": "The Common Late-Game Mistakes"
+      },
+      {
+        "id": "the-max-roller-achievement",
+        "text": "The Max Roller Achievement"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roller-throughput-test",
+        "text": "The Roller Throughput Test"
+      },
+      {
+        "id": "the-roller-upgrade-priority",
+        "text": "The Roller Upgrade Priority"
+      },
+      {
+        "id": "the-roller-vs-butter-decision",
+        "text": "The Roller vs Butter Decision"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-for-max-roller-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies for Max Roller This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-late-game-configuration-for-max-roller-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Late-Game Configuration for Max Roller This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-possibilities-for-max-roller-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Possibilities for Max Roller This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "roller-upgrades:en:roller-coverage": [
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-area-expansion-priority",
+        "text": "The Area Expansion Priority"
+      },
+      {
+        "id": "the-decision-framework",
+        "text": "The Decision Framework"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-offline-layer-interaction",
+        "text": "The Offline Layer Interaction"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roller-throughput-test",
+        "text": "The Roller Throughput Test"
+      },
+      {
+        "id": "the-roller-upgrade-priority",
+        "text": "The Roller Upgrade Priority"
+      },
+      {
+        "id": "the-roller-vs-butter-decision",
+        "text": "The Roller vs Butter Decision"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-for-coverage-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies for Coverage This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-late-game-configuration-for-coverage-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Late-Game Configuration for Coverage This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-possibilities-for-coverage-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Possibilities for Coverage This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "roller-upgrades:en:roller-upgrade-order": [
+      {
+        "id": "the-optimal-roller-upgrade-order",
+        "text": "The Optimal Roller Upgrade Order"
+      },
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-roi-comparison",
+        "text": "The ROI Comparison"
+      },
+      {
+        "id": "the-throughput-effect",
+        "text": "The Throughput Effect"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roller-throughput-test",
+        "text": "The Roller Throughput Test"
+      },
+      {
+        "id": "the-roller-upgrade-priority",
+        "text": "The Roller Upgrade Priority"
+      },
+      {
+        "id": "the-roller-vs-butter-decision",
+        "text": "The Roller vs Butter Decision"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-feedback-on-order-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Feedback on Order This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-update-2-considerations-for-order-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-roller-upgrades-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Update 2 Considerations for Order This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified roller-upgrades pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "roller-upgrades:en:roller-vs-butter": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-bottleneck-test",
+        "text": "The Bottleneck Test"
+      },
+      {
+        "id": "the-roi-comparison",
+        "text": "The ROI Comparison"
+      },
+      {
+        "id": "the-multiplier-effect",
+        "text": "The Multiplier Effect"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-roller-throughput-test",
+        "text": "The Roller Throughput Test"
+      },
+      {
+        "id": "the-roller-upgrade-priority",
+        "text": "The Roller Upgrade Priority"
+      },
+      {
+        "id": "the-roller-vs-butter-decision",
+        "text": "The Roller vs Butter Decision"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "cash-farming:en:afk-money": [
+      {
+        "id": "the-afk-rate-calculation",
+        "text": "The AFK Rate Calculation"
+      },
+      {
+        "id": "the-banked-balance-optimization",
+        "text": "The Banked Balance Optimization"
+      },
+      {
+        "id": "the-overnight-compounding-cycle",
+        "text": "The Overnight Compounding Cycle"
+      },
+      {
+        "id": "the-afk-state-setup",
+        "text": "The AFK State Setup"
+      },
+      {
+        "id": "the-afk-vs-active-rate-comparison",
+        "text": "The AFK vs Active Rate Comparison"
+      },
+      {
+        "id": "the-common-afk-mistakes",
+        "text": "The Common AFK Mistakes"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "cash-farming:en:auto-collect": [
+      {
+        "id": "the-manual-collection-sweep",
+        "text": "The Manual Collection Sweep"
+      },
+      {
+        "id": "the-afk-layer",
+        "text": "The AFK Layer"
+      },
+      {
+        "id": "the-active-vs-afk-comparison",
+        "text": "The Active vs AFK Comparison"
+      },
+      {
+        "id": "the-future-auto-collect-possibility",
+        "text": "The Future Auto-Collect Possibility"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-cash-flow-mistakes",
+        "text": "The Common Cash Flow Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-for-manual-sweep-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies for Manual Sweep This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-mechanics-for-auto-collect-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Mechanics for Auto Collect This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-cash-flow-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Cash Flow This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "cash-farming:en:cash-farming-basics": [
+      {
+        "id": "the-first-five-minutes",
+        "text": "The First Five Minutes"
+      },
+      {
+        "id": "the-collection-sweep",
+        "text": "The Collection Sweep"
+      },
+      {
+        "id": "the-reinvestment-cadence",
+        "text": "The Reinvestment Cadence"
+      },
+      {
+        "id": "the-bottleneck-recognition",
+        "text": "The Bottleneck Recognition"
+      },
+      {
+        "id": "the-cpm-calculation",
+        "text": "The CPM Calculation"
+      },
+      {
+        "id": "the-first-hour-goal",
+        "text": "The First Hour Goal"
+      },
+      {
+        "id": "the-common-beginner-mistakes",
+        "text": "The Common Beginner Mistakes"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-basics-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Basics This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-cash-basics-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Cash Basics This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-cash-basics-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Cash Basics This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "cash-farming:en:fastest-money": [
+      {
+        "id": "the-crunch-rhythm",
+        "text": "The Crunch Rhythm"
+      },
+      {
+        "id": "the-collection-route",
+        "text": "The Collection Route"
+      },
+      {
+        "id": "the-reinvestment-cadence",
+        "text": "The Reinvestment Cadence"
+      },
+      {
+        "id": "the-cpm-calculation",
+        "text": "The CPM Calculation"
+      },
+      {
+        "id": "the-cash-floor-vs-banked-balance",
+        "text": "The Cash Floor vs Banked Balance"
+      },
+      {
+        "id": "the-session-length-sweet-spot",
+        "text": "The Session Length Sweet Spot"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-cpm-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on CPM This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-cash-flow-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Cash Flow This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "cash-farming:en:money-glitch": [
+      {
+        "id": "why-glitches-dont-exist",
+        "text": "Why Glitches Don't Exist"
+      },
+      {
+        "id": "what-about-scripted-money-gains",
+        "text": "What About Scripted Money Gains"
+      },
+      {
+        "id": "what-to-do-if-cash-appears-to-disappear",
+        "text": "What to Do If Cash Appears to Disappear"
+      },
+      {
+        "id": "the-legitimate-money-optimization",
+        "text": "The Legitimate Money Optimization"
+      },
+      {
+        "id": "the-honest-alternative",
+        "text": "The Honest Alternative"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-glitch-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Glitch This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-cash-flow-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Cash Flow This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-money-glitch-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-cash-farming-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Money Glitch This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "cash-farming:en:money-making-tips": [
+      {
+        "id": "tip-1-invest-in-the-bottleneck",
+        "text": "Tip 1: Invest in the Bottleneck"
+      },
+      {
+        "id": "tip-2-reinvest-every-cash-balance",
+        "text": "Tip 2: Reinvest Every Cash Balance"
+      },
+      {
+        "id": "tip-3-sweep-the-floor-on-every-login-and-logout",
+        "text": "Tip 3: Sweep the Floor on Every Login and Logout"
+      },
+      {
+        "id": "tip-4-use-2040-minute-active-sessions",
+        "text": "Tip 4: Use 20–40 Minute Active Sessions"
+      },
+      {
+        "id": "tip-5-keep-the-roller-moving-continuously",
+        "text": "Tip 5: Keep the Roller Moving Continuously"
+      },
+      {
+        "id": "tip-6-buy-the-next-butter-before-upgrading-the-roller",
+        "text": "Tip 6: Buy the Next Butter Before Upgrading the Roller"
+      },
+      {
+        "id": "tip-7-balance-the-four-tracks",
+        "text": "Tip 7: Balance the Four Tracks"
+      },
+      {
+        "id": "tip-8-enable-the-notify-me-notification-for-update-2",
+        "text": "Tip 8: Enable the Notify Me Notification for Update 2"
+      },
+      {
+        "id": "the-common-cash-farming-mistakes",
+        "text": "The Common Cash Farming Mistakes"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-cash-anti-pattern-diagnostic",
+        "text": "The Cash Anti-Pattern Diagnostic"
+      },
+      {
+        "id": "the-cash-per-minute-optimization-stack",
+        "text": "The Cash Per Minute Optimization Stack"
+      },
+      {
+        "id": "the-session-length-trade-off",
+        "text": "The Session Length Trade-Off"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "expansion:en:end-game": [
+      {
+        "id": "the-late-game-strategy",
+        "text": "The Late-Game Strategy"
+      },
+      {
+        "id": "the-multi-track-balance",
+        "text": "The Multi-Track Balance"
+      },
+      {
+        "id": "the-optimal-end-game-configuration",
+        "text": "The Optimal End-Game Configuration"
+      },
+      {
+        "id": "the-common-late-game-mistakes",
+        "text": "The Common Late-Game Mistakes"
+      },
+      {
+        "id": "the-overnight-compounding-cycle",
+        "text": "The Overnight Compounding Cycle"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-expansion-readiness-checklist",
+        "text": "The Expansion Readiness Checklist"
+      },
+      {
+        "id": "the-expansion-decision-matrix",
+        "text": "The Expansion Decision Matrix"
+      },
+      {
+        "id": "the-expansion-effect-on-income",
+        "text": "The Expansion Effect on Income"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-end-game-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on End Game This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-end-game-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for End Game This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-end-game-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on End Game This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "expansion:en:expansion-guide": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-area-expansion-priority",
+        "text": "The Area Expansion Priority"
+      },
+      {
+        "id": "the-offline-layer-interaction",
+        "text": "The Offline Layer Interaction"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-expansion-mistakes",
+        "text": "The Common Expansion Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-expansion-readiness-checklist",
+        "text": "The Expansion Readiness Checklist"
+      },
+      {
+        "id": "the-expansion-decision-matrix",
+        "text": "The Expansion Decision Matrix"
+      },
+      {
+        "id": "the-expansion-effect-on-income",
+        "text": "The Expansion Effect on Income"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "expansion:en:progression-stalled": [
+      {
+        "id": "the-stall-diagnosis",
+        "text": "The Stall Diagnosis"
+      },
+      {
+        "id": "the-common-stalls",
+        "text": "The Common Stalls"
+      },
+      {
+        "id": "the-strategy-reset",
+        "text": "The Strategy Reset"
+      },
+      {
+        "id": "the-common-mistakes-during-a-stall",
+        "text": "The Common Mistakes During a Stall"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-expansion-readiness-checklist",
+        "text": "The Expansion Readiness Checklist"
+      },
+      {
+        "id": "the-expansion-decision-matrix",
+        "text": "The Expansion Decision Matrix"
+      },
+      {
+        "id": "the-expansion-effect-on-income",
+        "text": "The Expansion Effect on Income"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-stall-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Stall This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-common-stalls-in-detail-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Common Stalls in Detail This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-stall-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Stall This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-stall-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Stall This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "expansion:en:rebirth-prestige": [
+      {
+        "id": "the-current-progression",
+        "text": "The Current Progression"
+      },
+      {
+        "id": "why-rebirth-is-not-confirmed",
+        "text": "Why Rebirth Is Not Confirmed"
+      },
+      {
+        "id": "the-late-game-without-rebirth",
+        "text": "The Late Game Without Rebirth"
+      },
+      {
+        "id": "the-possible-update-2-rebirth",
+        "text": "The Possible Update 2 Rebirth"
+      },
+      {
+        "id": "the-compounding-multiplier",
+        "text": "The Compounding Multiplier"
+      },
+      {
+        "id": "the-common-progression-questions",
+        "text": "The Common Progression Questions"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-expansion-readiness-checklist",
+        "text": "The Expansion Readiness Checklist"
+      },
+      {
+        "id": "the-expansion-decision-matrix",
+        "text": "The Expansion Decision Matrix"
+      },
+      {
+        "id": "the-expansion-effect-on-income",
+        "text": "The Expansion Effect on Income"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-rebirth-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Rebirth This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-rebirth-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Rebirth This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-rebirth-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-expansion-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Rebirth This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified expansion pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "expansion:en:when-to-expand": [
+      {
+        "id": "the-roller-coverage-test",
+        "text": "The Roller Coverage Test"
+      },
+      {
+        "id": "the-expansion-cost-analysis",
+        "text": "The Expansion Cost Analysis"
+      },
+      {
+        "id": "the-payback-period",
+        "text": "The Payback Period"
+      },
+      {
+        "id": "the-decision-framework",
+        "text": "The Decision Framework"
+      },
+      {
+        "id": "the-multi-track-balance",
+        "text": "The Multi-Track Balance"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-expansion-mistakes",
+        "text": "The Common Expansion Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-expansion-readiness-checklist",
+        "text": "The Expansion Readiness Checklist"
+      },
+      {
+        "id": "the-expansion-decision-matrix",
+        "text": "The Expansion Decision Matrix"
+      },
+      {
+        "id": "the-expansion-effect-on-income",
+        "text": "The Expansion Effect on Income"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:best-upgrades": [
+      {
+        "id": "the-default-ranking",
+        "text": "The Default Ranking"
+      },
+      {
+        "id": "the-decision-framework",
+        "text": "The Decision Framework"
+      },
+      {
+        "id": "the-common-decision-points",
+        "text": "The Common Decision Points"
+      },
+      {
+        "id": "the-roi-comparison",
+        "text": "The ROI Comparison"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-mistakes",
+        "text": "The Common Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-decision-speed-run",
+        "text": "The Decision Speed Run"
+      },
+      {
+        "id": "the-progression-track-tier-list",
+        "text": "The Progression Track Tier List"
+      },
+      {
+        "id": "the-anti-pattern-tier-list",
+        "text": "The Anti-Pattern Tier List"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-upgrades-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Upgrades This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-upgrades-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Upgrades This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "tier-list:en:common-mistakes-tier": [
+      {
+        "id": "mistake-1-hoarding-cash",
+        "text": "Mistake 1: Hoarding Cash"
+      },
+      {
+        "id": "mistake-2-ignoring-the-collection-sweep",
+        "text": "Mistake 2: Ignoring the Collection Sweep"
+      },
+      {
+        "id": "mistake-3-buying-the-wrong-upgrade-first",
+        "text": "Mistake 3: Buying the Wrong Upgrade First"
+      },
+      {
+        "id": "mistake-4-over-investing-in-one-track",
+        "text": "Mistake 4: Over-Investing in One Track"
+      },
+      {
+        "id": "mistake-5-buying-the-area-expansion-too-early",
+        "text": "Mistake 5: Buying the Area Expansion Too Early"
+      },
+      {
+        "id": "mistake-6-browsing-the-upgrade-menu-too-long",
+        "text": "Mistake 6: Browsing the Upgrade Menu Too Long"
+      },
+      {
+        "id": "mistake-7-leaving-the-game-with-a-bottlenecked-setup",
+        "text": "Mistake 7: Leaving the Game with a Bottlenecked Setup"
+      },
+      {
+        "id": "mistake-8-comparing-active-income-to-afk-income-unfairly",
+        "text": "Mistake 8: Comparing Active Income to AFK Income Unfairly"
+      },
+      {
+        "id": "the-cumulative-effect",
+        "text": "The Cumulative Effect"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-decision-speed-run",
+        "text": "The Decision Speed Run"
+      },
+      {
+        "id": "the-progression-track-tier-list",
+        "text": "The Progression Track Tier List"
+      },
+      {
+        "id": "the-anti-pattern-tier-list",
+        "text": "The Anti-Pattern Tier List"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:ranking-explained": [
+      {
+        "id": "why-s-tier-is-butter-flavors",
+        "text": "Why S Tier is Butter Flavors"
+      },
+      {
+        "id": "why-a-tier-is-roller-upgrades",
+        "text": "Why A Tier is Roller Upgrades"
+      },
+      {
+        "id": "why-b-tier-is-area-expansion",
+        "text": "Why B Tier is Area Expansion"
+      },
+      {
+        "id": "why-c-tier-is-manual-crunching",
+        "text": "Why C Tier is Manual Crunching"
+      },
+      {
+        "id": "when-each-rank-changes",
+        "text": "When Each Rank Changes"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-reasoning-mistakes",
+        "text": "The Common Reasoning Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-decision-speed-run",
+        "text": "The Decision Speed Run"
+      },
+      {
+        "id": "the-progression-track-tier-list",
+        "text": "The Progression Track Tier List"
+      },
+      {
+        "id": "the-anti-pattern-tier-list",
+        "text": "The Anti-Pattern Tier List"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:s-tier-a-tier": [
+      {
+        "id": "the-default-priority",
+        "text": "The Default Priority"
+      },
+      {
+        "id": "the-bottleneck-recognition",
+        "text": "The Bottleneck Recognition"
+      },
+      {
+        "id": "the-roi-comparison",
+        "text": "The ROI Comparison"
+      },
+      {
+        "id": "the-multiplier-effect",
+        "text": "The Multiplier Effect"
+      },
+      {
+        "id": "the-decision-points",
+        "text": "The Decision Points"
+      },
+      {
+        "id": "the-late-game-considerations",
+        "text": "The Late-Game Considerations"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-common-mistakes",
+        "text": "The Common Mistakes"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-decision-speed-run",
+        "text": "The Decision Speed Run"
+      },
+      {
+        "id": "the-progression-track-tier-list",
+        "text": "The Progression Track Tier List"
+      },
+      {
+        "id": "the-anti-pattern-tier-list",
+        "text": "The Anti-Pattern Tier List"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "tier-list:en:tier-list-overview": [
+      {
+        "id": "the-s-tier",
+        "text": "The S Tier"
+      },
+      {
+        "id": "the-a-tier",
+        "text": "The A Tier"
+      },
+      {
+        "id": "the-b-tier",
+        "text": "The B Tier"
+      },
+      {
+        "id": "the-c-tier",
+        "text": "The C Tier"
+      },
+      {
+        "id": "the-tier-list-decision-framework",
+        "text": "The Tier List Decision Framework"
+      },
+      {
+        "id": "the-common-tier-list-mistakes",
+        "text": "The Common Tier List Mistakes"
+      },
+      {
+        "id": "the-update-2-implications",
+        "text": "The Update 2 Implications"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-decision-speed-run",
+        "text": "The Decision Speed Run"
+      },
+      {
+        "id": "the-progression-track-tier-list",
+        "text": "The Progression Track Tier List"
+      },
+      {
+        "id": "the-anti-pattern-tier-list",
+        "text": "The Anti-Pattern Tier List"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-strategies-on-tier-list-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Strategies on Tier List This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-future-considerations-for-tier-list-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-tier-list-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Future Considerations for Tier List This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified tier-list pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "updates:en:new-content": [
+      {
+        "id": "the-most-likely-addition-new-butter-flavors",
+        "text": "The Most Likely Addition: New Butter Flavors"
+      },
+      {
+        "id": "the-second-most-likely-addition-new-roller-upgrades",
+        "text": "The Second Most Likely Addition: New Roller Upgrades"
+      },
+      {
+        "id": "the-third-most-likely-addition-new-area-expansions",
+        "text": "The Third Most Likely Addition: New Area Expansions"
+      },
+      {
+        "id": "the-possible-addition-new-asmr-effects",
+        "text": "The Possible Addition: New ASMR Effects"
+      },
+      {
+        "id": "the-less-likely-addition-new-monetization",
+        "text": "The Less Likely Addition: New Monetization"
+      },
+      {
+        "id": "the-possible-addition-code-system",
+        "text": "The Possible Addition: Code System"
+      },
+      {
+        "id": "the-common-update-questions",
+        "text": "The Common Update Questions"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-notification-setup",
+        "text": "The Notification Setup"
+      },
+      {
+        "id": "the-crunch-my-butter-update-timeline",
+        "text": "The Crunch My Butter Update Timeline"
+      },
+      {
+        "id": "the-crunch-my-butter-live-stats-snapshot",
+        "text": "The Crunch My Butter Live Stats Snapshot"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-discussion-on-update-2-content-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Update 2 Content This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-community-predictions-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Predictions This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-new-content-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on New Content This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "updates:en:release-date": [
+      {
+        "id": "the-launch-date",
+        "text": "The Launch Date"
+      },
+      {
+        "id": "the-july-26-server-update",
+        "text": "The July 26 Server Update"
+      },
+      {
+        "id": "the-update-2-event",
+        "text": "The Update 2 Event"
+      },
+      {
+        "id": "the-growth-curve",
+        "text": "The Growth Curve"
+      },
+      {
+        "id": "the-developer-ex10",
+        "text": "The Developer EX10"
+      },
+      {
+        "id": "the-notable-milestones",
+        "text": "The Notable Milestones"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-notification-setup",
+        "text": "The Notification Setup"
+      },
+      {
+        "id": "the-crunch-my-butter-update-timeline",
+        "text": "The Crunch My Butter Update Timeline"
+      },
+      {
+        "id": "the-crunch-my-butter-live-stats-snapshot",
+        "text": "The Crunch My Butter Live Stats Snapshot"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-discussion-on-release-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Release This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-notable-milestones-in-detail-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Notable Milestones in Detail This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-release-date-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Release Date This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "updates:en:reviews-and-rating": [
+      {
+        "id": "the-approval-rating-breakdown",
+        "text": "The Approval Rating Breakdown"
+      },
+      {
+        "id": "what-players-love",
+        "text": "What Players Love"
+      },
+      {
+        "id": "what-players-dislike",
+        "text": "What Players Dislike"
+      },
+      {
+        "id": "the-comparison-to-other-simulators",
+        "text": "The Comparison to Other Simulators"
+      },
+      {
+        "id": "the-player-sentiment",
+        "text": "The Player Sentiment"
+      },
+      {
+        "id": "the-common-review-questions",
+        "text": "The Common Review Questions"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-notification-setup",
+        "text": "The Notification Setup"
+      },
+      {
+        "id": "the-crunch-my-butter-update-timeline",
+        "text": "The Crunch My Butter Update Timeline"
+      },
+      {
+        "id": "the-crunch-my-butter-live-stats-snapshot",
+        "text": "The Crunch My Butter Live Stats Snapshot"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-discussion-on-reviews-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Reviews This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-detailed-sentiment-breakdown-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Detailed Sentiment Breakdown This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-reviews-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Reviews This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "updates:en:stats-and-popularity": [
+      {
+        "id": "the-visit-count",
+        "text": "The Visit Count"
+      },
+      {
+        "id": "the-favorite-count",
+        "text": "The Favorite Count"
+      },
+      {
+        "id": "the-approval-rating",
+        "text": "The Approval Rating"
+      },
+      {
+        "id": "the-concurrent-player-count",
+        "text": "The Concurrent Player Count"
+      },
+      {
+        "id": "the-server-size",
+        "text": "The Server Size"
+      },
+      {
+        "id": "the-genre-classification",
+        "text": "The Genre Classification"
+      },
+      {
+        "id": "the-comparison-to-other-simulators",
+        "text": "The Comparison to Other Simulators"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-notification-setup",
+        "text": "The Notification Setup"
+      },
+      {
+        "id": "the-crunch-my-butter-update-timeline",
+        "text": "The Crunch My Butter Update Timeline"
+      },
+      {
+        "id": "the-crunch-my-butter-live-stats-snapshot",
+        "text": "The Crunch My Butter Live Stats Snapshot"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-discussion-on-stats-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Stats This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-detailed-stats-breakdown-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Detailed Stats Breakdown This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-stats-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Stats This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ],
+    "updates:en:update-2-overview": [
+      {
+        "id": "the-release-date",
+        "text": "The Release Date"
+      },
+      {
+        "id": "what-to-expect",
+        "text": "What to Expect"
+      },
+      {
+        "id": "how-to-prepare",
+        "text": "How to Prepare"
+      },
+      {
+        "id": "the-notify-me-notification",
+        "text": "The Notify Me Notification"
+      },
+      {
+        "id": "the-new-content-possibilities",
+        "text": "The New Content Possibilities"
+      },
+      {
+        "id": "the-common-update-questions",
+        "text": "The Common Update Questions"
+      },
+      {
+        "id": "the-long-term-view",
+        "text": "The Long-Term View"
+      },
+      {
+        "id": "the-notification-setup",
+        "text": "The Notification Setup"
+      },
+      {
+        "id": "the-crunch-my-butter-update-timeline",
+        "text": "The Crunch My Butter Update Timeline"
+      },
+      {
+        "id": "the-crunch-my-butter-live-stats-snapshot",
+        "text": "The Crunch My Butter Live Stats Snapshot"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "the-community-discussion-on-update-2-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Community Discussion on Update 2 This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-detailed-update-possibilities-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Detailed Update Possibilities This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      },
+      {
+        "id": "the-long-term-view-on-update-2-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot-this-is-consistent-with-the-verified-updates-pattern-observed-in-live-sessions-and-in-the-official-roblox-api-snapshot",
+        "text": "The Long-Term View on Update 2 This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified updates pattern observed in live sessions and in the official Roblox API snapshot."
+      }
+    ]
+  }
+}

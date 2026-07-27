@@ -1,0 +1,13 @@
+{
+  "name": "Crunch My Butter! Wiki",
+  "short_name": "Crunch My Butter",
+  "description": "Community wiki for Crunch My Butter on Roblox: beginner guide, butter flavor progression, roller upgrades, cash farming, offline earnings and live code status.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1730",
+  "theme_color": "#FFC400",
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

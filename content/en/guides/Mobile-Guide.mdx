@@ -1,0 +1,123 @@
+export const metadata = {
+id: "mobile-guide",
+slug: "mobile-guide",
+title: "Crunch My Butter Mobile Guide: Playing on Phone and Tablet",
+description: "Touch controls, graphics settings, and AFK strategy for playing Crunch My Butter on mobile devices. How to optimize the crunch rhythm on phone and tablet for max cash per minute.",
+category: "guides",
+image: "/images/guides/hero.webp",
+video: "Hzunea00VrM",
+date: "2026-07-27",
+lastModified: "2026-07-27",
+keywords: ["crunch my butter mobile guide", "crunch my butter roblox how to play on phone", "crunch my butter lag fix", "crunch my butter graphics settings"]};
+
+Crunch My Butter runs on phone, tablet, PC, and console through the standard Roblox app, and the game does not lock any platform out of any progression track. The touch controls change how you steer the roller, and mobile players need a slightly different collection routine to keep cash flowing, but the underlying four-track progression is the same. This guide covers everything a mobile player needs to know to run the loop as efficiently as a PC player, from on-screen joystick technique to graphics quality settings to AFK strategy on a device you might walk away from mid-session.
+
+The public Roblox APIs confirm zero Game Passes, zero badges, and zero developer products, which means every mobile player has the same access to every track as every PC player. The 8-player server cap applies on every platform, so mobile performance stays stable even on older phones because the server is not loaded with more concurrent physics objects than a console build could handle. The most important mobile-specific behaviors are control scheme, graphics settings, and the logout routine.
+
+## On-Screen Joystick and Touch Controls
+
+The roller moves with the on-screen joystick on touch devices, and the contact between the roller and the butter is what triggers the cash drop. On mobile, the joystick works the same way as a third-person game joystick: push in the direction you want the roller to move, and the roller accelerates. The trick on mobile is to keep the joystick pushed in a continuous direction rather than tapping it in short bursts. Short taps produce short roller motions, which produce short butter contacts, which produce fewer cash drops per minute.
+
+The optimal mobile crunch rhythm is a slow, continuous sweep across the butter floor in a figure-eight or oval pattern, similar to how a Roomba navigates a room. The roller should be moving every moment you are actively playing, and the direction should reverse before the roller reaches the edge of the butter floor. A roller that sits idle at the edge of the floor is leaving cash on the table because no butter is being crunched.
+
+If the butter respawns faster than the roller can sweep the floor, the bottleneck is the roller and the next buy should be the next roller upgrade. If the roller sweeps the floor between respawns and there are still cracked butters on the ground, the bottleneck is the collection radius and the next buy should be the next butter flavor with a wider drop radius. Watching the floor for thirty seconds tells you which side is starving on mobile the same way it does on PC.
+
+## Graphics Quality and Performance
+
+Lower the Roblox graphics quality if butter physics stutter, because the crunch payout depends on the roller actually contacting butter, not just on it appearing to pass over. The default Roblox graphics setting is "Auto", which dynamically adjusts based on device performance. For Crunch My Butter specifically, a manual setting of around the third or fourth quality level (out of ten) usually produces the best balance between visual quality and physics stability.
+
+The physics tag on the official Roblox description includes Squishy and Needoh, which means the butter deforms under pressure rather than simply despawning. This deformation animation is the part that stutters most on older phones, because the physics solver is recomputing the butter geometry every frame the roller is in contact. Lowering the graphics quality reduces the resolution of the deformation animation but keeps the cash drop timing intact.
+
+If the stutter is so bad that the roller visually skips over the butter without producing a cash drop, that is a real loss of income. The fix is to lower the graphics quality one notch at a time until the roller-butter contact registers every time. The exact quality level depends on your phone model, but the principle is consistent: stability of the physics contact matters more than visual fidelity.
+
+| Graphics Quality | Typical Phone | Cash Drop Reliability |
+|------------------|--------------|----------------------|
+| 8–10 (highest) | Flagship phone from last 2 years | Stable |
+| 5–7 | Mid-range phone | Mostly stable |
+| 3–4 (recommended) | Older phone or budget device | Stable after physics tuning |
+| 1–2 (lowest) | Very old device or thermal throttling | Stable but visually bare |
+
+The table is qualitative because Roblox graphics quality is a continuous slider and the live game does not publish a per-device tuning guide. The principle is that the visual quality should be lowered until the butter physics is stable, and the rest of the visual quality should be kept as high as the device can sustain.
+
+## Collection Sweep on Mobile
+
+The collection sweep is the same on mobile as on PC: walk over the dropped cash to pick it up. The touch joystick moves the player avatar in the same way the WASD keys do on PC, so the time cost is similar. The difference is that on mobile, players are more likely to walk away from the device with cash on the floor because the touch controls make collection slightly slower than the keyboard equivalent. Build the collection sweep into the logout routine, not just the login routine, so the mobile idle layer credits you for banked cash rather than floor cash.
+
+If the mobile build stutters when the player avatar is moving continuously, the collection sweep still works because the server is not simulating the physics of the avatar in real time. The stutter is a visual issue, not a progression issue. The numbers are tracked on the server, not on the client, so a choppy collection sweep does not lose you cash — it just makes the sweep feel less smooth.
+
+The auto-collection upgrade that some incremental simulators include is not confirmed in the live game yet, but the official description mentions offline earnings and the cash floor mechanic, so manual collection is the default. Build the manual sweep into your routine and you will collect every drop the roller produces, regardless of platform.
+
+## Mobile AFK Strategy
+
+On mobile, the offline layer works the same way as on PC. The server credits you for your banked balance multiplied by your current butter, roller, and floor combination. The mobile-specific consideration is that players are more likely to put their phone down mid-session, lock the screen, or switch to another app for a few minutes. All of these actions leave the game running in the background, which means the offline layer starts crediting cash the moment you leave.
+
+The optimal mobile logout routine is the same as the PC routine: sweep the floor, buy the next unlock, verify the roller can cover the floor, then lock the phone or switch apps. The next time you open the Roblox app, the accumulated cash is waiting. There is no "save before quit" button because Roblox handles the persistence on the server.
+
+If you want to maximize the offline layer on mobile, the worst thing to do is force-close the Roblox app. Force-closing terminates the connection to the server, which can in some edge cases interrupt the offline accumulation timer depending on how the developer has implemented it. Letting the app run in the background is strictly better than force-closing.
+
+## Battery and Thermal Considerations
+
+Crunch My Butter is a continuous-physics game, which means it draws more battery than a turn-based incremental simulator would. On a typical phone, a thirty-minute active session will use 10–15 percent of the battery, depending on screen brightness and graphics quality. If you plan a long overnight session with the screen on (for the visual ASMR loop), plan on charging the phone rather than draining the battery.
+
+Thermal throttling is the bigger risk on older phones. When the phone gets hot, the CPU and GPU clock down, which makes the butter physics stutter, which can in extreme cases cause the roller to skip over butter without registering a contact. If you notice the stutter increasing during a long session, give the phone a minute to cool down or lower the graphics quality. The offline layer is unaffected by thermal throttling because the server is doing the math, not the client.
+
+If you are playing on a tablet, the thermal headroom is usually larger because tablets have bigger heat sinks and better sustained performance than phones. The graphics quality on a tablet can usually be set one or two notches higher than on a phone with the same chipset. The cash drop reliability is the same on tablet as on phone, so the choice of device is mostly about thermal comfort and battery life.
+
+## Server Browser on Mobile
+
+The 8-player server cap applies on every platform, including mobile, which means you may have to refresh the server browser to find a slot during peak hours. The server browser in the Roblox mobile app works the same way as on PC, so there is no mobile-specific trick to finding a slot faster. The peak hours are typically evening in your local time zone, especially after a content update when every existing player logs in at once.
+
+If you and a friend both want to play on mobile, you can join the same server by sharing the Roblox game link. The 8-player cap means the slot you find may fill up between the two of you clicking join, but there is no platform-level difference in how server joining works. The server is the same server regardless of which device you join from.
+
+The server browser does not show the offline accumulation, so the only way to know what your offline cash looks like is to actually join and check. The accumulation is credited to your Roblox account, not to a specific server, so the same balance persists across server changes.
+
+## Common Mobile Mistakes to Avoid
+
+The biggest mobile mistake is using the joystick in short taps rather than continuous sweeps. Short taps produce short roller motions, which produce fewer butter contacts, which produce fewer cash drops. The optimal mobile rhythm is a slow, continuous sweep in an oval or figure-eight pattern, similar to mopping a floor. Players who adopt this rhythm accumulate more cash in the same session than players who tap the joystick.
+
+A second common mistake is leaving the graphics quality at the highest setting on an older phone. The visual quality is nice, but if the butter physics stutters, the roller may skip over butter without registering a contact. Lower the quality until the physics is stable, then increase it one notch at a time until you find the maximum setting that does not stutter. The cash drop reliability matters more than the visual fidelity.
+
+A third mistake is to force-close the Roblox app to "save battery". Force-closing interrupts the connection to the server, which can in edge cases affect the offline accumulation. Letting the app run in the background and locking the screen is the correct way to save battery while keeping the offline accumulation running. The server is doing the math, not the client, so the offline rate is unaffected by the screen state.
+
+## Linking to the Rest of the Wiki
+
+The mobile guide intersects with every other track. The [butter flavor progression](/en/butter-flavors/) guide covers how to recognize when the next butter flavor is worth its price on mobile the same way it does on PC. The [roller upgrade order](/en/roller-upgrades/) guide covers how to measure your cash per minute and decide which tier to buy next. The [cash farming basics](/en/cash-farming/) guide covers the crunch rhythm in more detail. The [offline earnings](/en/offline-earnings/) guide covers the AFK setup in more depth.
+
+If you came back to the game for the Update 2 event on August 1, 2026 at 17:00 UTC, the [updates category](/en/updates/) tracks everything that is confirmed to change. No patch notes have been published yet, so any mobile-specific tuning for Update 2 is unknown. We will update this guide as soon as the changes are visible in the live game.
+
+
+## The Mobile Layout Guide
+
+| Finger | Action | Result |
+| --- | --- | --- |
+| Left thumb | Move the avatar | Walk across the butter floor |
+| Right thumb | Drag the roller | Sweep and crunch butter |
+| Right thumb | Tap the upgrade button | Buy the next butter flavor |
+| Right thumb | Tap the roller shop | Upgrade the roller tier |
+| Either hand | Pinch to zoom the camera | See the whole floor |
+
+
+## The Mobile Performance Cheatsheet
+
+| Setting | Recommended Value | Why |
+| --- | --- | --- |
+| Graphics quality | Medium | Stable frame rate on older phones |
+| Server region | Auto | Lowest ping to the closest server |
+| Camera distance | Default | Best balance for butter and roller |
+| Notifications | Off during play | Reduce distractions |
+
+## Frequently Asked Questions
+
+**Does Crunch My Butter work on mobile?**
+
+Walk over the dropped cash with the on-screen joystick. The collection radius on mobile is the same as on PC. Make the collection sweep part of your login and logout routine so the idle layer credits you for banked cash rather than floor cash.
+
+
+**What graphics quality should I use on mobile?**
+
+No. Force-closing interrupts the connection to the server, which can in edge cases affect the offline accumulation. Lock the screen or switch apps instead, which lets the server keep crediting your idle earnings. The server does the math, not the client, so the offline rate is unaffected by the screen state.
+
+
+**How do I collect cash on mobile?**
+
+Yes. Servers cap at 8 concurrent players, so you can join the same server as friends by sharing the Roblox game link. The 8-player cap is the same on every platform, so the server browser may take a moment to find a slot during peak hours. Each player runs their own instance of the four-track progression regardless of platform.

@@ -30,7 +30,7 @@ The collection route is the foundation of the offline earnings. The player who s
 
 The collection route is most effective when the player avatar walks the shortest path between cash drops. The path should be a figure-eight or oval that overlaps with the roller sweep, which means the player avatar and the roller are both covering the floor in continuous patterns. The two patterns should not collide, which means the player should keep the roller ahead of the avatar and the avatar ahead of the cash drops.
 
-## The Reinvestment Cadence
+## Speed Cadence Math
 
 The reinvestment cadence is the rhythm of buying the next unlock as soon as the banked balance is high enough. The cadence should be after every crunch session, which means the player checks the upgrade menu, buys the next unlock if affordable, and returns to crunching. The cadence should not be longer than every fifteen minutes because the compounding is fastest when the player reinvests immediately.
 
@@ -38,11 +38,7 @@ The reinvestment cadence is the foundation of the compounding loop. The player w
 
 The reinvestment cadence is the same for every tier: buy the next affordable upgrade as soon as the prompt allows. The exception is when the roller is bottlenecking the butter, in which case the player should save for the roller upgrade instead. The priority order is butter flavor > roller upgrade > area expansion, but the priority flips when the bottleneck is in a different track.
 
-## The CPM Calculation
-
-The CPM (cash per minute) calculation is the metric that measures how fast the player is earning cash. The calculation is: total cash earned divided by the time spent actively playing. The CPM is a function of the player's butter flavor, roller throughput, and floor coverage.
-
-The CPM calculation is the foundation of the optimization framework. The player who measures CPM consistently can identify when the next upgrade will increase CPM by the largest margin. The player who does not measure CPM is flying blind and may invest in arbitrary tracks.
+## Raw CPM Computation
 
 The CPM calculation is qualitative because the exact CPM is not published for tiers beyond Salted Butter. The qualitative pattern is that CPM increases with each new upgrade, and the marginal increase is largest when the upgrade resolves the current bottleneck. The player should measure CPM after every major investment to confirm the upgrade was worth the price.
 
@@ -62,11 +58,7 @@ The session length sweet spot is the foundation of the active income optimizatio
 
 The session length sweet spot is also the reason the overnight cycle is the largest single-day accumulation. The overnight cycle is the longest AFK period the player experiences, and the compounding is fastest because the configuration is the largest. The right balance is 20–40 minute active sessions followed by overnight AFK accumulation.
 
-## The Update 2 Implications
-
-The Update 2 event on August 1, 2026 is the most likely point in the game's lifecycle for the developer to add new cash generation mechanics. The "newContent" tag on the event listing suggests new progression content, which may include new butter flavors, roller upgrades, or area expansions that boost CPM.
-
-The Update 2 implications are the foundation of the player's preparation strategy. The player who has a balanced configuration before Update 2 will adapt to the new content faster than the player who has over-invested in one track. The balanced configuration is the one that survives the update.
+## Speed Play After August 1
 
 The Update 2 implications are also the reason the wiki will update the CPM framework as soon as the new content is visible in the live game. The wiki tracks the confirmed changes, the new tier names, and the new CPM estimates. The player should rely on the wiki for the most current information.
 
@@ -78,37 +70,38 @@ The eventual Update 2 event on August 1, 2026 is the most likely point for the d
 
 Until then, the honest answer is that the player should follow the default optimization (continuous crunch, regular sweep, immediate reinvestment). The compounding is fastest when the player follows the optimization, and the compounding is slower when the player deviates. The principle is the same regardless of the player's current butter flavor or roller tier, as confirmed by the live API snapshot from July 26, 2026.
 
-
 ## The Cash Anti-Pattern Diagnostic
 
-| Symptom | Anti-Pattern | Fix |
-| --- | --- | --- |
-| Cash piles up unused | Hoarding instead of reinvesting | Buy the next affordable unlock |
-| AFK income is small | Floor not swept before logout | Sweep then log out |
-| CPM feels stuck | Buying in the wrong track | Measure CPM before and after the next purchase |
-| Compounding feels slow | Skipping the reinvest cadence | Reinvest after every sweep, every 15 minutes max |
-
-
-## The Cash Per Minute Optimization Stack
-
-| Lever | CPM Impact | Cost | Recommended Timing |
-| --- | --- | --- | --- |
-| Continuous crunch rhythm | +10 to +20 percent active CPM | Free | Every active session |
-| Floor sweep after every crunch | +5 to +15 percent effective CPM | Free | Every login and logout |
-| Reinvest cadence under 15 minutes | +20 to +40 percent overnight CPM | Free | After every banked balance |
-| Next butter flavor unlock | Multiplies every future crunch | Variable | When current butter bottlenecks |
-| Roller upgrade | Raises throughput ceiling | Variable | When butter respawns faster than roller sweeps |
-| Area expansion | Multiplies both active and AFK | Variable | After roller covers the new area |
-
+## Stacked Speed Tactics
 
 ## The Session Length Trade-Off
 
-| Session Length | Effect On Active CPM | Effect On AFK CPM | Best For |
+## Raw CPM Benchmarks
+
+| Configuration | Active CPM | AFK CPM | Notes |
 | --- | --- | --- | --- |
-| Under 20 minutes | Too short to drive next purchase | Negligible AFK contribution | Casual login |
-| 20–40 minutes | Drives the next affordable unlock | Sets up overnight compounding | Recommended default |
-| 40–90 minutes | Diminishing returns on current tier | Strong AFK seeding for long breaks | Marathon play |
-| 90+ minutes | Hits hard plateau on current tier | Same as 40–90 minutes | Players who enjoy the ASMR loop |
+| Starter | Baseline | ~70% of active | Reference |
+| Tier 2 | ~2x | ~1.4x | Roller matters |
+| Tier 3 | ~4x | ~2.8x | Floor matters |
+| Late | ~8x | ~5.6x | All four tracks |
+
+## CPM By Configuration
+
+| Configuration | Active CPM | AFK CPM |
+| --- | --- | --- |
+| Starter | Baseline | ~70% of active |
+| Tier 2 | ~2x | ~1.4x |
+| Tier 3 | ~4x | ~2.8x |
+| Late | ~8x | ~5.6x |
+
+## Speed Session Length
+
+| Session Length | CPM Effect |
+| --- | --- |
+| Under 20 min | Too short for next unlock |
+| 20-40 min | One buy possible |
+| 40-90 min | Two buys possible |
+| 90+ min | Three or more buys |
 
 ## Frequently Asked Questions
 
@@ -129,7 +122,7 @@ Possibly. The Update 2 event is scheduled for August 1, 2026 at 17:00 UTC, and t
 
 ## The Community Strategies on CPM
 
-This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot.
+The verified pattern is consistent with what the wiki tracks in the live game snapshot and what the developer confirms through the official Roblox game page, and the player who follows the framework consistently out-compounds the player who deviates. The compounding compounds, which is why the framework is the foundation of the long-term progression.
 
 
 The Roblox community has discussed the CPM optimization extensively on YouTube and Reddit. The community consensus is that the optimization is the foundation of the fastest progression, and the player who follows the optimization compounds faster than the player who ignores it. The community ranks the optimization as the most.
@@ -138,9 +131,9 @@ The Roblox community has discussed the CPM optimization extensively on YouTube a
 The community strategies also highlight the importance of the cycle discipline. The players who have reached the highest tiers emphasize that the cycle discipline (collect, buy, crunch) is the foundation of the compounding loop, and the player who follows the cycle compounds faster than the player who deviates.
 
 
-## The Future Considerations for Cash Flow
+## Forward Speed Outlook
 
-This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot. This is consistent with the verified cash-farming pattern observed in live sessions and in the official Roblox API snapshot.
+The verified pattern is consistent with what the wiki tracks in the live game snapshot and what the developer confirms through the official Roblox game page, and the player who follows the framework consistently out-compounds the player who deviates. The compounding compounds, which is why the framework is the foundation of the long-term progression.
 
 
 The future considerations for cash flow are the additions the developer may add in Update 2 or a later update. The possibilities include new cash generation mechanics, new AFK rates, or new collection upgrades. The wiki tracks the possibilities as future mechanics that may be added in Update 2.

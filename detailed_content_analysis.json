@@ -1,0 +1,1542 @@
+{
+  "empty_sections": {
+    "en": [
+      {
+        "file": "updates/Reviews-And-Rating",
+        "total_words": 2269,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alerts for Review Updates",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "updates/Release-Date",
+        "total_words": 2229,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alerts for Release Day",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "updates/Stats-And-Popularity",
+        "total_words": 2144,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Crunch My Butter vs Others",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Tracking Number Changes",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 2
+      },
+      {
+        "file": "updates/Update-2-Overview",
+        "total_words": 2395,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "How to Get Notified for Drop",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "expansion/When-To-Expand",
+        "total_words": 2709,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Is Your Roller Keeping Up?",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Late-Tier Floor Timing",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 2
+      },
+      {
+        "file": "expansion/Expansion-Guide",
+        "total_words": 2257,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Pre-Purchase Verification Table",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "expansion/Rebirth-Prestige",
+        "total_words": 2386,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Additive Path Reference Table",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "expansion/Progression-Stalled",
+        "total_words": 2304,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Stall Diagnostic Reference",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "guides/Fastest-Progression",
+        "total_words": 2757,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Speed Trap Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "codes/Why-No-Codes",
+        "total_words": 2438,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Redeem Lifecycle: Why Empty",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "codes/Update-2-Codes",
+        "total_words": 2521,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Fake-List Risk for Predicted",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "What the Wiki Will Do",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Predicted Redeem Pattern",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/No-Codes-Yet",
+        "total_words": 2379,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "How the Redeem Process Would Work",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "codes/How-To-Redeem",
+        "total_words": 2471,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "The Full Redeem Lifecycle",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "cash-farming/Money-Making-Tips",
+        "total_words": 2388,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tips After August 1",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Advanced Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 2
+      },
+      {
+        "file": "cash-farming/Auto-Collect",
+        "total_words": 2190,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Auto-Collect Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "cash-farming/Money-Glitch",
+        "total_words": 2340,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Glitch vs Legit Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "cash-farming/Fastest-Money",
+        "total_words": 2156,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Speed-Run Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "cash-farming/Cash-Farming-Basics",
+        "total_words": 2467,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Beginner Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "butter-flavors/Butter-List",
+        "total_words": 2301,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Order-of-Unlock Reference",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "butter-flavors/Butter-Vs-Roller",
+        "total_words": 2486,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Flavor vs Roller Spending Order",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Two-Track Unlock Logic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 2
+      },
+      {
+        "file": "butter-flavors/Salted-Butter",
+        "total_words": 2354,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "The Unlock Decision Tree",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      },
+      {
+        "file": "butter-flavors/Butter-Progression",
+        "total_words": 2502,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Decision Tree of Unlocks",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 1
+      }
+    ],
+    "th": [
+      {
+        "file": "updates/Reviews-And-Rating",
+        "total_words": 627,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "การแจ้งเตือนสำหรับการอัปเดตรีวิว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ไทม์ไลน์กิจกรรมรีวิว",
+            "parent": "การแจ้งเตือนสำหรับการอัปเดตรีวิว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สถิติสดในรีวิว",
+            "parent": "การแจ้งเตือนสำหรับการอัปเดตรีวิว",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Release-Date",
+        "total_words": 806,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "การแจ้งเตือนสำหรับวันเปิดตัว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ไทม์ไลน์การเปิดตัวโดยละเอียด",
+            "parent": "การแจ้งเตือนสำหรับวันเปิดตัว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สแน็ปช็อต ณ เวลาเปิดตัว",
+            "parent": "การแจ้งเตือนสำหรับวันเปิดตัว",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Stats-And-Popularity",
+        "total_words": 672,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Crunch My Butter เทียบกับเกมอื่น",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "การติดตามการเปลี่ยนแปลงตัวเลข",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ตัวเลขตลอดช่วงเวลา",
+            "parent": "การติดตามการเปลี่ยนแปลงตัวเลข",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "รายละเอียดสแนปช็อตสถิติสด",
+            "parent": "การติดตามการเปลี่ยนแปลงตัวเลข",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 4
+      },
+      {
+        "file": "updates/Update-2-Overview",
+        "total_words": 635,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "วิธีรับการแจ้งเตือนสำหรับดรอป",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ช่วงเวลาของ Update 2",
+            "parent": "วิธีรับการแจ้งเตือนสำหรับดรอป",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ตัวเลขสดที่กำลังจะมาถึง",
+            "parent": "วิธีรับการแจ้งเตือนสำหรับดรอป",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/When-To-Expand",
+        "total_words": 373,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "ลูกกลิ้งของคุณตามทันหรือไม่?",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ความเป็นไปได้ในการขยายพื้นที่วันที่ 1 สิงหาคม",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ข้อผิดพลาดในการซื้อพื้นที่พื้น",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "การตัดสินใจเรื่องพื้นที่ในระยะยาว",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "การอ้างอิงเพื่อตรวจสอบก่อนซื้อ",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "การเปรียบเทียบระหว่างการใช้จ่ายหรือรอ",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "การเปลี่ยนแปลง CPM ต่อการซื้อพื้นที่หนึ่งครั้ง",
+            "parent": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 8
+      },
+      {
+        "file": "expansion/Expansion-Guide",
+        "total_words": 505,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "ตารางการตรวจสอบก่อนซื้อ",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ข้อมูลอ้างอิงสำหรับการซื้อเทียบกับการรอ",
+            "parent": "ตารางการตรวจสอบก่อนซื้อ",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "การเปลี่ยนแปลงของรายได้ต่อเส้นทางการขยายพื้นที่",
+            "parent": "ตารางการตรวจสอบก่อนซื้อ",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Rebirth-Prestige",
+        "total_words": 594,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "ตารางอ้างอิงเส้นทางแบบสะสม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ตารางอ้างอิงการใช้จ่ายแบบไม่รีเซ็ต",
+            "parent": "ตารางอ้างอิงเส้นทางแบบสะสม",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "รายได้จากเส้นทางแบบสะสม",
+            "parent": "ตารางอ้างอิงเส้นทางแบบสะสม",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Progression-Stalled",
+        "total_words": 441,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ข้อมูลอ้างอิงการตัดสินใจเมื่อหยุดชะงัก",
+            "parent": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "รายได้ขั้นต่ำในช่วงหยุดชะงัก",
+            "parent": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "guides/Fastest-Progression",
+        "total_words": 579,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "การวินิจฉัยกับดักความเร็ว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "โพยสรุปขั้นตอนความเร็ว",
+            "parent": "การวินิจฉัยกับดักความเร็ว",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "ชุดนิสัยสร้างความเร็ว",
+            "parent": "การวินิจฉัยกับดักความเร็ว",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Why-No-Codes",
+        "total_words": 620,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "วงจรชีวิตการแลกโค้ด: ทำไมถึงว่างเปล่า",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สถานะ ทำไมถึงว่างเปล่า",
+            "parent": "วงจรชีวิตการแลกโค้ด: ทำไมถึงว่างเปล่า",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สัญญาณเตือนจากช่องว่าง",
+            "parent": "วงจรชีวิตการแลกโค้ด: ทำไมถึงว่างเปล่า",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Update-2-Codes",
+        "total_words": 556,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "ความเสี่ยงจากรายการปลอมสำหรับสิ่งที่คาดการณ์",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "สิ่งที่วิกิจะทำ",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "รูปแบบการแลกโค้ดที่คาดการณ์",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "เมทริกซ์สถานะที่คาดการณ์",
+            "parent": "รูปแบบการแลกโค้ดที่คาดการณ์",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สัญญาณเตือนเกี่ยวกับโค้ดที่คาดการณ์",
+            "parent": "รูปแบบการแลกโค้ดที่คาดการณ์",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 5
+      },
+      {
+        "file": "codes/No-Codes-Yet",
+        "total_words": 704,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "กระบวนการแลกโค้ดจะเป็นอย่างไร",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สถานะโค้ดในปัจจุบัน",
+            "parent": "กระบวนการแลกโค้ดจะเป็นอย่างไร",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "สัญญาณเตือนที่ควรทราบ",
+            "parent": "กระบวนการแลกโค้ดจะเป็นอย่างไร",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      }
+    ],
+    "es": [
+      {
+        "file": "updates/Reviews-And-Rating",
+        "total_words": 2506,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alertas para actualizaciones de reseñas",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Cronología de la actividad de reseñas",
+            "parent": "Alertas para actualizaciones de reseñas",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Estadísticas en vivo en las reseñas",
+            "parent": "Alertas para actualizaciones de reseñas",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Release-Date",
+        "total_words": 2591,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alertas para el Día del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Cronología Detallada del Lanzamiento",
+            "parent": "Alertas para el Día del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Captura en el Momento del Lanzamiento",
+            "parent": "Alertas para el Día del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Stats-And-Popularity",
+        "total_words": 2416,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Crunch My Butter vs Otros",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Seguimiento de los cambios numéricos",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Números a través de la línea de tiempo",
+            "parent": "Seguimiento de los cambios numéricos",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Detalle de la instantánea de estadísticas en vivo",
+            "parent": "Seguimiento de los cambios numéricos",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 4
+      },
+      {
+        "file": "updates/Update-2-Overview",
+        "total_words": 2563,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Cómo Recibir una Notificación del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Ventana de Tiempo de la Actualización 2",
+            "parent": "Cómo Recibir una Notificación del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Números en Vivo Antes del Evento",
+            "parent": "Cómo Recibir una Notificación del Lanzamiento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/When-To-Expand",
+        "total_words": 2722,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "¿Tu Rodillo Está al Día?",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Posibilidades de Expansión el 1 de Agosto",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Errores al Comprar Espacio de Suelo",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Decisiones de Suelo a Largo Plazo",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referencia de Verificación de Compra Ahora",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Comparación de Gastar o Diferir",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Cambio de CPM por Compra de Suelo",
+            "parent": "Sincronización del Suelo de Nivel Tardío",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 8
+      },
+      {
+        "file": "expansion/Expansion-Guide",
+        "total_words": 2464,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tabla de Verificación Previa a la Compra",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referencia de Cuándo Comprar vs Esperar",
+            "parent": "Tabla de Verificación Previa a la Compra",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Cambio de Ingresos por Pista de Expansión",
+            "parent": "Tabla de Verificación Previa a la Compra",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Rebirth-Prestige",
+        "total_words": 2564,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tabla de referencia de la ruta aditiva",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referencia de gasto sin reinicio",
+            "parent": "Tabla de referencia de la ruta aditiva",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Ingresos de la ruta aditiva",
+            "parent": "Tabla de referencia de la ruta aditiva",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Progression-Stalled",
+        "total_words": 2435,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Referencia de Diagnóstico de Estancamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referencia de Decisión de Estancamiento",
+            "parent": "Referencia de Diagnóstico de Estancamiento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Suelo de Ingresos en un Estancamiento",
+            "parent": "Referencia de Diagnóstico de Estancamiento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "guides/Fastest-Progression",
+        "total_words": 2999,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Diagnóstico de Trampa de Velocidad",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Hoja de Trucos de Fase de Velocidad",
+            "parent": "Diagnóstico de Trampa de Velocidad",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Pila de Hábitos de Velocidad",
+            "parent": "Diagnóstico de Trampa de Velocidad",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Why-No-Codes",
+        "total_words": 2600,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Ciclo de vida de canje: Por qué está vacío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Estado: Por qué está vacío",
+            "parent": "Ciclo de vida de canje: Por qué está vacío",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Banderas rojas de la brecha",
+            "parent": "Ciclo de vida de canje: Por qué está vacío",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Update-2-Codes",
+        "total_words": 2566,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Riesgo de listas falsas para predicciones",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Lo que hará la wiki",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Patrón de canje predicho",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Matriz de estado predicho",
+            "parent": "Patrón de canje predicho",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Banderas rojas sobre los códigos predichos",
+            "parent": "Patrón de canje predicho",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 5
+      },
+      {
+        "file": "cash-farming/Money-Making-Tips",
+        "total_words": 2561,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tips After August 1",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Advanced Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Tip-Stacked CPM Gains",
+            "parent": "Advanced Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Tips-Based Session Length Trade-Off",
+            "parent": "Advanced Cash Anti-Pattern Diagnostic",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 4
+      }
+    ],
+    "pt": [
+      {
+        "file": "updates/Reviews-And-Rating",
+        "total_words": 2394,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alertas para Atualizações de Avaliação",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Linha do Tempo de Atividade de Avaliação",
+            "parent": "Alertas para Atualizações de Avaliação",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Estatísticas ao Vivo nas Avaliações",
+            "parent": "Alertas para Atualizações de Avaliação",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Release-Date",
+        "total_words": 2445,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Alertas para o Dia de Lançamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Cronograma Detalhado de Lançamento",
+            "parent": "Alertas para o Dia de Lançamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Snapshot no Momento do Lançamento",
+            "parent": "Alertas para o Dia de Lançamento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "updates/Stats-And-Popularity",
+        "total_words": 2274,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Crunch My Butter vs Outros",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Rastreamento de Mudanças nos Números",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Números ao Longo da Linha do Tempo",
+            "parent": "Rastreamento de Mudanças nos Números",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Detalhe do Instantâneo de Estatísticas ao Vivo",
+            "parent": "Rastreamento de Mudanças nos Números",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 4
+      },
+      {
+        "file": "updates/Update-2-Overview",
+        "total_words": 2453,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Como Receber Notificação do Lançamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Janela de Tempo da Atualização 2",
+            "parent": "Como Receber Notificação do Lançamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Números ao Vivo na Entrada",
+            "parent": "Como Receber Notificação do Lançamento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/When-To-Expand",
+        "total_words": 2597,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "O Seu Rolo Está Acompanhando?",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Possibilidades de Expansão em 1º de Agosto",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Armadilhas na Compra de Espaço no Piso",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Decisões de Piso de Longo Prazo",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referência de Verificação de Compra Imediata",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Comparação de Gasto ou Adiamento",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Mudança de CPM por Compra de Piso",
+            "parent": "Momento do Piso de Nível Final",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 8
+      },
+      {
+        "file": "expansion/Expansion-Guide",
+        "total_words": 2423,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tabela de Verificação Pré-Compra",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referência de Quando Comprar vs. Esperar",
+            "parent": "Tabela de Verificação Pré-Compra",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Mudança de Renda por Trilha de Expansão",
+            "parent": "Tabela de Verificação Pré-Compra",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Rebirth-Prestige",
+        "total_words": 2484,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Tabela de Referência do Caminho Aditivo",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referência de Gastos Sem Reset",
+            "parent": "Tabela de Referência do Caminho Aditivo",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Renda do Caminho Aditivo",
+            "parent": "Tabela de Referência do Caminho Aditivo",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "expansion/Progression-Stalled",
+        "total_words": 2345,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Referência de Diagnóstico de Travamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Referência de Decisão de Travamento",
+            "parent": "Referência de Diagnóstico de Travamento",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Chão de Renda em um Travamento",
+            "parent": "Referência de Diagnóstico de Travamento",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "guides/Fastest-Progression",
+        "total_words": 2884,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Diagnóstico de Armadilha de Velocidade",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Folha de Dicas de Fase de Velocidade",
+            "parent": "Diagnóstico de Armadilha de Velocidade",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Pilha de Hábitos de Velocidade",
+            "parent": "Diagnóstico de Armadilha de Velocidade",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Why-No-Codes",
+        "total_words": 2472,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Ciclo de Vida de Resgate: Por que Vazio",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Status Por que Vazio",
+            "parent": "Ciclo de Vida de Resgate: Por que Vazio",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Sinais de Alerta da Lacuna",
+            "parent": "Ciclo de Vida de Resgate: Por que Vazio",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      },
+      {
+        "file": "codes/Update-2-Codes",
+        "total_words": 2473,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Risco de Listas Falsas para Previsões",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "O que a Wiki Fará",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H2",
+            "title": "Padrão de Resgate Previsto",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Matriz de Status Previsto",
+            "parent": "Padrão de Resgate Previsto",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Sinais de Alerta sobre Códigos Previstos",
+            "parent": "Padrão de Resgate Previsto",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 5
+      },
+      {
+        "file": "codes/No-Codes-Yet",
+        "total_words": 2462,
+        "empty_sections": [
+          {
+            "type": "H2",
+            "title": "Como Funcionaria o Processo de Resgate",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Status dos Códigos Hoje",
+            "parent": "Como Funcionaria o Processo de Resgate",
+            "words": 0,
+            "line_count": 0
+          },
+          {
+            "type": "H3",
+            "title": "Sinais de Alerta para Reconhecer",
+            "parent": "Como Funcionaria o Processo de Resgate",
+            "words": 0,
+            "line_count": 0
+          }
+        ],
+        "empty_count": 3
+      }
+    ]
+  },
+  "thai_files_word_counts": [
+    {
+      "file": "expansion/When-To-Expand",
+      "total_words": 373,
+      "section_count": 13,
+      "subsection_count": 8
+    },
+    {
+      "file": "expansion/Progression-Stalled",
+      "total_words": 441,
+      "section_count": 14,
+      "subsection_count": 3
+    },
+    {
+      "file": "expansion/Expansion-Guide",
+      "total_words": 505,
+      "section_count": 13,
+      "subsection_count": 3
+    },
+    {
+      "file": "codes/Update-2-Codes",
+      "total_words": 556,
+      "section_count": 16,
+      "subsection_count": 5
+    },
+    {
+      "file": "guides/Fastest-Progression",
+      "total_words": 579,
+      "section_count": 15,
+      "subsection_count": 3
+    },
+    {
+      "file": "expansion/Rebirth-Prestige",
+      "total_words": 594,
+      "section_count": 15,
+      "subsection_count": 3
+    },
+    {
+      "file": "codes/Why-No-Codes",
+      "total_words": 620,
+      "section_count": 15,
+      "subsection_count": 3
+    },
+    {
+      "file": "updates/Reviews-And-Rating",
+      "total_words": 627,
+      "section_count": 14,
+      "subsection_count": 3
+    },
+    {
+      "file": "updates/Update-2-Overview",
+      "total_words": 635,
+      "section_count": 14,
+      "subsection_count": 3
+    },
+    {
+      "file": "updates/Stats-And-Popularity",
+      "total_words": 672,
+      "section_count": 14,
+      "subsection_count": 4
+    },
+    {
+      "file": "codes/No-Codes-Yet",
+      "total_words": 704,
+      "section_count": 12,
+      "subsection_count": 3
+    },
+    {
+      "file": "updates/Release-Date",
+      "total_words": 806,
+      "section_count": 14,
+      "subsection_count": 3
+    }
+  ]
+}

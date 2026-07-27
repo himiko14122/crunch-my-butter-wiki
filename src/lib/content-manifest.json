@@ -2156,18 +2156,6 @@
         "text": "Speed Trap Diagnostic"
       },
       {
-        "id": "speed-phase-cheat-sheet",
-        "text": "Speed Phase Cheat Sheet"
-      },
-      {
-        "id": "speed-habit-stack",
-        "text": "Speed Habit Stack"
-      },
-      {
-        "id": "progression-phases-at-a-glance",
-        "text": "Progression Phases At A Glance"
-      },
-      {
         "id": "speed-run-spending-order",
         "text": "Speed Run Spending Order"
       },
@@ -2586,18 +2574,6 @@
         "text": "The Full Redeem Lifecycle"
       },
       {
-        "id": "status-at-redemption-time",
-        "text": "Status at Redemption Time"
-      },
-      {
-        "id": "red-flags-redemption-context",
-        "text": "Red Flags: Redemption Context"
-      },
-      {
-        "id": "standard-roblox-redeem-pattern",
-        "text": "Standard Roblox Redeem Pattern"
-      },
-      {
         "id": "roblox-code-redeem-pattern",
         "text": "Roblox Code Redeem Pattern"
       },
@@ -2648,18 +2624,6 @@
         "text": "How the Redeem Process Would Work"
       },
       {
-        "id": "code-status-today",
-        "text": "Code Status Today"
-      },
-      {
-        "id": "red-flags-to-recognize",
-        "text": "Red Flags to Recognize"
-      },
-      {
-        "id": "code-status-matrix",
-        "text": "Code Status Matrix"
-      },
-      {
         "id": "code-status-reference",
         "text": "Code Status Reference"
       },
@@ -2690,32 +2654,12 @@
         "text": "Fake-List Risk for Predicted"
       },
       {
-        "id": "the-most-likely-code-additions",
-        "text": "The Most Likely Code Additions"
-      },
-      {
         "id": "what-the-wiki-will-do",
         "text": "What the Wiki Will Do"
       },
       {
-        "id": "long-view-of-predicted-codes",
-        "text": "Long View of Predicted Codes"
-      },
-      {
         "id": "predicted-redeem-pattern",
         "text": "Predicted Redeem Pattern"
-      },
-      {
-        "id": "predicted-status-matrix",
-        "text": "Predicted Status Matrix"
-      },
-      {
-        "id": "red-flags-around-predicted-codes",
-        "text": "Red Flags Around Predicted Codes"
-      },
-      {
-        "id": "what-a-predicted-crunch-my-butter-code-would-reward",
-        "text": "What a Predicted Crunch My Butter Code Would Reward"
       },
       {
         "id": "how-the-wiki-will-handle-a-real-code-drop",
@@ -2790,18 +2734,6 @@
       {
         "id": "redeem-lifecycle-why-empty",
         "text": "Redeem Lifecycle: Why Empty"
-      },
-      {
-        "id": "status-why-empty",
-        "text": "Status Why Empty"
-      },
-      {
-        "id": "red-flags-from-the-gap",
-        "text": "Red Flags From the Gap"
-      },
-      {
-        "id": "what-a-working-code-would-look-like",
-        "text": "What a Working Code Would Look Like"
       },
       {
         "id": "why-the-wiki-does-not-publish-a-code-list",
@@ -2928,18 +2860,6 @@
         "text": "Order-of-Unlock Reference"
       },
       {
-        "id": "cross-flavor-reference-table",
-        "text": "Cross-Flavor Reference Table"
-      },
-      {
-        "id": "flavor-vs-roller-reference",
-        "text": "Flavor vs Roller Reference"
-      },
-      {
-        "id": "flavor-tier-reference-table",
-        "text": "Flavor Tier Reference Table"
-      },
-      {
         "id": "per-flavor-decision-matrix",
         "text": "Per-Flavor Decision Matrix"
       },
@@ -2990,18 +2910,6 @@
         "text": "Decision Tree of Unlocks"
       },
       {
-        "id": "tier-reference-per-step",
-        "text": "Tier Reference Per Step"
-      },
-      {
-        "id": "per-step-track-trade-off",
-        "text": "Per-Step Track Trade-Off"
-      },
-      {
-        "id": "stepwise-unlock-path",
-        "text": "Stepwise Unlock Path"
-      },
-      {
         "id": "stepwise-unlock-path",
         "text": "Stepwise Unlock Path"
       },
@@ -3032,14 +2940,6 @@
         "text": "Flavor vs Roller Spending Order"
       },
       {
-        "id": "roller-as-buying-signal",
-        "text": "Roller as Buying Signal"
-      },
-      {
-        "id": "cross-track-payback-math",
-        "text": "Cross-Track Payback Math"
-      },
-      {
         "id": "the-roi-comparison",
         "text": "The ROI Comparison"
       },
@@ -3066,18 +2966,6 @@
       {
         "id": "two-track-unlock-logic",
         "text": "Two-Track Unlock Logic"
-      },
-      {
-        "id": "flavor-tier-in-trade-context",
-        "text": "Flavor Tier in Trade Context"
-      },
-      {
-        "id": "spend-flavor-or-spend-roller",
-        "text": "Spend Flavor or Spend Roller"
-      },
-      {
-        "id": "the-cross-track-trade-off-in-practice",
-        "text": "The Cross-Track Trade-Off In Practice"
       },
       {
         "id": "the-two-track-balance",
@@ -3140,18 +3028,6 @@
       {
         "id": "the-unlock-decision-tree",
         "text": "The Unlock Decision Tree"
-      },
-      {
-        "id": "the-butter-flavor-tier-reference",
-        "text": "The Butter Flavor Tier Reference"
-      },
-      {
-        "id": "the-butter-vs-roller-decision-matrix",
-        "text": "The Butter vs Roller Decision Matrix"
-      },
-      {
-        "id": "salted-butter-specs",
-        "text": "Salted Butter Specs"
       },
       {
         "id": "salted-butter-specs",
@@ -3548,18 +3424,6 @@
         "text": "Auto-Collect Anti-Pattern Diagnostic"
       },
       {
-        "id": "auto-collect-cpm-stack",
-        "text": "Auto-Collect CPM Stack"
-      },
-      {
-        "id": "collection-pass-trade-off-vs-logout-trade-off",
-        "text": "Collection-Pass Trade-Off vs Logout Trade-Off"
-      },
-      {
-        "id": "auto-collect-vs-manual-sweep",
-        "text": "Auto-Collect Vs Manual Sweep"
-      },
-      {
         "id": "auto-collect-method-comparison",
         "text": "Auto-Collect Method Comparison"
       },
@@ -3626,18 +3490,6 @@
         "text": "Beginner Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "layered-cpm-optimization",
-        "text": "Layered CPM Optimization"
-      },
-      {
-        "id": "session-length-trade-off-for-beginners",
-        "text": "Session Length Trade-Off for Beginners"
-      },
-      {
-        "id": "reinvestment-cadence",
-        "text": "Reinvestment Cadence"
-      },
-      {
         "id": "reinvestment-cadence-reference",
         "text": "Reinvestment Cadence Reference"
       },
@@ -3700,18 +3552,6 @@
         "text": "Speed-Run Cash Anti-Pattern Diagnostic"
       },
       {
-        "id": "stacked-speed-tactics",
-        "text": "Stacked Speed Tactics"
-      },
-      {
-        "id": "speed-run-vs-long-run-session-trade-off",
-        "text": "Speed-Run vs Long-Run Session Trade-Off"
-      },
-      {
-        "id": "raw-cpm-benchmarks",
-        "text": "Raw CPM Benchmarks"
-      },
-      {
         "id": "cpm-by-configuration",
         "text": "CPM By Configuration"
       },
@@ -3764,18 +3604,6 @@
       {
         "id": "glitch-vs-legit-cash-anti-pattern-diagnostic",
         "text": "Glitch vs Legit Cash Anti-Pattern Diagnostic"
-      },
-      {
-        "id": "legit-stack-over-glitch",
-        "text": "Legit Stack Over Glitch"
-      },
-      {
-        "id": "glitch-vs-legit-session-length-trade-off",
-        "text": "Glitch vs Legit Session Length Trade-Off"
-      },
-      {
-        "id": "glitch-categories",
-        "text": "Glitch Categories"
       },
       {
         "id": "glitch-reality-check",
@@ -3844,24 +3672,8 @@
         "text": "Tips After August 1"
       },
       {
-        "id": "long-term-discipline-of-tip-based-cash-paths",
-        "text": "Long-Term Discipline of Tip-Based Cash Paths"
-      },
-      {
         "id": "advanced-cash-anti-pattern-diagnostic",
         "text": "Advanced Cash Anti-Pattern Diagnostic"
-      },
-      {
-        "id": "tip-stacked-cpm-gains",
-        "text": "Tip-Stacked CPM Gains"
-      },
-      {
-        "id": "tips-based-session-length-trade-off",
-        "text": "Tips-Based Session Length Trade-Off"
-      },
-      {
-        "id": "tip-6-the-session-reset-pattern",
-        "text": "Tip 6: The Session Reset Pattern"
       },
       {
         "id": "tip-7-the-reinvestment-threshold",
@@ -3984,18 +3796,6 @@
         "text": "Pre-Purchase Verification Table"
       },
       {
-        "id": "when-to-buy-vs-wait-reference",
-        "text": "When to Buy vs Wait Reference"
-      },
-      {
-        "id": "income-shift-per-expansion-track",
-        "text": "Income Shift Per Expansion Track"
-      },
-      {
-        "id": "expansion-effect-on-income",
-        "text": "Expansion Effect On Income"
-      },
-      {
         "id": "expansion-readiness-checklist",
         "text": "Expansion Readiness Checklist"
       },
@@ -4032,18 +3832,6 @@
       {
         "id": "breaking-out-of-the-stall",
         "text": "Breaking Out of the Stall"
-      },
-      {
-        "id": "stall-diagnostic-reference",
-        "text": "Stall Diagnostic Reference"
-      },
-      {
-        "id": "stall-decision-reference",
-        "text": "Stall Decision Reference"
-      },
-      {
-        "id": "income-floor-in-a-stall",
-        "text": "Income Floor in a Stall"
       },
       {
         "id": "stall-diagnostic-reference",
@@ -4116,18 +3904,6 @@
         "text": "Additive Path Reference Table"
       },
       {
-        "id": "no-reset-spending-reference",
-        "text": "No-Reset Spending Reference"
-      },
-      {
-        "id": "income-from-additive-path",
-        "text": "Income From Additive Path"
-      },
-      {
-        "id": "why-rebirth-is-not-confirmed",
-        "text": "Why Rebirth Is Not Confirmed"
-      },
-      {
         "id": "three-independent-confirmations",
         "text": "Three Independent Confirmations"
       },
@@ -4158,10 +3934,6 @@
         "text": "Is Your Roller Keeping Up?"
       },
       {
-        "id": "the-expansion-cost-analysis",
-        "text": "The Expansion Cost Analysis"
-      },
-      {
         "id": "the-payback-period",
         "text": "The Payback Period"
       },
@@ -4176,34 +3948,6 @@
       {
         "id": "late-tier-floor-timing",
         "text": "Late-Tier Floor Timing"
-      },
-      {
-        "id": "august-1-expansion-possibilities",
-        "text": "August 1 Expansion Possibilities"
-      },
-      {
-        "id": "pitfalls-in-buying-floor-space",
-        "text": "Pitfalls in Buying Floor Space"
-      },
-      {
-        "id": "long-horizon-floor-decisions",
-        "text": "Long-Horizon Floor Decisions"
-      },
-      {
-        "id": "buy-now-verification-reference",
-        "text": "Buy-Now Verification Reference"
-      },
-      {
-        "id": "spend-or-defer-comparison",
-        "text": "Spend or Defer Comparison"
-      },
-      {
-        "id": "cpm-shift-per-floor-purchase",
-        "text": "CPM Shift Per Floor Purchase"
-      },
-      {
-        "id": "reading-the-in-game-expansion-prompt",
-        "text": "Reading the In-Game Expansion Prompt"
       },
       {
         "id": "per-tier-floor-expansion-costs",
@@ -4632,18 +4376,6 @@
         "text": "Alerts for Release Day"
       },
       {
-        "id": "detailed-release-timeline",
-        "text": "Detailed Release Timeline"
-      },
-      {
-        "id": "snapshot-at-release-time",
-        "text": "Snapshot at Release Time"
-      },
-      {
-        "id": "update-timeline",
-        "text": "Update Timeline"
-      },
-      {
         "id": "notification-setup-reference",
         "text": "Notification Setup Reference"
       },
@@ -4702,18 +4434,6 @@
         "text": "Alerts for Review Updates"
       },
       {
-        "id": "review-activity-timeline",
-        "text": "Review Activity Timeline"
-      },
-      {
-        "id": "live-stats-in-reviews",
-        "text": "Live Stats in Reviews"
-      },
-      {
-        "id": "sentiment-by-source",
-        "text": "Sentiment By Source"
-      },
-      {
         "id": "comparison-to-similar-simulators",
         "text": "Comparison To Similar Simulators"
       },
@@ -4768,24 +4488,8 @@
         "text": "Crunch My Butter vs Others"
       },
       {
-        "id": "long-view-of-the-numbers",
-        "text": "Long View of the Numbers"
-      },
-      {
         "id": "tracking-number-changes",
         "text": "Tracking Number Changes"
-      },
-      {
-        "id": "numbers-across-timeline",
-        "text": "Numbers Across Timeline"
-      },
-      {
-        "id": "live-stats-snapshot-detail",
-        "text": "Live Stats Snapshot Detail"
-      },
-      {
-        "id": "live-stats-snapshot",
-        "text": "Live Stats Snapshot"
       },
       {
         "id": "comparison-to-other-simulators",
@@ -4844,18 +4548,6 @@
       {
         "id": "how-to-get-notified-for-drop",
         "text": "How to Get Notified for Drop"
-      },
-      {
-        "id": "update-2-timing-window",
-        "text": "Update 2 Timing Window"
-      },
-      {
-        "id": "live-numbers-going-in",
-        "text": "Live Numbers Going In"
-      },
-      {
-        "id": "confirmed-update-2-details",
-        "text": "Confirmed Update 2 Details"
       },
       {
         "id": "confirmed-update-2-reference",
@@ -5114,18 +4806,6 @@
       {
         "id": "การวินิจฉัยกับดักความเร็ว",
         "text": "การวินิจฉัยกับดักความเร็ว"
-      },
-      {
-        "id": "โพยสรุปขั้นตอนความเร็ว",
-        "text": "โพยสรุปขั้นตอนความเร็ว"
-      },
-      {
-        "id": "ชุดนิสัยสร้างความเร็ว",
-        "text": "ชุดนิสัยสร้างความเร็ว"
-      },
-      {
-        "id": "ภาพรวมขั้นตอนการพัฒนา",
-        "text": "ภาพรวมขั้นตอนการพัฒนา"
       },
       {
         "id": "ลำดับการใช้จ่ายสำหรับการสปีดรัน",
@@ -5596,18 +5276,6 @@
         "text": "กระบวนการแลกโค้ดจะเป็นอย่างไร"
       },
       {
-        "id": "สถานะโค้ดในปัจจุบัน",
-        "text": "สถานะโค้ดในปัจจุบัน"
-      },
-      {
-        "id": "สัญญาณเตือนที่ควรทราบ",
-        "text": "สัญญาณเตือนที่ควรทราบ"
-      },
-      {
-        "id": "ตารางสถานะโค้ด",
-        "text": "ตารางสถานะโค้ด"
-      },
-      {
         "id": "ข้อมูลอ้างอิงสถานะโค้ด",
         "text": "ข้อมูลอ้างอิงสถานะโค้ด"
       },
@@ -5638,32 +5306,12 @@
         "text": "ความเสี่ยงจากรายการปลอมสำหรับสิ่งที่คาดการณ์"
       },
       {
-        "id": "โค้ดที่มีโอกาสเพิ่มเข้ามามากที่สุด",
-        "text": "โค้ดที่มีโอกาสเพิ่มเข้ามามากที่สุด"
-      },
-      {
         "id": "สิ่งที่วิกิจะทำ",
         "text": "สิ่งที่วิกิจะทำ"
       },
       {
-        "id": "มุมมองระยะยาวของโค้ดที่คาดการณ์",
-        "text": "มุมมองระยะยาวของโค้ดที่คาดการณ์"
-      },
-      {
         "id": "รูปแบบการแลกโค้ดที่คาดการณ์",
         "text": "รูปแบบการแลกโค้ดที่คาดการณ์"
-      },
-      {
-        "id": "เมทริกซ์สถานะที่คาดการณ์",
-        "text": "เมทริกซ์สถานะที่คาดการณ์"
-      },
-      {
-        "id": "สัญญาณเตือนเกี่ยวกับโค้ดที่คาดการณ์",
-        "text": "สัญญาณเตือนเกี่ยวกับโค้ดที่คาดการณ์"
-      },
-      {
-        "id": "สิ่งที่โค้ด-crunch-my-butter-ที่คาดการณ์จะให้รางวัล",
-        "text": "สิ่งที่โค้ด Crunch My Butter ที่คาดการณ์จะให้รางวัล"
       },
       {
         "id": "วิธีที่วิกิจะจัดการกับการปล่อยโค้ดจริง",
@@ -5738,18 +5386,6 @@
       {
         "id": "วงจรชีวิตการแลกโค้ด-ทำไมถึงว่างเปล่า",
         "text": "วงจรชีวิตการแลกโค้ด: ทำไมถึงว่างเปล่า"
-      },
-      {
-        "id": "สถานะ-ทำไมถึงว่างเปล่า",
-        "text": "สถานะ ทำไมถึงว่างเปล่า"
-      },
-      {
-        "id": "สัญญาณเตือนจากช่องว่าง",
-        "text": "สัญญาณเตือนจากช่องว่าง"
-      },
-      {
-        "id": "โค้ดที่ใช้งานได้จริงจะมีหน้าตาเป็นอย่างไร",
-        "text": "โค้ดที่ใช้งานได้จริงจะมีหน้าตาเป็นอย่างไร"
       },
       {
         "id": "ทำไมวิกิถึงไม่เผยแพร่รายการโค้ด",
@@ -6796,18 +6432,6 @@
         "text": "ตารางการตรวจสอบก่อนซื้อ"
       },
       {
-        "id": "ข้อมูลอ้างอิงสำหรับการซื้อเทียบกับการรอ",
-        "text": "ข้อมูลอ้างอิงสำหรับการซื้อเทียบกับการรอ"
-      },
-      {
-        "id": "การเปลี่ยนแปลงของรายได้ต่อเส้นทางการขยายพื้นที่",
-        "text": "การเปลี่ยนแปลงของรายได้ต่อเส้นทางการขยายพื้นที่"
-      },
-      {
-        "id": "ผลกระทบของการขยายพื้นที่ต่อรายได้",
-        "text": "ผลกระทบของการขยายพื้นที่ต่อรายได้"
-      },
-      {
         "id": "รายการตรวจสอบความพร้อมในการขยายพื้นที่",
         "text": "รายการตรวจสอบความพร้อมในการขยายพื้นที่"
       },
@@ -6844,18 +6468,6 @@
       {
         "id": "การก้าวข้ามการหยุดชะงัก",
         "text": "การก้าวข้ามการหยุดชะงัก"
-      },
-      {
-        "id": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก",
-        "text": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก"
-      },
-      {
-        "id": "ข้อมูลอ้างอิงการตัดสินใจเมื่อหยุดชะงัก",
-        "text": "ข้อมูลอ้างอิงการตัดสินใจเมื่อหยุดชะงัก"
-      },
-      {
-        "id": "รายได้ขั้นต่ำในช่วงหยุดชะงัก",
-        "text": "รายได้ขั้นต่ำในช่วงหยุดชะงัก"
       },
       {
         "id": "ข้อมูลอ้างอิงการวินิจฉัยการหยุดชะงัก",
@@ -6928,18 +6540,6 @@
         "text": "ตารางอ้างอิงเส้นทางแบบสะสม"
       },
       {
-        "id": "ตารางอ้างอิงการใช้จ่ายแบบไม่รีเซ็ต",
-        "text": "ตารางอ้างอิงการใช้จ่ายแบบไม่รีเซ็ต"
-      },
-      {
-        "id": "รายได้จากเส้นทางแบบสะสม",
-        "text": "รายได้จากเส้นทางแบบสะสม"
-      },
-      {
-        "id": "เหตุผลที่ระบบ-rebirth-ยังไม่ได้รับการยืนยัน",
-        "text": "เหตุผลที่ระบบ Rebirth ยังไม่ได้รับการยืนยัน"
-      },
-      {
         "id": "การยืนยันอิสระสามประการ",
         "text": "การยืนยันอิสระสามประการ"
       },
@@ -6970,10 +6570,6 @@
         "text": "ลูกกลิ้งของคุณตามทันหรือไม่?"
       },
       {
-        "id": "การวิเคราะห์ต้นทุนการขยายพื้นที่",
-        "text": "การวิเคราะห์ต้นทุนการขยายพื้นที่"
-      },
-      {
         "id": "ระยะเวลาคืนทุน",
         "text": "ระยะเวลาคืนทุน"
       },
@@ -6988,34 +6584,6 @@
       {
         "id": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม",
         "text": "จังหวะเวลาการขยายพื้นที่ช่วงท้ายเกม"
-      },
-      {
-        "id": "ความเป็นไปได้ในการขยายพื้นที่วันที่-1-สิงหาคม",
-        "text": "ความเป็นไปได้ในการขยายพื้นที่วันที่ 1 สิงหาคม"
-      },
-      {
-        "id": "ข้อผิดพลาดในการซื้อพื้นที่พื้น",
-        "text": "ข้อผิดพลาดในการซื้อพื้นที่พื้น"
-      },
-      {
-        "id": "การตัดสินใจเรื่องพื้นที่ในระยะยาว",
-        "text": "การตัดสินใจเรื่องพื้นที่ในระยะยาว"
-      },
-      {
-        "id": "การอ้างอิงเพื่อตรวจสอบก่อนซื้อ",
-        "text": "การอ้างอิงเพื่อตรวจสอบก่อนซื้อ"
-      },
-      {
-        "id": "การเปรียบเทียบระหว่างการใช้จ่ายหรือรอ",
-        "text": "การเปรียบเทียบระหว่างการใช้จ่ายหรือรอ"
-      },
-      {
-        "id": "การเปลี่ยนแปลง-cpm-ต่อการซื้อพื้นที่หนึ่งครั้ง",
-        "text": "การเปลี่ยนแปลง CPM ต่อการซื้อพื้นที่หนึ่งครั้ง"
-      },
-      {
-        "id": "การอ่านข้อความแจ้งเตือนการขยายพื้นที่ในเกม",
-        "text": "การอ่านข้อความแจ้งเตือนการขยายพื้นที่ในเกม"
       },
       {
         "id": "ต้นทุนการขยายพื้นที่รายระดับ",
@@ -7432,18 +7000,6 @@
         "text": "การแจ้งเตือนสำหรับวันเปิดตัว"
       },
       {
-        "id": "ไทม์ไลน์การเปิดตัวโดยละเอียด",
-        "text": "ไทม์ไลน์การเปิดตัวโดยละเอียด"
-      },
-      {
-        "id": "สแน็ปช็อต-ณ-เวลาเปิดตัว",
-        "text": "สแน็ปช็อต ณ เวลาเปิดตัว"
-      },
-      {
-        "id": "ไทม์ไลน์การอัปเดต",
-        "text": "ไทม์ไลน์การอัปเดต"
-      },
-      {
         "id": "การตั้งค่าการแจ้งเตือน",
         "text": "การตั้งค่าการแจ้งเตือน"
       },
@@ -7502,18 +7058,6 @@
         "text": "การแจ้งเตือนสำหรับการอัปเดตรีวิว"
       },
       {
-        "id": "ไทม์ไลน์กิจกรรมรีวิว",
-        "text": "ไทม์ไลน์กิจกรรมรีวิว"
-      },
-      {
-        "id": "สถิติสดในรีวิว",
-        "text": "สถิติสดในรีวิว"
-      },
-      {
-        "id": "ความรู้สึกตามแหล่งที่มา",
-        "text": "ความรู้สึกตามแหล่งที่มา"
-      },
-      {
         "id": "เปรียบเทียบกับเกมจำลองที่คล้ายกัน",
         "text": "เปรียบเทียบกับเกมจำลองที่คล้ายกัน"
       },
@@ -7568,24 +7112,8 @@
         "text": "Crunch My Butter เทียบกับเกมอื่น"
       },
       {
-        "id": "มุมมองระยะยาวของตัวเลข",
-        "text": "มุมมองระยะยาวของตัวเลข"
-      },
-      {
         "id": "การติดตามการเปลี่ยนแปลงตัวเลข",
         "text": "การติดตามการเปลี่ยนแปลงตัวเลข"
-      },
-      {
-        "id": "ตัวเลขตลอดช่วงเวลา",
-        "text": "ตัวเลขตลอดช่วงเวลา"
-      },
-      {
-        "id": "รายละเอียดสแนปช็อตสถิติสด",
-        "text": "รายละเอียดสแนปช็อตสถิติสด"
-      },
-      {
-        "id": "สแนปช็อตสถิติสด",
-        "text": "สแนปช็อตสถิติสด"
       },
       {
         "id": "การเปรียบเทียบกับซิมมูเลเตอร์อื่น",
@@ -7644,18 +7172,6 @@
       {
         "id": "วิธีรับการแจ้งเตือนสำหรับดรอป",
         "text": "วิธีรับการแจ้งเตือนสำหรับดรอป"
-      },
-      {
-        "id": "ช่วงเวลาของ-update-2",
-        "text": "ช่วงเวลาของ Update 2"
-      },
-      {
-        "id": "ตัวเลขสดที่กำลังจะมาถึง",
-        "text": "ตัวเลขสดที่กำลังจะมาถึง"
-      },
-      {
-        "id": "รายละเอียด-update-2-ที่ได้รับการยืนยัน",
-        "text": "รายละเอียด Update 2 ที่ได้รับการยืนยัน"
       },
       {
         "id": "ข้อมูลอ้างอิง-update-2-ที่ได้รับการยืนยัน",
@@ -7914,18 +7430,6 @@
       {
         "id": "diagnóstico-de-trampa-de-velocidad",
         "text": "Diagnóstico de Trampa de Velocidad"
-      },
-      {
-        "id": "hoja-de-trucos-de-fase-de-velocidad",
-        "text": "Hoja de Trucos de Fase de Velocidad"
-      },
-      {
-        "id": "pila-de-hábitos-de-velocidad",
-        "text": "Pila de Hábitos de Velocidad"
-      },
-      {
-        "id": "fases-de-progresión-de-un-vistazo",
-        "text": "Fases de Progresión de un Vistazo"
       },
       {
         "id": "orden-de-gasto-de-speed-run",
@@ -8426,32 +7930,12 @@
         "text": "Riesgo de listas falsas para predicciones"
       },
       {
-        "id": "las-adiciones-de-códigos-más-probables",
-        "text": "Las adiciones de códigos más probables"
-      },
-      {
         "id": "lo-que-hará-la-wiki",
         "text": "Lo que hará la wiki"
       },
       {
-        "id": "perspectiva-a-largo-plazo-de-los-códigos-predichos",
-        "text": "Perspectiva a largo plazo de los códigos predichos"
-      },
-      {
         "id": "patrón-de-canje-predicho",
         "text": "Patrón de canje predicho"
-      },
-      {
-        "id": "matriz-de-estado-predicho",
-        "text": "Matriz de estado predicho"
-      },
-      {
-        "id": "banderas-rojas-sobre-los-códigos-predichos",
-        "text": "Banderas rojas sobre los códigos predichos"
-      },
-      {
-        "id": "qué-recompensaría-un-código-predicho-de-crunch-my-butter",
-        "text": "Qué recompensaría un código predicho de Crunch My Butter"
       },
       {
         "id": "cómo-manejará-la-wiki-un-lanzamiento-de-código-real",
@@ -8526,18 +8010,6 @@
       {
         "id": "ciclo-de-vida-de-canje-por-qué-está-vacío",
         "text": "Ciclo de vida de canje: Por qué está vacío"
-      },
-      {
-        "id": "estado-por-qué-está-vacío",
-        "text": "Estado: Por qué está vacío"
-      },
-      {
-        "id": "banderas-rojas-de-la-brecha",
-        "text": "Banderas rojas de la brecha"
-      },
-      {
-        "id": "cómo-sería-un-código-que-funciona",
-        "text": "Cómo sería un código que funciona"
       },
       {
         "id": "por-qué-la-wiki-no-publica-una-lista-de-códigos",
@@ -9464,24 +8936,8 @@
         "text": "Tips After August 1"
       },
       {
-        "id": "long-term-discipline-of-tip-based-cash-paths",
-        "text": "Long-Term Discipline of Tip-Based Cash Paths"
-      },
-      {
         "id": "advanced-cash-anti-pattern-diagnostic",
         "text": "Advanced Cash Anti-Pattern Diagnostic"
-      },
-      {
-        "id": "tip-stacked-cpm-gains",
-        "text": "Tip-Stacked CPM Gains"
-      },
-      {
-        "id": "tips-based-session-length-trade-off",
-        "text": "Tips-Based Session Length Trade-Off"
-      },
-      {
-        "id": "tip-6-the-session-reset-pattern",
-        "text": "Tip 6: The Session Reset Pattern"
       },
       {
         "id": "tip-7-the-reinvestment-threshold",
@@ -9604,18 +9060,6 @@
         "text": "Tabla de Verificación Previa a la Compra"
       },
       {
-        "id": "referencia-de-cuándo-comprar-vs-esperar",
-        "text": "Referencia de Cuándo Comprar vs Esperar"
-      },
-      {
-        "id": "cambio-de-ingresos-por-pista-de-expansión",
-        "text": "Cambio de Ingresos por Pista de Expansión"
-      },
-      {
-        "id": "efecto-de-la-expansión-en-los-ingresos",
-        "text": "Efecto de la Expansión en los Ingresos"
-      },
-      {
         "id": "lista-de-verificación-de-preparación-para-la-expansión",
         "text": "Lista de Verificación de Preparación para la Expansión"
       },
@@ -9652,18 +9096,6 @@
       {
         "id": "romper-el-estancamiento",
         "text": "Romper el Estancamiento"
-      },
-      {
-        "id": "referencia-de-diagnóstico-de-estancamiento",
-        "text": "Referencia de Diagnóstico de Estancamiento"
-      },
-      {
-        "id": "referencia-de-decisión-de-estancamiento",
-        "text": "Referencia de Decisión de Estancamiento"
-      },
-      {
-        "id": "suelo-de-ingresos-en-un-estancamiento",
-        "text": "Suelo de Ingresos en un Estancamiento"
       },
       {
         "id": "referencia-de-diagnóstico-de-estancamiento",
@@ -9736,18 +9168,6 @@
         "text": "Tabla de referencia de la ruta aditiva"
       },
       {
-        "id": "referencia-de-gasto-sin-reinicio",
-        "text": "Referencia de gasto sin reinicio"
-      },
-      {
-        "id": "ingresos-de-la-ruta-aditiva",
-        "text": "Ingresos de la ruta aditiva"
-      },
-      {
-        "id": "por-qué-el-rebirth-no-está-confirmado",
-        "text": "Por qué el Rebirth no está confirmado"
-      },
-      {
         "id": "tres-confirmaciones-independientes",
         "text": "Tres confirmaciones independientes"
       },
@@ -9778,10 +9198,6 @@
         "text": "¿Tu Rodillo Está al Día?"
       },
       {
-        "id": "el-análisis-de-costo-de-expansión",
-        "text": "El Análisis de Costo de Expansión"
-      },
-      {
         "id": "el-periodo-de-recuperación",
         "text": "El Periodo de Recuperación"
       },
@@ -9796,34 +9212,6 @@
       {
         "id": "sincronización-del-suelo-de-nivel-tardío",
         "text": "Sincronización del Suelo de Nivel Tardío"
-      },
-      {
-        "id": "posibilidades-de-expansión-el-1-de-agosto",
-        "text": "Posibilidades de Expansión el 1 de Agosto"
-      },
-      {
-        "id": "errores-al-comprar-espacio-de-suelo",
-        "text": "Errores al Comprar Espacio de Suelo"
-      },
-      {
-        "id": "decisiones-de-suelo-a-largo-plazo",
-        "text": "Decisiones de Suelo a Largo Plazo"
-      },
-      {
-        "id": "referencia-de-verificación-de-compra-ahora",
-        "text": "Referencia de Verificación de Compra Ahora"
-      },
-      {
-        "id": "comparación-de-gastar-o-diferir",
-        "text": "Comparación de Gastar o Diferir"
-      },
-      {
-        "id": "cambio-de-cpm-por-compra-de-suelo",
-        "text": "Cambio de CPM por Compra de Suelo"
-      },
-      {
-        "id": "leer-el-prompt-de-expansión-en-el-juego",
-        "text": "Leer el Prompt de Expansión en el Juego"
       },
       {
         "id": "costos-de-expansión-de-suelo-por-nivel",
@@ -10252,18 +9640,6 @@
         "text": "Alertas para el Día del Lanzamiento"
       },
       {
-        "id": "cronología-detallada-del-lanzamiento",
-        "text": "Cronología Detallada del Lanzamiento"
-      },
-      {
-        "id": "captura-en-el-momento-del-lanzamiento",
-        "text": "Captura en el Momento del Lanzamiento"
-      },
-      {
-        "id": "cronología-de-actualizaciones",
-        "text": "Cronología de Actualizaciones"
-      },
-      {
         "id": "referencia-de-configuración-de-notificaciones",
         "text": "Referencia de Configuración de Notificaciones"
       },
@@ -10322,18 +9698,6 @@
         "text": "Alertas para actualizaciones de reseñas"
       },
       {
-        "id": "cronología-de-la-actividad-de-reseñas",
-        "text": "Cronología de la actividad de reseñas"
-      },
-      {
-        "id": "estadísticas-en-vivo-en-las-reseñas",
-        "text": "Estadísticas en vivo en las reseñas"
-      },
-      {
-        "id": "sentimiento-por-fuente",
-        "text": "Sentimiento por fuente"
-      },
-      {
         "id": "comparación-con-simuladores-similares",
         "text": "Comparación con simuladores similares"
       },
@@ -10388,24 +9752,8 @@
         "text": "Crunch My Butter vs Otros"
       },
       {
-        "id": "visión-a-largo-plazo-de-los-números",
-        "text": "Visión a largo plazo de los números"
-      },
-      {
         "id": "seguimiento-de-los-cambios-numéricos",
         "text": "Seguimiento de los cambios numéricos"
-      },
-      {
-        "id": "números-a-través-de-la-línea-de-tiempo",
-        "text": "Números a través de la línea de tiempo"
-      },
-      {
-        "id": "detalle-de-la-instantánea-de-estadísticas-en-vivo",
-        "text": "Detalle de la instantánea de estadísticas en vivo"
-      },
-      {
-        "id": "instantánea-de-estadísticas-en-vivo",
-        "text": "Instantánea de estadísticas en vivo"
       },
       {
         "id": "comparación-con-otros-simuladores",
@@ -10464,18 +9812,6 @@
       {
         "id": "cómo-recibir-una-notificación-del-lanzamiento",
         "text": "Cómo Recibir una Notificación del Lanzamiento"
-      },
-      {
-        "id": "ventana-de-tiempo-de-la-actualización-2",
-        "text": "Ventana de Tiempo de la Actualización 2"
-      },
-      {
-        "id": "números-en-vivo-antes-del-evento",
-        "text": "Números en Vivo Antes del Evento"
-      },
-      {
-        "id": "detalles-confirmados-de-la-actualización-2",
-        "text": "Detalles Confirmados de la Actualización 2"
       },
       {
         "id": "referencia-confirmada-de-la-actualización-2",
@@ -10734,18 +10070,6 @@
       {
         "id": "diagnóstico-de-armadilha-de-velocidade",
         "text": "Diagnóstico de Armadilha de Velocidade"
-      },
-      {
-        "id": "folha-de-dicas-de-fase-de-velocidade",
-        "text": "Folha de Dicas de Fase de Velocidade"
-      },
-      {
-        "id": "pilha-de-hábitos-de-velocidade",
-        "text": "Pilha de Hábitos de Velocidade"
-      },
-      {
-        "id": "fases-de-progressão-em-um-relance",
-        "text": "Fases de Progressão em um Relance"
       },
       {
         "id": "ordem-de-gastos-de-speed-run",
@@ -11216,18 +10540,6 @@
         "text": "Como Funcionaria o Processo de Resgate"
       },
       {
-        "id": "status-dos-códigos-hoje",
-        "text": "Status dos Códigos Hoje"
-      },
-      {
-        "id": "sinais-de-alerta-para-reconhecer",
-        "text": "Sinais de Alerta para Reconhecer"
-      },
-      {
-        "id": "matriz-de-status-dos-códigos",
-        "text": "Matriz de Status dos Códigos"
-      },
-      {
         "id": "referência-do-status-dos-códigos",
         "text": "Referência do Status dos Códigos"
       },
@@ -11258,32 +10570,12 @@
         "text": "Risco de Listas Falsas para Previsões"
       },
       {
-        "id": "as-adições-de-códigos-mais-prováveis",
-        "text": "As Adições de Códigos Mais Prováveis"
-      },
-      {
         "id": "o-que-a-wiki-fará",
         "text": "O que a Wiki Fará"
       },
       {
-        "id": "visão-de-longo-prazo-dos-códigos-previstos",
-        "text": "Visão de Longo Prazo dos Códigos Previstos"
-      },
-      {
         "id": "padrão-de-resgate-previsto",
         "text": "Padrão de Resgate Previsto"
-      },
-      {
-        "id": "matriz-de-status-previsto",
-        "text": "Matriz de Status Previsto"
-      },
-      {
-        "id": "sinais-de-alerta-sobre-códigos-previstos",
-        "text": "Sinais de Alerta sobre Códigos Previstos"
-      },
-      {
-        "id": "o-que-um-código-previsto-de-crunch-my-butter-recompensaria",
-        "text": "O que um Código Previsto de Crunch My Butter Recompensaria"
       },
       {
         "id": "como-a-wiki-lidará-com-um-lançamento-real-de-código",
@@ -11358,18 +10650,6 @@
       {
         "id": "ciclo-de-vida-de-resgate-por-que-vazio",
         "text": "Ciclo de Vida de Resgate: Por que Vazio"
-      },
-      {
-        "id": "status-por-que-vazio",
-        "text": "Status Por que Vazio"
-      },
-      {
-        "id": "sinais-de-alerta-da-lacuna",
-        "text": "Sinais de Alerta da Lacuna"
-      },
-      {
-        "id": "como-seria-um-código-funcional",
-        "text": "Como seria um código funcional"
       },
       {
         "id": "por-que-a-wiki-não-publica-uma-lista-de-códigos",
@@ -12416,18 +11696,6 @@
         "text": "Tabela de Verificação Pré-Compra"
       },
       {
-        "id": "referência-de-quando-comprar-vs-esperar",
-        "text": "Referência de Quando Comprar vs. Esperar"
-      },
-      {
-        "id": "mudança-de-renda-por-trilha-de-expansão",
-        "text": "Mudança de Renda por Trilha de Expansão"
-      },
-      {
-        "id": "efeito-da-expansão-na-renda",
-        "text": "Efeito da Expansão na Renda"
-      },
-      {
         "id": "lista-de-verificação-de-prontidão-para-expansão",
         "text": "Lista de Verificação de Prontidão para Expansão"
       },
@@ -12464,18 +11732,6 @@
       {
         "id": "saindo-do-travamento",
         "text": "Saindo do Travamento"
-      },
-      {
-        "id": "referência-de-diagnóstico-de-travamento",
-        "text": "Referência de Diagnóstico de Travamento"
-      },
-      {
-        "id": "referência-de-decisão-de-travamento",
-        "text": "Referência de Decisão de Travamento"
-      },
-      {
-        "id": "chão-de-renda-em-um-travamento",
-        "text": "Chão de Renda em um Travamento"
       },
       {
         "id": "referência-de-diagnóstico-de-travamento",
@@ -12548,18 +11804,6 @@
         "text": "Tabela de Referência do Caminho Aditivo"
       },
       {
-        "id": "referência-de-gastos-sem-reset",
-        "text": "Referência de Gastos Sem Reset"
-      },
-      {
-        "id": "renda-do-caminho-aditivo",
-        "text": "Renda do Caminho Aditivo"
-      },
-      {
-        "id": "por-que-o-rebirth-não-está-confirmado",
-        "text": "Por que o Rebirth não está Confirmado"
-      },
-      {
         "id": "três-confirmações-independentes",
         "text": "Três Confirmações Independentes"
       },
@@ -12590,10 +11834,6 @@
         "text": "O Seu Rolo Está Acompanhando?"
       },
       {
-        "id": "a-análise-de-custo-de-expansão",
-        "text": "A Análise de Custo de Expansão"
-      },
-      {
         "id": "o-período-de-retorno",
         "text": "O Período de Retorno"
       },
@@ -12608,34 +11848,6 @@
       {
         "id": "momento-do-piso-de-nível-final",
         "text": "Momento do Piso de Nível Final"
-      },
-      {
-        "id": "possibilidades-de-expansão-em-1º-de-agosto",
-        "text": "Possibilidades de Expansão em 1º de Agosto"
-      },
-      {
-        "id": "armadilhas-na-compra-de-espaço-no-piso",
-        "text": "Armadilhas na Compra de Espaço no Piso"
-      },
-      {
-        "id": "decisões-de-piso-de-longo-prazo",
-        "text": "Decisões de Piso de Longo Prazo"
-      },
-      {
-        "id": "referência-de-verificação-de-compra-imediata",
-        "text": "Referência de Verificação de Compra Imediata"
-      },
-      {
-        "id": "comparação-de-gasto-ou-adiamento",
-        "text": "Comparação de Gasto ou Adiamento"
-      },
-      {
-        "id": "mudança-de-cpm-por-compra-de-piso",
-        "text": "Mudança de CPM por Compra de Piso"
-      },
-      {
-        "id": "lendo-o-prompt-de-expansão-no-jogo",
-        "text": "Lendo o Prompt de Expansão no Jogo"
       },
       {
         "id": "custos-de-expansão-de-piso-por-nível",
@@ -13064,18 +12276,6 @@
         "text": "Alertas para o Dia de Lançamento"
       },
       {
-        "id": "cronograma-detalhado-de-lançamento",
-        "text": "Cronograma Detalhado de Lançamento"
-      },
-      {
-        "id": "snapshot-no-momento-do-lançamento",
-        "text": "Snapshot no Momento do Lançamento"
-      },
-      {
-        "id": "cronograma-de-atualizações",
-        "text": "Cronograma de Atualizações"
-      },
-      {
         "id": "referência-de-configuração-de-notificação",
         "text": "Referência de Configuração de Notificação"
       },
@@ -13134,18 +12334,6 @@
         "text": "Alertas para Atualizações de Avaliação"
       },
       {
-        "id": "linha-do-tempo-de-atividade-de-avaliação",
-        "text": "Linha do Tempo de Atividade de Avaliação"
-      },
-      {
-        "id": "estatísticas-ao-vivo-nas-avaliações",
-        "text": "Estatísticas ao Vivo nas Avaliações"
-      },
-      {
-        "id": "sentimento-por-fonte",
-        "text": "Sentimento Por Fonte"
-      },
-      {
         "id": "comparação-com-similadores",
         "text": "Comparação Com Similadores"
       },
@@ -13200,24 +12388,8 @@
         "text": "Crunch My Butter vs Outros"
       },
       {
-        "id": "visão-de-longo-prazo-dos-números",
-        "text": "Visão de Longo Prazo dos Números"
-      },
-      {
         "id": "rastreamento-de-mudanças-nos-números",
         "text": "Rastreamento de Mudanças nos Números"
-      },
-      {
-        "id": "números-ao-longo-da-linha-do-tempo",
-        "text": "Números ao Longo da Linha do Tempo"
-      },
-      {
-        "id": "detalhe-do-instantâneo-de-estatísticas-ao-vivo",
-        "text": "Detalhe do Instantâneo de Estatísticas ao Vivo"
-      },
-      {
-        "id": "instantâneo-de-estatísticas-ao-vivo",
-        "text": "Instantâneo de Estatísticas ao Vivo"
       },
       {
         "id": "comparação-com-outros-simuladores",
@@ -13276,18 +12448,6 @@
       {
         "id": "como-receber-notificação-do-lançamento",
         "text": "Como Receber Notificação do Lançamento"
-      },
-      {
-        "id": "janela-de-tempo-da-atualização-2",
-        "text": "Janela de Tempo da Atualização 2"
-      },
-      {
-        "id": "números-ao-vivo-na-entrada",
-        "text": "Números ao Vivo na Entrada"
-      },
-      {
-        "id": "detalhes-confirmados-da-atualização-2",
-        "text": "Detalhes Confirmados da Atualização 2"
       },
       {
         "id": "referência-confirmada-da-atualização-2",
